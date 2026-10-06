@@ -1,0 +1,1719 @@
+monomer_name_raw,smiles_raw,smiles_canonical,inchikey,monomer_id,manual_review_flag
+Acenaphthalene,c1cc2cccc3C=Cc(c1)c23,C1=Cc2cccc3cccc1c23,HXGDTGSAIMULJN,M0000,False
+"Acetamide, N-(4-methacryloyloxyphenyl)-",CC(=O)Nc1ccc(OC(=O)C(C)=C)cc1,C=C(C)C(=O)Oc1ccc(NC(C)=O)cc1,PZJZQKCKFRXTMP,M0001,False
+"Acetamide, N-vinyl-",CC(=O)NC=C,C=CNC(C)=O,RQAKESSLMFZVMC,M0002,False
+"Acetanilide, 4-(2-methacryloyloxy)-",CC(=C)C(=O)OC1=CC=C(C=C1)NC(=O)C,C=C(C)C(=O)Oc1ccc(NC(C)=O)cc1,PZJZQKCKFRXTMP,M0003,False
+"Acetate, 2-chloro-, vinyl",ClCC(=O)OC=C,C=COC(=O)CCl,XJELOQYISYPGDX,M0004,False
+"Acetate, allyl",CC(=O)OCC=C,C=CCOC(C)=O,FWZUNOYOVVKUNF,M0005,False
+"Acetate, chloro-, allyl",ClCC(=O)OCC=C,C=CCOC(=O)CCl,VMBJJCDVORDOCF,M0006,False
+"Acetate, dichloro-, allyl",ClC(Cl)C(=O)OCC=C,C=CCOC(=O)C(Cl)Cl,UJUPTENXDPFFDP,M0007,False
+"Acetate, isopropenyl",CC(=C)OC(C)=O,C=C(C)OC(C)=O,HETCEOQFVDFGSY,M0008,False
+"Acetate, trichloro-, allyl",ClC(Cl)(Cl)C(=O)OCC=C,C=CCOC(=O)C(Cl)(Cl)Cl,LJQCONXCOYBYIE,M0009,False
+"Aconitate, trimethyl",COC(=O)CC(=CC(=O)OC)C(=O)OC,COC(=O)C=C(CC(=O)OC)C(=O)OC,DZAIBGWGBBQGPZ,M0010,False
+Acrolein,C=CC=O,C=CC=O,HGINCPLSRVDWNT,M0011,False
+Acrolein diethylacetal,CCOC(OCC)C=C,C=CC(OCC)OCC,MCIPQLOKVXSHTD,M0012,False
+"Acrolein, methyl-",CC(=O)C=C,C=CC(C)=O,FUSUHKVFWTUUBE,M0013,False
+"Acrolein, 2-chloro-",ClC(=C)C=O,C=C(Cl)C=O,ZWHANXMMZRUTAY,M0014,False
+Acrylamide,NC(=O)C=C,C=CC(N)=O,HRPVXLWXLXDGHG,M0015,False
+"Acrylamide, 2-chloro-N,N-dimethyl-",CN(C)C(=O)C(Cl)=C,C=C(Cl)C(=O)N(C)C,VRSNHMDUNQDWHI,M0016,False
+"Acrylamide, N,N-dibutyl-",CCCCN(CCCC)C(=O)C=C,C=CC(=O)N(CCCC)CCCC,DLJMSHXCPBXOKX,M0017,False
+"Acrylamide, N,N-diethyl-",CCN(CC)C(=O)C=C,C=CC(=O)N(CC)CC,OVHHHVAVHBHXAK,M0018,False
+"Acrylamide, N,N-dimethyl-",CN(C)C(=O)C=C,C=CC(=O)N(C)C,YLGYACDQVQQZSW,M0019,False
+"Acrylamide, N-(2-(4-hydroxyphenyl)ethyl)-",Oc1ccc(CCNC(=O)C=C)cc1,C=CC(=O)NCCc1ccc(O)cc1,UQGJFSMHOWCDHE,M0020,False
+"Acrylamide, N-(2-(propionamide)-",C=CC(=O)NCCN,C=CC(=O)NCCN,HXJGFDIZSMWOGY,M0021,False
+"Acrylamide, N-methyl-",CNC(=O)C=C,C=CC(=O)NC,YPHQUSNPXDGUHL,M0022,False
+"Acrylamide, N-methylol",OCNC(=O)C=C,C=CC(=O)NCO,CNCOEDDPFOAUMB,M0023,False
+"Acrylamide, N-octadecyl-",CCCCCCCCCCCCCCCCCCNC(=O)C=C,C=CC(=O)NCCCCCCCCCCCCCCCCCC,CNWVYEGPPMQTKA,M0024,False
+"Acrylamide, N-octyl-",CCCCCCCCNC(=O)C=C,C=CC(=O)NCCCCCCCC,AWGZKFQMWZYCHF,M0025,False
+"Acrylamide, N-propyl-",CCCNC(=O)C=C,C=CC(=O)NCCC,WDFKEEALECCKTJ,M0026,False
+"Acrylamide, a-fluoro-",CC(C1=CC(=C(C=C1)F)N2CCOCC2)NC(=O)C=CC3=CC=C(C=C3)F,CC(NC(=O)C=Cc1ccc(F)cc1)c1ccc(F)c(N2CCOCC2)c1,GJTBBHPPJLHWKQ,M0027,False
+"Acrylate, (-)-menthyl",CC(C)C1CCC(C)CC1OC(=O)C=C,C=CC(=O)OC1CC(C)CCC1C(C)C,XJBRSZAYOKVFRH,M0028,False
+"Acrylate, 2,4,5-trichlorophenyl",Clc1cc(Cl)c(OC(=O)C=C)cc1Cl,C=CC(=O)Oc1cc(Cl)c(Cl)cc1Cl,WPRNUAVQZCFEOA,M0029,False
+"Acrylate, 2,4-dinitrophenyl",[O-][N+](=O)c1ccc(OC(=O)C=C)c(c1)[N+]([O-])=O,C=CC(=O)Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],RKJGQMJOEDIVQQ,M0030,False
+"Acrylate, 2-chloroethyl",ClCCOC(=O)C=C,C=CC(=O)OCCCl,WHBAYNMEIXUTJV,M0031,False
+"Acrylate, 2-cyanoethyl",C=CC(=O)OCCC#N,C=CC(=O)OCCC#N,AEPWOCLBLLCOGZ,M0032,False
+"Acrylate, 2-ethylhexyl",CCCCC(CC)COC(=O)C=C,C=CC(=O)OCC(CC)CCCC,GOXQRTZXKQZDDN,M0033,False
+"Acrylate, 2-hydroxyethyl",OCCOC(=O)C=C,C=CC(=O)OCCO,OMIGHNLMNHATMP,M0034,False
+"Acrylate, 2-nitrobutyl",CCC(COC(=O)C=C)[N+]([O-])=O,C=CC(=O)OCC(CC)[N+](=O)[O-],KDDXAKYGDJGCLF,M0035,False
+"Acrylate, 3,4-epoxyhexahydrobenzyl",C=CC(=O)OCC1CCC2OC2C1,C=CC(=O)OCC1CCC2OC2C1,DPTGFYXXFXSRIR,M0036,False
+"Acrylate, 4-acetylphenyl",CC(=O)c1ccc(OC(=O)C=C)cc1,C=CC(=O)Oc1ccc(C(C)=O)cc1,FFWDBWLGIPNATR,M0037,False
+"Acrylate, β-acetoxymethyl-, methyl",COC(=O)C=CCOC(C)=O,COC(=O)C=CCOC(C)=O,CLHZAAANKSXSEL,M0038,False
+"Acrylate, β-chloro-2-hydroxypropyl",CC(O)(Cl)COC(=O)C=C,C=CC(=O)OCC(C)(O)Cl,DSIFZAMSEKZUKI,M0039,False
+"Acrylate, β-ethoxy-, ethyl",CCOC=CC(=O)OCC,CCOC=CC(=O)OCC,ITQFPVUDTFABDH,M0040,False
+"Acrylate, N-(2-hydroxyethyl)carbazolyl",OCCn1c2ccccc2c3cccc(OC(=O)C=C)c13,C=CC(=O)Oc1cccc2c3ccccc3n(CCO)c12,ZKYFWYAPXHPABG,M0041,False
+"Acrylate, α-(4-chlorobenzyl)-, ethyl",CCOC(=O)C(=C)Cc1ccc(Cl)cc1,C=C(Cc1ccc(Cl)cc1)C(=O)OCC,PTTMINMQEXCCGK,M0042,False
+"Acrylate, α-(4-cyanobenzyl)-, ethyl",CCOC(=O)C(=C)Cc1ccc(cc1)C#N,C=C(Cc1ccc(C#N)cc1)C(=O)OCC,KDRGWPUUJFOAEY,M0043,False
+"Acrylate, α-(4-methoxybenzyl)-, ethyl",CCOC(=O)C(=C)Cc1ccc(OC)cc1,C=C(Cc1ccc(OC)cc1)C(=O)OCC,ZDFZGNCYZHAUEZ,M0044,False
+"Acrylate, α-(hydroxymethyl)-, methyl",COC(=O)C(=C)CO,C=C(CO)C(=O)OC,RFUCOAQWQVDBEU,M0045,False
+"Acrylate, α-[2,2-bis(carbomethoxy)ethyl]-, methyl",COC(=O)C(CC(=C)C(=O)OC)C(=O)OC,C=C(CC(C(=O)OC)C(=O)OC)C(=O)OC,PQHINRFERFMJSB,M0046,False
+"Acrylate, α-acetoxy-, ethyl",CCOC(=O)C(=C)OC(C)=O,C=C(OC(C)=O)C(=O)OCC,UMSUVRQADXVIDD,M0047,False
+"Acrylate, α-benzyl-, methyl",COC(=O)C(=C)Cc1ccccc1,C=C(Cc1ccccc1)C(=O)OC,DQQJYBYIABSMFM,M0048,False
+"Acrylate, α-benzyl-, ethyl",CCOC(=O)C(=C)Cc1ccccc1,C=C(Cc1ccccc1)C(=O)OCC,FVLGPYFFONYLRZ,M0049,False
+"Acrylate, α-bromo-, ethyl",CCOC(=O)C(Br)=C,C=C(Br)C(=O)OCC,UCDOJQCUOURTPS,M0050,False
+"Acrylate, α-butyl-, methyl",CCCCC(=C)C(=O)OC,C=C(CCCC)C(=O)OC,USUBUUXHLGKOHN,M0051,False
+"Acrylate, α-chloro-, methyl",COC(=O)C(Cl)=C,C=C(Cl)C(=O)OC,AWJZTPWDQYFQPQ,M0052,False
+"Acrylate, α-chloro-, ethyl",CCOC(=O)C(Cl)=C,C=C(Cl)C(=O)OCC,CVUNPKSKGHPMSY,M0053,False
+"Acrylate, α-cyano-, methyl",COC(=O)C(=C)C#N,C=C(C#N)C(=O)OC,MWCLLHOVUTZFKS,M0054,False
+"Acrylate, α-cyclohexyl-, methyl",COC(=O)C(=C)C1CCCCC1,C=C(C(=O)OC)C1CCCCC1,XHYNRSNMLFADHQ,M0055,False
+"Acrylate, α-ethyl-, methyl",CCC(=C)C(=O)OC,C=C(CC)C(=O)OC,JKJJSJJGBZXUQV,M0056,False
+"Acrylate, α-ethyloxymethyl-, methyl",CCOCC(=C)C(=O)OC,C=C(COCC)C(=O)OC,FKAHXBRRBLPYTM,M0057,False
+"Acrylate, α-fluoro-, ethyl",CCOC(=O)C(F)=C,C=C(F)C(=O)OCC,DJMOYRIAWTXGEY,M0058,False
+"Acrylate, α-fluoro-, methyl",COC(=O)C(F)=C,C=C(F)C(=O)OC,ZTZJVAOTIOAZGZ,M0059,False
+"Acrylate, benzyl",C=CC(=O)OCc1ccccc1,C=CC(=O)OCc1ccccc1,GCTPMLUUWLLESL,M0060,False
+"Acrylate, butyl",CCCCOC(=O)C=C,C=CC(=O)OCCCC,CQEYYJKEWSMYFG,M0061,False
+"Acrylate, cresyl",Cc1ccc(OC(=O)C=C)cc1,C=CC(=O)Oc1ccc(C)cc1,OJNXPAPLAAGFBJ,M0062,False
+"Acrylate, cyclododecyl",C=CC(=O)OC1CCCCCCCCCCC1,C=CC(=O)OC1CCCCCCCCCCC1,OLYPZOMHOKXSGU,M0063,False
+"Acrylate, cyclohexyl",C=CC(=O)OC1CCCCC1,C=CC(=O)OC1CCCCC1,KBLWLMPSVYBVDK,M0064,False
+"Acrylate, dodecyl",CCCCCCCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCCCCCCC,PBOSTUDLECTMNL,M0065,False
+"Acrylate, ethyl",CCOC(=O)C=C,C=CC(=O)OCC,JIGUQPWFLRLWPJ,M0066,False
+"Acrylate, furfuryl",C=CC(=O)OCc1occc1,C=CC(=O)OCc1ccco1,BHPLCUDMENJIRS,M0067,False
+"Acrylate, glycidyl",C=CC(=O)OCC1CO1,C=CC(=O)OCC1CO1,RPQRDASANLAFCM,M0068,False
+"Acrylate, heptafluorobutyl",FC(F)(F)CC(F)(F)C(F)(F)OC(=O)C=C,C=CC(=O)OC(F)(F)C(F)(F)CC(F)(F)F,VWYCVZXPYHGXNI,M0069,False
+"Acrylate, heptyl",CCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCC,SCFQUKBBGYTJNC,M0070,False
+"Acrylate, isobutyl",CC(C)COC(=O)C=C,C=CC(=O)OCC(C)C,CFVWNXQPGQOHRJ,M0071,False
+"Acrylate, m-chlorophenyl",Clc1cccc(OC(=O)C=C)c1,C=CC(=O)Oc1cccc(Cl)c1,QGLITNZASFCEKC,M0072,False
+"Acrylate, methyl",COC(=O)C=C,C=CC(=O)OC,BAPJBEWLBFYGME,M0073,False
+"Acrylate, o-chlorophenyl",Clc1ccccc1OC(=O)C=C,C=CC(=O)Oc1ccccc1Cl,GOUZWCLULXUQSR,M0074,False
+"Acrylate, octadecyl",CCCCCCCCCCCCCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCCCCCCCCCCCCC,FSAJWMJJORKPKS,M0075,False
+"Acrylate, octyl",CCCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCCC,ANISOHQJBAQUQP,M0076,False
+"Acrylate, p-(cinnamoylamino)phenyl",C=CC(=O)Oc1ccc(NC(=O)C=Cc2ccccc2)cc1,C=CC(=O)Oc1ccc(NC(=O)C=Cc2ccccc2)cc1,ASNBDWODGPOFPH,M0077,False
+"Acrylate, p-bromophenyl",Brc1ccc(OC(=O)C=C)cc1,C=CC(=O)Oc1ccc(Br)cc1,HWWIOYDCNOHHMH,M0078,False
+"Acrylate, p-chlorophenyl",Clc1ccc(OC(=O)C=C)cc1,C=CC(=O)Oc1ccc(Cl)cc1,IGHDIBHFCIOXGK,M0079,False
+"Acrylate, pentabromophenyl",Brc1c(Br)c(Br)c(OC(=O)C=C)c(Br)c1Br,C=CC(=O)Oc1c(Br)c(Br)c(Br)c(Br)c1Br,BKKVYNMMVYEBGR,M0080,False
+"Acrylate, pentachlorophenyl",Clc1c(Cl)c(Cl)c(OC(=O)C=C)c(Cl)c1Cl,C=CC(=O)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,KWQJKAHZHOILKK,M0081,False
+"Acrylate, phenyl",C=CC(=O)Oc1ccccc1,C=CC(=O)Oc1ccccc1,WRAQQYDMVSCOTE,M0082,False
+"Acrylate, tert-butyl",CC(C)(C)OC(=O)C=C,C=CC(=O)OC(C)(C)C,ISXSCDLOGDJUNJ,M0083,False
+"Acrylate, tetrahydrofurfuryl",C=CC(=O)OCC1CCCO1,C=CC(=O)OCC1CCCO1,YNXCGLKMOXLBOD,M0084,False
+"Acrylate, thio- butyl",CCCCOC(=S)C=C,C=CC(=S)OCCCC,DLSYVHPQBSVDCU,M0085,False
+"Acrylate, thio-, ethyl",CCOC(=S)C=C,C=CC(=S)OCC,LGCXBAQILOJLNI,M0086,False
+"Acrylate, thio-, tert-butyl",CC(C)(C)OC(=S)C=C,C=CC(=S)OC(C)(C)C,MJIZEBHCXMRTNJ,M0087,False
+"Acrylate, trifluoro-, methyl",COC(=O)C(F)=C(F)F,COC(=O)C(F)=C(F)F,LOYYAPWQNHOYQA,M0088,False
+Acrylic acid,OC(=O)C=C,C=CC(=O)O,NIXOWILDQLNWCW,M0089,False
+"Acrylic acid, 2-benzamido-",OC(=O)C(=C)NC(=O)c1ccccc1,C=C(NC(=O)c1ccccc1)C(=O)O,LLMQXRYQLCGWJM,M0090,False
+"Acrylic acid, 2-ethyl",CCC(=C)C(=O)O,C=C(CC)C(=O)O,WROUWQQRXUBECT,M0091,False
+"Acrylic acid, N-acetyl-a-amino",CC(=C)C(=O)OCCNC(C)(C)C,C=C(C)C(=O)OCCNC(C)(C)C,BEWCNXNIQCLWHP,M0092,False
+"Acrylic acid, a-bromo",C=C(C(=O)O)Br,C=C(Br)C(=O)O,HMENQNSSJFLQOP,M0093,False
+"Acrylic acid, cis-3-bromo-",OC(=O)\C=C/Br,O=C(O)/C=C\Br,POAWTYXNXPEWCO,M0094,False
+"Acrylic acid, cis-3-ethyl",CCOC(=O)C=CC1=CC=CC=C1,CCOC(=O)C=Cc1ccccc1,KBEBGUQPQBELIU,M0095,False
+"Acrylic acid, trans-3-bromo-",OC(=O)/C=C/Br,O=C(O)/C=C/Br,POAWTYXNXPEWCO,M0096,False
+"Acrylic acid, trans-3-ethyl-",CC\C=C\C(O)=O,CC/C=C/C(=O)O,YIYBQIKDCADOSF,M0097,False
+Acrylic anhydride,C=CC(=O)OC(=O)C=C,C=CC(=O)OC(=O)C=C,ARJOQCYCJMAIFR,M0098,False
+Acrylonitrile,C=CC#N,C=CC#N,NLHHRLWOUZZQLW,M0099,False
+"Acrylonitrile, 2-chloro-",ClC(=C)C#N,C=C(Cl)C#N,OYUNTGBISCIYPW,M0100,False
+"Acrylonitrile, a-chloro-",C1=CC=C(C=C1)C(=CC#N)Cl,N#CC=C(Cl)c1ccccc1,GVKYEBRJHLHHOE,M0101,False
+"Acrylonitrile, a-fluoro-",CC(C)(C)SC(=C(C#N)F)SC(C)(C)C,CC(C)(C)SC(SC(C)(C)C)=C(F)C#N,NHLFFNOJQKAUNX,M0102,False
+"Acrylonitrile, a-hydroxymethyl-",C=C(CO)C#N,C=C(C#N)CO,QQCSUIMCEIRRKH,M0103,False
+"Acrylonitrile, a-methoxy",COCC(=COC)C#N,COC=C(C#N)COC,QZFRWRSOUHEOFM,M0104,False
+Acryloxymethylpentamethyldisiloxane,C[Si](C)(C)O[Si](C)(C)COC(=O)C=C,C=CC(=O)OC[Si](C)(C)O[Si](C)(C)C,VKPVUNFNWSJTBJ,M0105,False
+Acryloyl chloride,ClC(=O)C=C,C=CC(=O)Cl,HFBMWMNUJJDEQZ,M0106,False
+"Acryloyl-β-hydroxyethyl-3,5-",C=C(CCO)C(=O)OCC1C(C(C(C(O1)OC2=CC=C(C=C2)O)O)O)O,C=C(CCO)C(=O)OCC1OC(Oc2ccc(O)cc2)C(O)C(O)C1O,GHQJJMWIUKOMBZ,M0107,False
+Acryloylpyrrolidone,C=CC(=O)N1CCCC1=O,C=CC(=O)N1CCCC1=O,DGPVNNMFVYYVDF,M0108,False
+"Adipate, divinyl",C=COC(=O)CCCCC(=O)OC=C,C=COC(=O)CCCCC(=O)OC=C,JZQAAQZDDMEFGZ,M0109,False
+Allyl acrylate,C=CCOC(=O)C=C,C=CCOC(=O)C=C,QTECDUFMBMSHKR,M0110,False
+Allyl alcohol,OCC=C,C=CCO,XXROGKLTLUQVRX,M0111,False
+Allyl butyrate,CCCC(=O)OCC=C,C=CCOC(=O)CCC,RMZIOVJHUJAAEY,M0112,False
+Allyl chloride,ClCC=C,C=CCCl,OSDWBNJEKMUWAV,M0113,False
+Allyl glycidyl hexahydrophthalate,C=CCOC(=O)C1CCCCC1C(=O)OCC2CO2,C=CCOC(=O)C1CCCCC1C(=O)OCC1CO1,DNERNNHHMCYTHV,M0114,False
+Allyl glycidyl phthalate,C=CCOC(=O)c1ccccc1C(=O)OCC2CO2,C=CCOC(=O)c1ccccc1C(=O)OCC1CO1,OFILZJAFGRGHDE,M0115,False
+Allyl isobutyrate,CC(C)C(=O)OCC=C,C=CCOC(=O)C(C)C,QNBDJTKBKITRJI,M0116,False
+Allyl propionate,CCC(=O)OCC=C,C=CCOC(=O)CC,XRFWKHVQMACVTA,M0117,False
+Allyl trimethylacetate,CC(C)(C)C(=O)OCC=C,C=CCOC(=O)C(C)(C)C,GVVKBARIYRBZHC,M0118,False
+Allyl valerate,CCCCC(=O)OCC=C,C=CCOC(=O)CCCC,PWYXVVREDGESBB,M0119,False
+Allylbenzene,C=CCc1ccccc1,C=CCc1ccccc1,HJWLCRVIBGQPNF,M0120,False
+Allylcyclohexane,C=CCC1CCCCC1,C=CCC1CCCCC1,KVOZXXSUSRZIKD,M0121,False
+"Allylstearamide, N-",CCCCCCCCCCCCCCCCCC(=O)NCC=C,C=CCNC(=O)CCCCCCCCCCCCCCCCC,HKKGHYAJDLYYNC,M0122,False
+Allyltriethoxysilane,CCO[Si](CC=C)(OCC)OCC,C=CC[Si](OCC)(OCC)OCC,UMFJXASDGBJDEB,M0123,False
+Allylurea,NC(=O)NCC=C,C=CCNC(N)=O,VPJDULFXCAQHRC,M0124,False
+"Azobenzene, 4-(acrylamidomethylamino)-",C=CC(=O)NCNc1ccc(cc1)N=Nc2ccccc2,C=CC(=O)NCNc1ccc(N=Nc2ccccc2)cc1,VBMOMYONEOWMLC,M0125,False
+"Benzimidazole, vinylmercapto-",C=CSc1[nH]c2ccccc2n1,C=CSc1nc2ccccc2[nH]1,XBLYMBSCQKOCPJ,M0126,False
+"Benzofuran, 2-vinyl-",C=Cc1oc2ccccc2c1,C=Cc1cc2ccccc2o1,HVFZVIHIJNLIED,M0127,False
+"Benzophenone, 2-hydroxy-4-(methacryloxy)-",CC(=C)C(=O)Oc1ccc(c(O)c1)C(=O)c2ccccc2,C=C(C)C(=O)Oc1ccc(C(=O)c2ccccc2)c(O)c1,IMNBHNRXUAJVQE,M0128,False
+"Benzophenone, p-vinyl-",C=Cc1ccc(cc1)C(=O)c2ccccc2,C=Cc1ccc(C(=O)c2ccccc2)cc1,SHMWGXIEPCHLGC,M0129,False
+"Benzothiazole, vinylmercapto-",C=CSc1sc2ccccc2n1,C=CSc1nc2ccccc2s1,UBPTXCHOFYAPNG,M0130,False
+"Benzoxazole, vinylmercapto-",C=CSc1oc2ccccc2n1,C=CSc1nc2ccccc2o1,PCTCSVIYKNRKRZ,M0131,False
+Butadiene,C=CC=C,C=CC=C,KAKZBPTYRLMSJV,M0132,False
+Butadiene monoxide,C=CC1CO1,C=CC1CO1,GXBYFVGCMPJVJX,M0133,False
+"Butadiene, 1,4-dicarboxylate-,diethyl",CCOC(=O)C=CC=CC(=O)OCC,CCOC(=O)C=CC=CC(=O)OCC,VHIYCPCXACHVJM,M0134,False
+"Butadiene, l-(diethylamino)-",CCN(CC)C1=CC=C(C=C1)C(=CC=C(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=C(C=C4)N(CC)CC,CCN(CC)c1ccc(C(=CC=C(c2ccccc2)c2ccccc2)c2ccc(N(CC)CC)cc2)cc1,MNEPURVJQJNPQW,M0135,False
+"Butadiene, 1-acetoxy-",CC(=O)OC=CC=C,C=CC=COC(C)=O,NMQQBXHZBNUXGJ,M0136,False
+"Butadiene, 1-chloro-",ClC=CC=C,C=CC=CCl,PCPYTNCQOSFKGG,M0137,False
+"Butadiene, 1-ethoxy-",CCOC=CC=C,C=CC=COCC,LDVKFLIDEBQMNX,M0138,False
+"Butadiene, 1-phthalimido-",C=CC=CN1C(=O)c2ccccc2C1=O,C=CC=CN1C(=O)c2ccccc2C1=O,YCJHUYDOSGVKHD,M0139,False
+"Butadiene, 1-succinimido-",C=CC=CN1C(=O)CCC1=O,C=CC=CN1C(=O)CCC1=O,RWLJMKQXDUTHCU,M0140,False
+"Butadiene, 2,3-bis(diethylphosphono)-",CCO[P](=O)(OCC)C(=C)C(=C)[P](=O)(OCC)OCC,C=C(C(=C)P(=O)(OCC)OCC)P(=O)(OCC)OCC,OOUVWKWFPOODNY,M0141,False
+"Butadiene, 2,3-dichloro-",ClC(=C)C(Cl)=C,C=C(Cl)C(=C)Cl,LIFLRQVHKGGNSG,M0142,False
+"Butadiene, 2-fluoro-",FC(=C)C=C,C=CC(=C)F,BQHQZFUAEAVJRE,M0143,False
+"Butadiene, 2,3-dimethyl-",CC(=C)C(C)=C,C=C(C)C(=C)C,SDJHPPZKZZWAKF,M0144,False
+"Butadiene, 2,3-chloro-",C=C(C(=C)Cl)Cl,C=C(Cl)C(=C)Cl,LIFLRQVHKGGNSG,M0145,False
+"Butadiene, 2-chloro-",ClC(=C)C=C,C=CC(=C)Cl,YACLQRRMGMJLJV,M0146,False
+"Butadiene, 2-trimethylsilyloxy-",C[Si](C)(C)OC(=C)C=C,C=CC(=C)O[Si](C)(C)C,JOAPBVRQZQYKMS,M0147,False
+"Butadiene, hexafluoro-",FC(F)=C(F)C(F)=C(F)F,FC(F)=C(F)C(F)=C(F)F,LGPPATCNSOSOQH,M0148,False
+"Butadiene, 1-(2-hydroxyethylthio)-",OCCSC=CC=C,C=CC=CSCCO,NDEADNNLCSBJDD,M0149,False
+"Butadiene-1-carboxylate, ethyl",CCOC(=O)C=CC=C,C=CC=CC(=O)OCC,MOJNQUDSDVIYEO,M0150,False
+Butadiene-1-carboxylic acid,OC(=O)C=CC=C,C=CC=CC(=O)O,SDVVLIIVFBKBMG,M0151,False
+"Butene, cis-2-",C\C=C/C,C/C=C\C,IAQRGUVFOMOMEM,M0152,False
+Butene-1,CCC=C,C=CCC,VXNZUUAINFGPBY,M0153,False
+"Butene-1, 2-ethyl-",CCC(=C)CC,C=C(CC)CC,RYKZRKKEYSRDNF,M0154,False
+"Butene-1, 2-methyl-",CCC(=C)C,C=C(C)CC,MHNNAWXXUZQSNM,M0155,False
+"Butene-1, 3,3-dimethyl-",CC(C)(C)C=C,C=CC(C)(C)C,PKXHXOTZMFCXSH,M0156,False
+"Butene-1,4-phenyl-",C=CCCC1=CC=CC=C1,C=CCCc1ccccc1,PBGVMIDTGGTBFS,M0157,False
+"Butene-2, 2-methyl-",CC=C(C)C,CC=C(C)C,BKOOMYPCSUNDGP,M0158,False
+"Butene-2, cis-",CC=CC,CC=CC,IAQRGUVFOMOMEM,M0159,False
+"Butenoate, 3-phenyl-3-, methyl",COC(=O)CC(=C)c1ccccc1,C=C(CC(=O)OC)c1ccccc1,CDFURAWOUYUFMW,M0160,False
+"Butyrolactone, a-methylene-",C=C1CCOC1=O,C=C1CCOC1=O,GSLDEZOOOSBFGP,M0161,False
+"Caprolactam, N-vinyl-",C=CN1CCCCCC1=O,C=CN1CCCCCC1=O,JWYVGKFDLWWQJX,M0162,False
+"Carbamate, N,N-diethyl-, vinyl",CCN(CC)C(=O)OC=C,C=COC(=O)N(CC)CC,RCTMPBPPPDIMPF,M0163,False
+"Carbamate, N-vinyl-, ethyl",CCOC(=O)NC=C,C=CNC(=O)OCC,HNPDNOZNULJJDL,M0164,False
+"Cinnamate, butyl",CCCCOC(=O)C=Cc1ccccc1,CCCCOC(=O)C=Cc1ccccc1,OHHIVLJVBNCSHV,M0165,False
+"Cinnamate, ethyl",CCOC(=O)C=Cc1ccccc1,CCOC(=O)C=Cc1ccccc1,KBEBGUQPQBELIU,M0166,False
+"Cinnamate, methyl",COC(=O)C=Cc1ccccc1,COC(=O)C=Cc1ccccc1,CCRCUPLGCSFEDV,M0167,False
+"Cinnamate, p-chloro-, methyl",COC(=O)C=Cc1ccc(Cl)cc1,COC(=O)C=Cc1ccc(Cl)cc1,IIBXQGYKZKOORG,M0168,False
+"Cinnamate, p-methyl-, methyl",COC(=O)C=Cc1ccc(C)cc1,COC(=O)C=Cc1ccc(C)cc1,WLJBRXRCJNSDHT,M0169,False
+"Cinnamate, phenyl",O=C(Oc1ccccc1)C=Cc2ccccc2,O=C(C=Cc1ccccc1)Oc1ccccc1,NBFNGRDFKUJVIN,M0170,False
+"Cinnamate, tert-butyl",CC(C)(C)OC(=O)C=Cc1ccccc1,CC(C)(C)OC(=O)C=Cc1ccccc1,AGKLVMVJXDFIGC,M0171,False
+"Cinnamic acid, cis-",OC(=O)\C=C/c1ccccc1,O=C(O)/C=C\c1ccccc1,WBYWAXJHAXSJNI,M0172,False
+"Cinnamic acid, trans-",OC(=O)\C=C\c1ccccc1,O=C(O)/C=C/c1ccccc1,WBYWAXJHAXSJNI,M0173,False
+Cinnamonitrile,N#CC=Cc1ccccc1,N#CC=Cc1ccccc1,ZWKNLRXFUTWSOY,M0174,False
+"Citraconate, di-sec-butyl",CCC(C)OC(=O)\C=C(C)/C(=O)OC(C)CC,CCC(C)OC(=O)/C=C(/C)C(=O)OC(C)CC,NGFDARIFSMXECL,M0175,False
+"Citraconate, dibenzyl",CC(=C/C(=O)OCc1ccccc1)/C(=O)OCc2ccccc2,C/C(=C/C(=O)OCc1ccccc1)C(=O)OCc1ccccc1,BOHSWXANLVKJHN,M0176,False
+"Citraconate, dibutyl",CCCCOC(=O)\C=C(C)/C(=O)OCCCC,CCCCOC(=O)/C=C(/C)C(=O)OCCCC,CBTPGSGIWLRAKH,M0177,False
+"Citraconate, dicyclohexyl",CC(=C/C(=O)OC1CCCCC1)/C(=O)OC2CCCCC2,C/C(=C/C(=O)OC1CCCCC1)C(=O)OC1CCCCC1,WDZZMAKHQUPSEW,M0178,False
+"Citraconate, diethyl",CCOC(=O)\C=C(C)/C(=O)OCC,CCOC(=O)/C=C(/C)C(=O)OCC,YPTLFOZCUOHVFO,M0179,False
+"Citraconate, diisobutyl",CC(C)COC(=O)\C=C(C)/C(=O)OCC(C)C,C/C(=C/C(=O)OCC(C)C)C(=O)OCC(C)C,GSWRSQKYPYOMBE,M0180,False
+"Citraconate, diisopropyl",CC(C)OC(=O)\C=C(C)/C(=O)OC(C)C,C/C(=C/C(=O)OC(C)C)C(=O)OC(C)C,VRYFKXTUNIJKBV,M0181,False
+"Citraconate, dimethyl",COC(=O)\C=C(C)/C(=O)OC,COC(=O)/C=C(/C)C(=O)OC,WQEXBUQDXKPVHR,M0182,False
+"Citraconate, dipropyl",CCCOC(=O)\C=C(C)/C(=O)OCCC,CCCOC(=O)/C=C(/C)C(=O)OCCC,DSMPUSHYMGAKOO,M0183,False
+Citraconic acid,CC(=C/C(O)=O)/C(O)=O,C/C(=C/C(=O)O)C(=O)O,HNEGQIOMVPPMNR,M0184,False
+Citraconic anhydride,CC1=CC(=O)OC1=O,CC1=CC(=O)OC1=O,AYKYXWQEBUNJCN,M0185,False
+"Citraconimide, N-(1-menthylcarboxylatomethyl)-",CC(C)C1CCC(C)CC1C(N2C(=O)C=C(C)C2=O)C([O-])=O,CC1=CC(=O)N(C(C(=O)[O-])C2CC(C)CCC2C(C)C)C1=O,VSFOARCKZBTTRE,M0186,False
+"Citraconimide, N-(4-acetoxyphenyl)-",CC(=O)Oc1ccc(cc1)N2C(=O)C=C(C)C2=O,CC(=O)Oc1ccc(N2C(=O)C=C(C)C2=O)cc1,SULURDYBVNDBIR,M0187,False
+"Citraconimide, N-(4-chlorophenyl)-",CC1=CC(=O)N(c2ccc(Cl)cc2)C1=O,CC1=CC(=O)N(c2ccc(Cl)cc2)C1=O,RAXVXCJZKFHMRC,M0188,False
+"Citraconimide, N-(4-ethoxycarbonylphenyl)-",CCOC(=O)c1ccc(cc1)N2C(=O)C=C(C)C2=O,CCOC(=O)c1ccc(N2C(=O)C=C(C)C2=O)cc1,ZVAMSCGLPNHMEF,M0189,False
+"Citraconimide, N-(4-methoxyphenyl)-",COc1ccc(cc1)N2C(=O)C=C(C)C2=O,COc1ccc(N2C(=O)C=C(C)C2=O)cc1,VRFKVQFSZRKRKA,M0190,False
+"Citraconimide, N-methyl",CC1=CC(=O)NC1=O,CC1=CC(=O)NC1=O,ZLPORNPZJNRGCO,M0191,False
+"Citraconimide, N-methyl-",CN1C(=O)C=C(C)C1=O,CC1=CC(=O)N(C)C1=O,HZSAZNPWHKCGKO,M0192,False
+"Citraconimide, N-phenyl-",CC1=CC(=O)N(c2ccccc2)C1=O,CC1=CC(=O)N(c2ccccc2)C1=O,QAVUFFJVZGZJMO,M0193,False
+"Citraconimide, N-propyl-",CCCN1C(=O)C=C(C)C1=O,CCCN1C(=O)C=C(C)C1=O,OGXQVYHPYCXKJX,M0194,False
+"Citraconimide, N-tert-butyl-",CC1=CC(=O)N(C1=O)C(C)(C)C,CC1=CC(=O)N(C(C)(C)C)C1=O,IDBFJQRIYZTMSZ,M0195,False
+"Citraconimide, N-tolyl-",Cc1ccccc1N2C(=O)C=C(C)C2=O,CC1=CC(=O)N(c2ccccc2C)C1=O,HGGWGNOOIKZWES,M0196,False
+Crotonaldehyde,C/C=C/C=O,C/C=C/C=O,MLUCVPSAIODCQM,M0197,False
+"Crotonate, ethyl",CCOC(=O)\C=C\C,C/C=C/C(=O)OCC,ZFDIRQKJPRINOQ,M0198,False
+"Crotonate, methyl",COC(=O)\C=C\C,C/C=C/C(=O)OC,MCVVUJPXSBQTRZ,M0199,False
+Crotonic acid,C/C=C/C(O)=O,C/C=C/C(=O)O,LDHQCZJRKDOVOX,M0200,False
+Crotononitrile,C/C=C/C#N,C/C=C/C#N,NKKMVIVFRUYPLQ,M0201,False
+"Crotononitrile, a-phenyl-",C1=CC=C(C=C1)CC=C(C#N)NC2=CC=CC=C2,N#CC(=CCc1ccccc1)Nc1ccccc1,PQXJWVWZZGZNBE,M0202,False
+"Cyclobutane, 1,2-dimethylene-",C=C1CCC1=C,C=C1CCC1=C,QOFLWDYWJZBWHM,M0203,False
+"Cyclopentene, 4-,-1,3-dione",C1C(=O)C=CC1=O,O=C1C=CC(=O)C1,MCFZBCCYOPSZLG,M0204,False
+"Cyclopropene, 3,3-dimethoxy-",COC1(OC)C=C1,COC1(OC)C=C1,LOWCCDYETQYXQP,M0205,False
+Diallyl melamine,C=CCN(CC=C)C1=NC(=NC(=N1)N)N,C=CCN(CC=C)c1nc(N)nc(N)n1,ROHTVIURAJBDES,M0206,False
+Diallyl phthalate,C=CCOC(=O)c1ccccc1C(=O)OCC=C,C=CCOC(=O)c1ccccc1C(=O)OCC=C,QUDWYFHPNIMBFC,M0207,False
+Diallylcyanamide,C=CCN(CC=C)C#N,C=CCN(C#N)CC=C,ZOSAYFDMPYAZTB,M0208,False
+Dicyclopentadiene,C1C=CC2C3CC(C=C3)C12,C1=CC2C3C=CC(C3)C2C1,HECLRDQVFMWTQS,M0209,False
+"Dioxolane, 1,3-,4,4-dimethyl-5-methylene-",CC1(C(=C)OC(=O)O1)C,C=C1OC(=O)OC1(C)C,WUGCPRNXGBZRMC,M0210,False
+"Dithiane, 2-methylene-1,3-",[CH2]=[C]1SC[CH2]CS1,C=C1SCCCS1,KMGDTZJDQRIOMR,M0211,False
+"Divinylbenzene, m-",C=Cc1cccc(C=C)c1,C=Cc1cccc(C=C)c1,PRJNEUBECVAVAG,M0212,False
+"Divinylbenzene, p-",C=Cc1ccc(C=C)cc1,C=Cc1ccc(C=C)cc1,WEERVPDNCOGWJF,M0213,False
+Ethylene,C=C,C=C,VGGSQFUCUMXWEO,M0214,False
+"Ethylene, 1,1-dichloro-2,2-difluoro",C(=C(Cl)Cl)(F)F,FC(F)=C(Cl)Cl,QDGONURINHVBEW,M0215,False
+"Ethylene, 1,1-diphenyl-",C=C(c1ccccc1)c2ccccc2,C=C(c1ccccc1)c1ccccc1,ZMYIIHDQURVDRB,M0216,False
+"Ethylene, chlorotrifluoro-",FC(F)=C(F)Cl,FC(F)=C(F)Cl,UUAGAQFQZIEFAH,M0217,False
+"Ethylene, p-vinyl-1,1-diphenyl-",C=Cc1ccc(cc1)C(=C)c2ccccc2,C=Cc1ccc(C(=C)c2ccccc2)cc1,IZFDOCHZXHKGOM,M0218,False
+"Ethylene, tetrachloro-",ClC(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)Cl,CYTYCFOTNPOANT,M0219,False
+"Ethylene, tetrafluoro-",FC(F)=C(F)F,FC(F)=C(F)F,BFKJFAAPBSQJPD,M0220,False
+"Ethylene, trichloro-",ClC=C(Cl)Cl,ClC=C(Cl)Cl,XSTXAVWGXDQKEL,M0221,False
+"Fumarate, allyl methyl",COC(=O)/C=C/C(=O)OCC=C,C=CCOC(=O)/C=C/C(=O)OC,UKIODLUVOCRHMM,M0222,False
+"Fumarate, bis(2-butyl)",CCC(C)OC(=O)/C=C/C(=O)OC(C)CC,CCC(C)OC(=O)/C=C/C(=O)OC(C)CC,MWJNGKOBSUBRNM,M0223,False
+"Fumarate, bis(3-[tris(trimethylsiloxy)-silyl)propyl]",C[Si](C)(C)O[Si](CCCOC(=O)/C=C/C(=O)OCCC[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C,C[Si](C)(C)O[Si](CCCOC(=O)/C=C/C(=O)OCCC[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C,PBTFWLWNVIYIIR,M0224,False
+"Fumarate, bis(3-chloro-2-butyl)",CC(Cl)C(C)OC(=O)/C=C/C(=O)OC(C)C(C)Cl,CC(Cl)C(C)OC(=O)/C=C/C(=O)OC(C)C(C)Cl,WBAIPSWASJGWQE,M0225,False
+"Fumarate, di-(2-chloroethyl)",ClCCOC(=O)/C=C/C(=O)OCCCl,O=C(/C=C/C(=O)OCCCl)OCCCl,NUZFFMJRNXNVCA,M0226,False
+"Fumarate, di-(2-cyanoethyl)",O=C(OCCC#N)/C=C/C(=O)OCCC#N,N#CCCOC(=O)/C=C/C(=O)OCCC#N,HAQNEVOMZRXPCS,M0227,False
+"Fumarate, di-(2-phenylethyl)",O=C(OCCc1ccccc1)/C=C/C(=O)OCCc2ccccc2,O=C(/C=C/C(=O)OCCc1ccccc1)OCCc1ccccc1,IRPXHZWJKDZEHW,M0228,False
+"Fumarate, di-tert-amyl",CCC(C)(C)OC(=O)/C=C/C(=O)OC(C)(C)CC,CCC(C)(C)OC(=O)/C=C/C(=O)OC(C)(C)CC,BNHMJMTXEVFXNZ,M0229,False
+"Fumarate, di-tert-butyl",CC(C)(C)OC(=O)/C=C/C(=O)OC(C)(C)C,CC(C)(C)OC(=O)/C=C/C(=O)OC(C)(C)C,MSVGHYYKWDQHFV,M0230,False
+"Fumarate, dibenzyl",O=C(OCc1ccccc1)/C=C/C(=O)OCc2ccccc2,O=C(/C=C/C(=O)OCc1ccccc1)OCc1ccccc1,CPZVJYPXOWWFSW,M0231,False
+"Fumarate, dibutyl",CCCCOC(=O)/C=C/C(=O)OCCCC,CCCCOC(=O)/C=C/C(=O)OCCCC,JBSLOWBPDRZSMB,M0232,False
+"Fumarate, dicyclohexyl",O=C(OC1CCCCC1)/C=C/C(=O)OC2CCCCC2,O=C(/C=C/C(=O)OC1CCCCC1)OC1CCCCC1,BLKQQTCUGZJWLN,M0233,False
+"Fumarate, dicyclopentyl",O=C(OC1CCCC1)/C=C/C(=O)OC2CCCC2,O=C(/C=C/C(=O)OC1CCCC1)OC1CCCC1,SIISCSYILCBRQH,M0234,False
+"Fumarate, diethyl",CCOC(=O)/C=C/C(=O)OCC,CCOC(=O)/C=C/C(=O)OCC,IEPRKVQEAMIZSS,M0235,False
+"Fumarate, diisobutyl",CC(C)COC(=O)/C=C/C(=O)OCC(C)C,CC(C)COC(=O)/C=C/C(=O)OCC(C)C,RSRICHZMFPHXLE,M0236,False
+"Fumarate, diisopropyl",CC(C)OC(=O)/C=C/C(=O)OC(C)C,CC(C)OC(=O)/C=C/C(=O)OC(C)C,FNMTVMWFISHPEV,M0237,False
+"Fumarate, dimethyl",COC(=O)/C=C/C(=O)OC,COC(=O)/C=C/C(=O)OC,LDCRTTXIJACKKU,M0238,False
+"Fumarate, dioctyl",CCCCCCCCOC(=O)/C=C/C(=O)OCCCCCCCC,CCCCCCCCOC(=O)/C=C/C(=O)OCCCCCCCC,TVWTZAGVNBPXHU,M0239,False
+"Fumarate, dipropyl",CCCOC(=O)/C=C/C(=O)OCCC,CCCOC(=O)/C=C/C(=O)OCCC,DSTWFRCNXMNXTR,M0240,False
+"Fumarate, isopropyl butyl",CCCCOC(=O)/C=C/C(=O)OC(C)C,CCCCOC(=O)/C=C/C(=O)OC(C)C,ZOZDAIFXFAWJOU,M0241,False
+"Fumarate, isopropyl isobutyl",CC(C)COC(=O)/C=C/C(=O)OC(C)C,CC(C)COC(=O)/C=C/C(=O)OC(C)C,LACYJSOAGUDVKR,M0242,False
+"Fumarate, isopropyl methyl",COC(=O)/C=C/C(=O)OC(C)C,COC(=O)/C=C/C(=O)OC(C)C,WQIXPEFEGKBHTP,M0243,False
+"Fumarate, isopropyl sec-butyl",CCC(C)OC(=O)/C=C/C(=O)OC(C)C,CCC(C)OC(=O)/C=C/C(=O)OC(C)C,KHSBEDXYDNVPBS,M0244,False
+"Fumarate, methyl butyl",CCCCOC(=O)/C=C/C(=O)OC,CCCCOC(=O)/C=C/C(=O)OC,WXDKFJRADUJSAK,M0245,False
+"Fumarate, methyl ethyl",CCOC(=O)/C=C/C(=O)OC,CCOC(=O)/C=C/C(=O)OC,JDOZUYVDIAKODH,M0246,False
+"Fumarate, methyl isobutyl",COC(=O)\C=C\C(=O)OCC(C)C,COC(=O)/C=C/C(=O)OCC(C)C,ZSTXFWIDBPYIFZ,M0247,False
+"Fumarate, methyl isopropyl",COC(=O)\C=C\C(=O)OC(C)C,COC(=O)/C=C/C(=O)OC(C)C,WQIXPEFEGKBHTP,M0248,False
+"Fumarate, methyl propyl",CCCOC(=O)/C=C/C(=O)OC,CCCOC(=O)/C=C/C(=O)OC,JZVAJEKUWCBLKD,M0249,False
+"Fumarate, methyl sec-butyl",CCC(C)OC(=O)/C=C/C(=O)OC,CCC(C)OC(=O)/C=C/C(=O)OC,CUTKIAHYYRJIBZ,M0250,False
+"Fumarate, methyl tert-amyl",CCC(C)(C)OC(=O)/C=C/C(=O)OC,CCC(C)(C)OC(=O)/C=C/C(=O)OC,ZUXMGIMZRCLDCZ,M0251,False
+"Fumarate, methyl tert-butyl",COC(=O)\C=C\C(=O)OC(C)(C)C,COC(=O)/C=C/C(=O)OC(C)(C)C,LEKWCGTZPGQABT,M0252,False
+"Fumarate, mono-2-butyl",CCC(C)OC(=O)\C=C\C([O-])=O,CCC(C)OC(=O)/C=C/C(=O)[O-],GTVVADNAPPKOSH,M0253,False
+"Fumarate, tert-butyl 2-ethylhexyl",CCCCC(CC)COC(=O)/C=C/C(=O)OC(C)(C)C,CCCCC(CC)COC(=O)/C=C/C(=O)OC(C)(C)C,JXHUMKNGUGUXAR,M0254,False
+"Fumarate, tert-butyl 4-methyl-2-pentyl",CC(C)CC(C)OC(=O)/C=C/C(=O)OC(C)(C)C,CC(C)CC(C)OC(=O)/C=C/C(=O)OC(C)(C)C,HEPFHBJGARGNQG,M0255,False
+"Fumarate, tert-butyl ethyl",CCOC(=O)/C=C/C(=O)OC(C)(C)C,CCOC(=O)/C=C/C(=O)OC(C)(C)C,CZFQVAZEWFKUTC,M0256,False
+"Fumarate, tert-Butyl isoamyl",CC(C)CCOC(=O)/C=C/C(=O)OC(C)(C)C,CC(C)CCOC(=O)/C=C/C(=O)OC(C)(C)C,RPMOGNGFDKQDPK,M0257,False
+"Fumarate, tert-butyl methyl",COC(=O)/C=C/C(=O)OC(C)(C)C,COC(=O)/C=C/C(=O)OC(C)(C)C,LEKWCGTZPGQABT,M0258,False
+"Fumarate, tert-butyl sec-butyl",CCC(C)OC(=O)/C=C/C(=O)OC(C)(C)C,CCC(C)OC(=O)/C=C/C(=O)OC(C)(C)C,DOODKKRHOMUQLP,M0259,False
+Fumaric acid,OC(=O)/C=C/C(O)=O,O=C(O)/C=C/C(=O)O,VZCYOOQTPOCHFL,M0260,False
+Fumaronitrile,N#C/C=C/C#N,N#C/C=C/C#N,KYPOHTVBFVELTG,M0261,False
+"Furan, 2,3-dihydro-",C1CC=CO1,C1=COCC1,JKTCBAGSMQIFNL,M0262,False
+"Furan, 2-vinyl-5-methyl",CC1=CC=C(O1)C=C,C=Cc1ccc(C)o1,LTQOQNQWJBSGPF,M0263,False
+"Hexatriene, tetrachloro-",ClC(Cl)=C(Cl)C(Cl)=CC=C,C=CC=C(Cl)C(Cl)=C(Cl)Cl,ZPEODRZHYGMNMQ,M0264,False
+"Hexene, 1-, 3,4-dioic anhydride",C1C=CCC(C1C(=O)O)C(=O)O,O=C(O)C1CC=CCC1C(=O)O,ILUAAIDVFMVTAU,M0265,False
+"Hexene, 5-, 2,4-dione",CC(=C)C(=O)CC(=O)C,C=C(C)C(=O)CC(C)=O,RKAZWPVRTYSEED,M0266,False
+Hexene-1,CCCCC=C,C=CCCCC,LIKMAJRDDDTEIG,M0267,False
+"Imidazole, 1-vinyl-",C=Cn1ccnc1,C=Cn1ccnc1,OSSNTDFYBPYIEC,M0268,False
+"Imidazole, 1-vinyl-2-methyl-",Cc1nccn1C=C,C=Cn1ccnc1C,BDHGFCVQWMDIQX,M0269,False
+"Imidazolid-2-one, 1,3-divinyl-",C=CN1CCN(C=C)C1=O,C=CN1CCN(C=C)C1=O,HMYBDZFSXBJDGL,M0270,False
+"Imidazolid-2-one, 1-ethyl-3-vinyl-",CCN1CCN(C=C)C1=O,C=CN1CCN(CC)C1=O,SWIIURYBQJUUFY,M0271,False
+Indene,C1C=Cc2ccccc12,C1=Cc2ccccc2C1,YBYIRNPNPLQARY,M0272,False
+Isobutene,CC(C)=C,C=C(C)C,VQTUBCCKSQIDNK,M0273,False
+"Isobutylene, 3-chloro-",CC(=C)C,C=C(C)C,VQTUBCCKSQIDNK,M0274,False
+Isooctene,CC(C)CCCC=C,C=CCCCC(C)C,DFVOXRAAHOJJBN,M0275,False
+Isoprene,CC(=C)C=C,C=CC(=C)C,RRHGJUQNOFWUDK,M0276,False
+Isopropenyl methyl ketone,CC(=C)C(C)=O,C=C(C)C(C)=O,ZGHFDIIVVIFNPS,M0277,False
+"Isopropenylacetophenone, p-",CC(=C)c1ccc(cc1)C(C)=O,C=C(C)c1ccc(C(C)=O)cc1,WMVUYUVKNFDYAF,M0278,False
+Isopropenylisocyanate,CC(=C)N=C=O,C=C(C)N=C=O,UKQJZQQPMIFNHE,M0279,False
+Isopropenyltoluene,CC(=C)c1ccccc1C,C=C(C)c1ccccc1C,OGMSGZZPTQNTIK,M0280,False
+"Itaconamate, N-(4-carboethoxyphenyl)-, butyl",CCCCOC(=O)C(=C)CC(=O)Nc1ccc(cc1)C(=O)OCC,C=C(CC(=O)Nc1ccc(C(=O)OCC)cc1)C(=O)OCCCC,NGDCNORLFIOVFU,M0281,False
+"Itaconamate, N-(4-carboethoxyphenyl)-, ethyl",CCOC(=O)C(=C)CC(=O)Nc1ccc(cc1)C(=O)OCC,C=C(CC(=O)Nc1ccc(C(=O)OCC)cc1)C(=O)OCC,AHRFXYSPYSCLOF,M0282,False
+"Itaconamate, N-(4-carboethoxyphenyl)-, methyl",CCOC(=O)c1ccc(NC(=O)CC(=C)C(=O)OC)cc1,C=C(CC(=O)Nc1ccc(C(=O)OCC)cc1)C(=O)OC,GBGMWPBYALQIFZ,M0283,False
+"Itaconamate, N-(4-carboethoxyphenyl)-, propyl",CCCOC(=O)C(=C)CC(=O)Nc1ccc(cc1)C(=O)OCC,C=C(CC(=O)Nc1ccc(C(=O)OCC)cc1)C(=O)OCCC,XPCQRWMCWZYIKS,M0284,False
+"Itaconamate, N-(4-chlorophenyl)-, ethyl",CCOC(=O)C(=C)CC(=O)Nc1ccc(Cl)cc1,C=C(CC(=O)Nc1ccc(Cl)cc1)C(=O)OCC,JKSGBOUATSRVJM,M0285,False
+"Itaconamate, N-(4-chlorophenyl)-, methyl",COC(=O)C(=C)CC(=O)Nc1ccc(Cl)cc1,C=C(CC(=O)Nc1ccc(Cl)cc1)C(=O)OC,SLKXHTSBDZPDOC,M0286,False
+"Itaconamate, N-(4-chlorophenyl)-, propyl",CCCOC(=O)C(=C)CC(=O)Nc1ccc(Cl)cc1,C=C(CC(=O)Nc1ccc(Cl)cc1)C(=O)OCCC,WIOUXDRACHVMGZ,M0287,False
+"Itaconamate, N-(4-methoxyphenyl)-, butyl",CCCCOC(=O)C(=C)CC(=O)Nc1ccc(OC)cc1,C=C(CC(=O)Nc1ccc(OC)cc1)C(=O)OCCCC,VQZPMZWEPMGZPK,M0288,False
+"Itaconamate, N-(4-methoxyphenyl)-, ethyl",CCOC(=O)C(=C)CC(=O)Nc1ccc(OC)cc1,C=C(CC(=O)Nc1ccc(OC)cc1)C(=O)OCC,PCSHQBFVWWLETG,M0289,False
+"Itaconamate, N-(4-methoxyphenyl)-, methyl",COC(=O)C(=C)CC(=O)Nc1ccc(OC)cc1,C=C(CC(=O)Nc1ccc(OC)cc1)C(=O)OC,ZMZCHQSOBUGRND,M0290,False
+"Itaconamate, N-(4-methoxyphenyl)-, propyl",CCCOC(=O)C(=C)CC(=O)Nc1ccc(OC)cc1,C=C(CC(=O)Nc1ccc(OC)cc1)C(=O)OCCC,SPHHTFFLSOJREY,M0291,False
+"Itaconamate, N-(4-methylphenyl)-, propyl",CCCOC(=O)C(=C)CC(=O)Nc1ccc(C)cc1,C=C(CC(=O)Nc1ccc(C)cc1)C(=O)OCCC,TZTNBNAKSMQAQZ,M0292,False
+"Itaconamate, N-(4-methylphenyl)-, butyl",CCCCOC(=O)C(=C)CC(=O)Nc1ccc(C)cc1,C=C(CC(=O)Nc1ccc(C)cc1)C(=O)OCCCC,PFVKMDNRUTZADH,M0293,False
+"Itaconamate, N-(4-methylphenyl)-, ethyl",CCOC(=O)C(=C)CC(=O)Nc1ccc(C)cc1,C=C(CC(=O)Nc1ccc(C)cc1)C(=O)OCC,UZOZVDXMJXCMMZ,M0294,False
+"Itaconamate, N-(4-methylphenyl)-, methyl",COC(=O)C(=C)CC(=O)Nc1ccc(C)cc1,C=C(CC(=O)Nc1ccc(C)cc1)C(=O)OC,LGYOZFGFVKHGTN,M0295,False
+"Itaconamate, N-phenyl-, butyl",CCCCOC(=O)C(=C)CC(=O)Nc1ccccc1,C=C(CC(=O)Nc1ccccc1)C(=O)OCCCC,JXVNBHGIUVEFKU,M0296,False
+"Itaconamate, N-phenyl-, ethyl",CCOC(=O)C(=C)CC(=O)Nc1ccccc1,C=C(CC(=O)Nc1ccccc1)C(=O)OCC,ZECCBTSKDLCVBD,M0297,False
+"Itaconamate, N-phenyl-, methyl",COC(=O)C(=C)CC(=O)Nc1ccccc1,C=C(CC(=O)Nc1ccccc1)C(=O)OC,KGFLFKGEHGJTEO,M0298,False
+"Itaconamate, N-phenyl-, propyl",CCCOC(=O)C(=C)CC(=O)Nc1ccccc1,C=C(CC(=O)Nc1ccccc1)C(=O)OCCC,GESDRQZYMIMJNT,M0299,False
+"Itaconate, diamyl",CCCCCOC(=O)CC(=C)C(=O)OCCCCC,C=C(CC(=O)OCCCCC)C(=O)OCCCCC,NJCKCUVRQPTKTF,M0300,False
+"Itaconate, dibutyl",CCCCOC(=O)CC(=C)C(=O)OCCCC,C=C(CC(=O)OCCCC)C(=O)OCCCC,OGVXYCDTRMDYOG,M0301,False
+"Itaconate, diethyl",CCOC(=O)CC(=C)C(=O)OCC,C=C(CC(=O)OCC)C(=O)OCC,ZEFVHSWKYCYFFL,M0302,False
+"Itaconate, dimenthyl",CC(C)C1CCC(C)CC1OC(=O)CC(=C)C(=O)OC2CC(C)CCC2C(C)C,C=C(CC(=O)OC1CC(C)CCC1C(C)C)C(=O)OC1CC(C)CCC1C(C)C,PBLCEKDARCCKAC,M0303,False
+"Itaconate, dimethyl",COC(=O)CC(=C)C(=O)OC,C=C(CC(=O)OC)C(=O)OC,ZWWQRMFIZFPUAA,M0304,False
+"Itaconate, dioctyl",CCCCCCCCOC(=O)CC(=C)C(=O)OCCCCCCCC,C=C(CC(=O)OCCCCCCCC)C(=O)OCCCCCCCC,NQPOXJIXYCVBDO,M0305,False
+"Itaconate, dipropyl",CCCOC(=O)CC(=C)C(=O)OCCC,C=C(CC(=O)OCCC)C(=O)OCCC,DFQSWFGKYUFIFW,M0306,False
+"Itaconate, ethyl hexafluoroisopropyl",CCOC(=O)C(=C)CC(=O)OC(F)(C(F)F)C(F)(F)F,C=C(CC(=O)OC(F)(C(F)F)C(F)(F)F)C(=O)OCC,FCXYEFJNDQDASU,M0307,False
+"Itaconate, glycidyl methyl",COC(=O)CC(=C)C(=O)OCC1CO1,C=C(CC(=O)OC)C(=O)OCC1CO1,JKTXZOSTECUMMZ,M0308,False
+"Itaconate, mono-methyl",COC(=O)C(=C)CC([O-])=O,C=C(CC(=O)[O-])C(=O)OC,KBFJHOCTSIMQKL,M0309,False
+Itaconic acid,OC(=O)CC(=C)C(O)=O,C=C(CC(=O)O)C(=O)O,LVHBHZANLOWSRM,M0310,False
+Itaconic anhydride,C=C1CC(=O)OC1=O,C=C1CC(=O)OC1=O,OFNISBHGPNMTMS,M0311,False
+"Itaconimide, N-(2-chloroethyl)-",ClCCN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(CCCl)C1=O,RQMCNOJWPMUAKJ,M0312,False
+"Itaconimide, N-(4-acetoxyphenyl)-",CC(=O)Oc1ccc(cc1)N2C(=O)CC(=C)C2=O,C=C1CC(=O)N(c2ccc(OC(C)=O)cc2)C1=O,FQVZMEVYCFACKE,M0313,False
+"Itaconimide, N-(4-chlorophenyl)-",Clc1ccc(cc1)N2C(=O)CC(=C)C2=O,C=C1CC(=O)N(c2ccc(Cl)cc2)C1=O,QTVOBMUYSKKMBK,M0314,False
+"Itaconimide, N-(4-ethoxycarbonylphenyl)-",CCOC(=O)c1ccc(cc1)N2C(=O)CC(=C)C2=O,C=C1CC(=O)N(c2ccc(C(=O)OCC)cc2)C1=O,XDNZZBJGEDEDHH,M0315,False
+"Itaconimide, N-(p-tolyl)-",Cc1ccc(cc1)N2C(=O)CC(=C)C2=O,C=C1CC(=O)N(c2ccc(C)cc2)C1=O,CFKWVBVWGCLNHU,M0316,False
+"Itaconimide, N-benzyl-",C=C1CC(=O)N(Cc2ccccc2)C1=O,C=C1CC(=O)N(Cc2ccccc2)C1=O,OGHZHVONWMXUPW,M0317,False
+"Itaconimide, N-butyl-",CCCCN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(CCCC)C1=O,XTKZBPGQKMDFMC,M0318,False
+"Itaconimide, N-ethyl-",CCN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(CC)C1=O,BMZZOWWYEBTMBX,M0319,False
+"Itaconimide, N-isobutyl-",CC(C)CN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(CC(C)C)C1=O,HUJWMPFUNJTEPN,M0320,False
+"Itaconimide, N-isopropyl-",CC(C)N1C(=O)CC(=C)C1=O,C=C1CC(=O)N(C(C)C)C1=O,DBKRPGDEXPANMB,M0321,False
+"Itaconimide, N-methyl-",CN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(C)C1=O,QSWFISOPXPJUCT,M0322,False
+"Itaconimide, N-naphthyl-",C=C1CC(=O)N(C1=O)c2cccc3ccccc23,C=C1CC(=O)N(c2cccc3ccccc23)C1=O,CNVHXNIIBYAYBA,M0323,False
+"Itaconimide, N-phenyl-",C=C1CC(=O)N(C1=O)c2ccccc2,C=C1CC(=O)N(c2ccccc2)C1=O,JLLCBHHFPWVBQP,M0324,False
+"Itaconimide, N-propyl-",CCCN1C(=O)CC(=C)C1=O,C=C1CC(=O)N(CCC)C1=O,VGUAXHLGHHWMAJ,M0325,False
+"Maleate, di-tert-butyl",CC(C)(C)OC(=O)\C=C/C(=O)OC(C)(C)C,CC(C)(C)OC(=O)/C=C\C(=O)OC(C)(C)C,MSVGHYYKWDQHFV,M0326,False
+"Maleate, diethyl",CCOC(=O)\C=C/C(=O)OCC,CCOC(=O)/C=C\C(=O)OCC,IEPRKVQEAMIZSS,M0327,False
+"Maleate, dimethyl",COC(=O)\C=C/C(=O)OC,COC(=O)/C=C\C(=O)OC,LDCRTTXIJACKKU,M0328,False
+"Maleate, chloro-, diethyl",CCOC(=O)/C=C(/Cl)C(=O)OCC,CCOC(=O)/C=C(/Cl)C(=O)OCC,VOEQTGMCAHZUNJ,M0329,False
+"Maleate, dibutyl",CCCCOC(=O)\C=C/C(=O)OCCCC,CCCCOC(=O)/C=C\C(=O)OCCCC,JBSLOWBPDRZSMB,M0330,False
+"Maleate, allyl methyl",COC(=O)\C=C/C(=O)OCC=C,C=CCOC(=O)/C=C\C(=O)OC,UKIODLUVOCRHMM,M0331,False
+"Maleate, dioctyl",CCCCCCCCOC(=O)\C=C/C(=O)OCCCCCCCC,CCCCCCCCOC(=O)/C=C\C(=O)OCCCCCCCC,TVWTZAGVNBPXHU,M0332,False
+"Maleate, dipropyl",CCCOC(=O)\C=C/C(=O)OCCC,CCCOC(=O)/C=C\C(=O)OCCC,DSTWFRCNXMNXTR,M0333,False
+"Maleate, monoallyl",[O-]C(=O)\C=C/C(=O)OCC=C,C=CCOC(=O)/C=C\C(=O)[O-],PEKZMKOVRVVTTN,M0334,False
+"Maleate, monomethyl",COC(=O)\C=C/C([O-])=O,COC(=O)/C=C\C(=O)[O-],NKHAVTQWNUWKEO,M0335,False
+Maleic acid,OC(=O)\C=C/C(O)=O,O=C(O)/C=C\C(=O)O,VZCYOOQTPOCHFL,M0336,False
+Maleic anhydride,O=C1OC(=O)C=C1,O=C1C=CC(=O)O1,FPYJFEHAWHCUMM,M0337,False
+Maleimide,O=C1NC(=O)C=C1,O=C1C=CC(=O)N1,PEEHTFAAVSWFBL,M0338,False
+"Maleimide, N-hydroxymethyl",C1=CC(=O)N(C1=O)CO,O=C1C=CC(=O)N1CO,BHPDNFUVYQFFNK,M0339,False
+"Maleimide, 2,3-dimethyl-",CC1=C(C)C(=O)NC1=O,CC1=C(C)C(=O)NC1=O,ZTWMBHJPUJJJME,M0340,False
+N-(2-methacryloxyethyl)-,CC(=C)C(=O)OCCNC(=O)NCCOC(=O)C(=C)C,C=C(C)C(=O)OCCNC(=O)NCCOC(=O)C(=C)C,DYRMLWPTRUYYPH,M0341,False
+"Maleimide, N-(2,4-dimethylphenyl)-",Cc1ccc(N2C(=O)C=CC2=O)c(C)c1,Cc1ccc(N2C(=O)C=CC2=O)c(C)c1,LWFUFCYGHRBLDH,M0342,False
+"Maleimide, N-(2,6-diethylphenyl)-",CCc1cccc(CC)c1N2C(=O)C=CC2=O,CCc1cccc(CC)c1N1C(=O)C=CC1=O,LNOKVKHZEYOLIQ,M0343,False
+"Maleimide, N-(2,6-diisopropylphenyl)-",CC(C)c1cccc(C(C)C)c1N2C(=O)C=CC2=O,CC(C)c1cccc(C(C)C)c1N1C(=O)C=CC1=O,UUOHWLHXGPZSBK,M0344,False
+"Maleimide, N-(2,6-dimethylphenyl)-",Cc1cccc(C)c1N2C(=O)C=CC2=O,Cc1cccc(C)c1N1C(=O)C=CC1=O,VMDQUQBEIFMAIC,M0345,False
+"Maleimide, N-(2-bromophenyl)-",Brc1ccccc1N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccccc1Br,ZTHZEDRPKCLGAR,M0346,False
+"Maleimide, N-(2-chlorophenyl)-",Clc1ccccc1N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccccc1Cl,KPQOXMCRYWDRSB,M0347,False
+"Maleimide, N-(2-hydroxyethyl)-",OCCN1C(=O)C=CC1=O,O=C1C=CC(=O)N1CCO,AXTADRUCVAUCRS,M0348,False
+"Maleimide, N-(2-methylphenyl)-",Cc1ccccc1N2C(=O)C=CC2=O,Cc1ccccc1N1C(=O)C=CC1=O,QYOJZFBQEAZNEW,M0349,False
+"Maleimide, N-(3,5-dimethylphenyl)-",Cc1cc(C)cc(c1)N2C(=O)C=CC2=O,Cc1cc(C)cc(N2C(=O)C=CC2=O)c1,PECLZIRCLUPWGS,M0350,False
+"Maleimide, N-(3-dimethylaminophenyl)-",CN(C)c1cccc(c1)N2C(=O)C=CC2=O,CN(C)c1cccc(N2C(=O)C=CC2=O)c1,QEBBLWLBCZPCKW,M0351,False
+"Maleimide, N-(3-methylphenyl)-",Cc1cccc(c1)N2C(=O)C=CC2=O,Cc1cccc(N2C(=O)C=CC2=O)c1,PRZFFHNZHXGTRC,M0352,False
+"Maleimide, N-(4-bromophenyl)-",Brc1ccc(cc1)N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccc(Br)cc1,FECSFBYOMHWJQG,M0353,False
+"Maleimide, N-(4-carboxyethylphenyl)-",OC(=O)CCc1ccc(cc1)N2C(=O)C=CC2=O,O=C(O)CCc1ccc(N2C(=O)C=CC2=O)cc1,BNZLMNZXFMIAPO,M0354,False
+"Maleimide, N-(4-chlorophenyl)-",Clc1ccc(cc1)N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccc(Cl)cc1,FPZQYYXSOJSITC,M0355,False
+"Maleimide, N-(4-chlorophenyl)-a-chloro-",C1=CC(=CC=C1N2C(=O)C=CC2=O)Cl,O=C1C=CC(=O)N1c1ccc(Cl)cc1,FPZQYYXSOJSITC,M0356,False
+"Maleimide, N-(4-hydroxyphenyl)-",Oc1ccc(cc1)N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccc(O)cc1,BLLFPKZTBLMEFG,M0357,False
+"Maleimide, N-(4-methoxyphenyl)-a-chloro-",COC1=CC=CC=C1N2C(=O)C=CC2=O,COc1ccccc1N1C(=O)C=CC1=O,LJDGDRYFCIHDPX,M0358,False
+"Maleimide, N-(4-methylphenyl)-",Cc1ccc(cc1)N2C(=O)C=CC2=O,Cc1ccc(N2C(=O)C=CC2=O)cc1,KCFXNGDHQPMIAQ,M0359,False
+"Maleimide, N-(4-methylphenyl)-a-chloro-",CC1=CC=C(C=C1)N2C(=O)C=CC2=O,Cc1ccc(N2C(=O)C=CC2=O)cc1,KCFXNGDHQPMIAQ,M0360,False
+"Maleimide, N-α-methylbenzyl-",CC(N1C(=O)C=CC1=O)c2ccccc2,CC(c1ccccc1)N1C(=O)C=CC1=O,PWZXUQWQRVKGAH,M0361,False
+"Maleimide, N-benzyl-",O=C1C=CC(=O)N1Cc2ccccc2,O=C1C=CC(=O)N1Cc1ccccc1,MKRBAPNEJMFMHU,M0362,False
+"Maleimide, N-benzyl-α-chloro-",ClC1=CC(=O)N(Cc2ccccc2)C1=O,O=C1C=C(Cl)C(=O)N1Cc1ccccc1,YBCOMRLISIAZIY,M0363,False
+"Maleimide, N-butyl-",CCCCN1C(=O)C=CC1=O,CCCCN1C(=O)C=CC1=O,JNPCNDJVEUEFBO,M0364,False
+"Maleimide, N-cyclohexyl-",O=C1C=CC(=O)N1C2CCCCC2,O=C1C=CC(=O)N1C1CCCCC1,BQTPKSBXMONSJI,M0365,False
+"Maleimide, N-ethyl-α-chloro-",CCN1C(=O)C=C(Cl)C1=O,CCN1C(=O)C=C(Cl)C1=O,XIKFKGGZTYIBMD,M0366,False
+"Maleimide, N-hexyl-",CCCCCCN1C(=O)C=CC1=O,CCCCCCN1C(=O)C=CC1=O,FBPVUBVZRPURIU,M0367,False
+"Maleimide, N-hydroxymethyl-",OCN1C(=O)C=CC1=O,O=C1C=CC(=O)N1CO,BHPDNFUVYQFFNK,M0368,False
+"Maleimide, N-methyl-α-chloro-",CN1C(=O)C=C(Cl)C1=O,CN1C(=O)C=C(Cl)C1=O,VCJAXUAZKWUPSH,M0369,False
+"Maleimide, N-octadecyl-",CCCCCCCCCCCCCCCCCCN1C(=O)C=CC1=O,CCCCCCCCCCCCCCCCCCN1C(=O)C=CC1=O,HOLZCMFSCBLOLX,M0370,False
+"Maleimide, N-phenyl-",O=C1C=CC(=O)N1c2ccccc2,O=C1C=CC(=O)N1c1ccccc1,HIDBROSJWZYGSZ,M0371,False
+"Maleimide, N-phenyl-α-chloro-",ClC1=CC(=O)N(c2ccccc2)C1=O,O=C1C=C(Cl)C(=O)N1c1ccccc1,ZKKDYLHSRWLPSP,M0372,False
+"Maleimide, N-propyl-",CCCN1C(=O)C=CC1=O,CCCN1C(=O)C=CC1=O,DABFKTHTXOELJF,M0373,False
+"Mesaconate, dibenzyl",CC(=C\C(=O)OCc1ccccc1)/C(=O)OCc2ccccc2,C/C(=C\C(=O)OCc1ccccc1)C(=O)OCc1ccccc1,BOHSWXANLVKJHN,M0374,False
+"Mesaconate, diamyl",CCCCCOC(=O)/C=C(C)/C(=O)OCCCCC,CCCCCOC(=O)/C=C(\C)C(=O)OCCCCC,MLOAYDODVLTGNG,M0375,False
+"Mesaconate, dibutyl",CCCCOC(=O)/C=C(C)/C(=O)OCCCC,CCCCOC(=O)/C=C(\C)C(=O)OCCCC,CBTPGSGIWLRAKH,M0376,False
+"Mesaconate, dicyclohexyl",CC(=C\C(=O)OC1CCCCC1)/C(=O)OC2CCCCC2,C/C(=C\C(=O)OC1CCCCC1)C(=O)OC1CCCCC1,WDZZMAKHQUPSEW,M0377,False
+"Mesaconate, diethyl",CCOC(=O)/C=C(C)/C(=O)OCC,CCOC(=O)/C=C(\C)C(=O)OCC,YPTLFOZCUOHVFO,M0378,False
+"Mesaconate, dihexyl",CCCCCCOC(=O)/C=C(C)/C(=O)OCCCCCC,CCCCCCOC(=O)/C=C(\C)C(=O)OCCCCCC,DQAACYPZPXHKAH,M0379,False
+"Mesaconate, diisoamyl",CC(C)CCOC(=O)/C=C(C)/C(=O)OCCC(C)C,C/C(=C\C(=O)OCCC(C)C)C(=O)OCCC(C)C,WSVFFUQRFZHWNE,M0380,False
+"Mesaconate, diisobutyl",CC(C)COC(=O)/C=C(C)/C(=O)OCC(C)C,C/C(=C\C(=O)OCC(C)C)C(=O)OCC(C)C,GSWRSQKYPYOMBE,M0381,False
+"Mesaconate, diisopropyl",CC(C)OC(=O)/C=C(C)/C(=O)OC(C)C,C/C(=C\C(=O)OC(C)C)C(=O)OC(C)C,VRYFKXTUNIJKBV,M0382,False
+"Mesaconate, dimethyl",COC(=O)/C=C(C)/C(=O)OC,COC(=O)/C=C(\C)C(=O)OC,WQEXBUQDXKPVHR,M0383,False
+"Mesaconate, dioctyl",CCCCCCCCOC(=O)/C=C(C)/C(=O)OCCCCCCCC,CCCCCCCCOC(=O)/C=C(\C)C(=O)OCCCCCCCC,IQFUHDDDWSCGEL,M0384,False
+"Mesaconate, diphenyl",CC(=C\C(=O)Oc1ccccc1)/C(=O)Oc2ccccc2,C/C(=C\C(=O)Oc1ccccc1)C(=O)Oc1ccccc1,UJUXQFIKKFIYPT,M0385,False
+"Mesaconate, dipropyl",CCCOC(=O)/C=C(C)/C(=O)OCCC,CCCOC(=O)/C=C(\C)C(=O)OCCC,DSMPUSHYMGAKOO,M0386,False
+Mesaconic acid,CC(=C\C(O)=O)/C(O)=O,C/C(=C\C(=O)O)C(=O)O,HNEGQIOMVPPMNR,M0387,False
+Methacrylamide,CC(=C)C(N)=O,C=C(C)C(N)=O,FQPSGWSUVKBHSU,M0388,False
+"Methacrylamide, N-(2-hydroxypropyl)-",CC(O)CNC(=O)C(C)=C,C=C(C)C(=O)NCC(C)O,OKPYIWASQZGASP,M0389,False
+"Methacrylamide, N-(4'-nitro-4-stilbenyl)-",CC(=C)C(=O)Nc1ccc(cc1)C=Cc2ccc(cc2)[N+]([O-])=O,C=C(C)C(=O)Nc1ccc(C=Cc2ccc([N+](=O)[O-])cc2)cc1,CYEBZJAFEFBFCQ,M0390,False
+"Methacrylamide, N-(4-stilbenyl)-",CC(=C)C(=O)Nc1ccc(cc1)C=Cc2ccccc2,C=C(C)C(=O)Nc1ccc(C=Cc2ccccc2)cc1,GFJLMPNTDOXNFP,M0391,False
+"Methacrylamide, N-(p-chlorophenyl)-",CC(=C)C(=O)Nc1ccc(Cl)cc1,C=C(C)C(=O)Nc1ccc(Cl)cc1,GXRCTSFTSSWVCN,M0392,False
+"Methacrylamide, N-(p-methoxyphenyl)-",COc1ccc(NC(=O)C(C)=C)cc1,C=C(C)C(=O)Nc1ccc(OC)cc1,KKRGQTZHFWTGRJ,M0393,False
+"Methacrylamide, N-(p-methylphenyl)-",CC(=C)C(=O)Nc1ccc(C)cc1,C=C(C)C(=O)Nc1ccc(C)cc1,NHWUBQGSEPRUOV,M0394,False
+"Methacrylamide, N-(p-nitrophenyl)-",CC(=C)C(=O)Nc1ccc(cc1)[N+]([O-])=O,C=C(C)C(=O)Nc1ccc([N+](=O)[O-])cc1,DPNRVEROTZRVQP,M0395,False
+"Methacrylamide, N-[4-(4-methoxyphenylacetyloxy)phenyl]-",COc1ccc(CC(=O)Oc2ccc(NC(=O)C(C)=C)cc2)cc1,C=C(C)C(=O)Nc1ccc(OC(=O)Cc2ccc(OC)cc2)cc1,XTMYPSMRHOBKHU,M0396,False
+"Methacrylamide, N-methoxymethyl-",COCNC(=O)C(C)=C,C=C(C)C(=O)NCOC,YOZHLACIXDCHPV,M0397,False
+"Methacrylamide, N-p-bromophenyl-",CC(=C)C(=O)Nc1ccc(Br)cc1,C=C(C)C(=O)Nc1ccc(Br)cc1,SLCQGECCJKYUCZ,M0398,False
+"Methacrylamide, N-phenyl",CC(=C)C(=O)Nc1ccccc1,C=C(C)C(=O)Nc1ccccc1,IJSVVICYGLOZHA,M0399,False
+"Methacrylate, 2-ethylhexyl",CCCCC(CC)COC(=O)C(C)=C,C=C(C)C(=O)OCC(CC)CCCC,WDQMWEYDKDCEHT,M0400,False
+"Methacrylate, octyl",CCCCCCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCCCCCC,NZIDBRBFGPQCRY,M0401,False
+"Methacrylate, tert-butyl",CC(=C)C(=O)OC(C)(C)C,C=C(C)C(=O)OC(C)(C)C,SJMYWORNLPSJQO,M0402,False
+"Methacrylate, (-)-menthyl",CC(C)C1CCC(C)CC1OC(=O)C(C)=C,C=C(C)C(=O)OC1CC(C)CCC1C(C)C,VYPRXWXGLLURNB,M0403,False
+"Methacrylate, (2,2-dimethyl-1,3-dioxolane-4-yl)methyl",CC(=C)C(=O)OCC1COC(C)(C)O1,C=C(C)C(=O)OCC1COC(C)(C)O1,JPFPDGRVRGETED,M0404,False
+"Methacrylate, 1,1-diphenylethyl",CC(=C)C(=O)OC(C)(c1ccccc1)c2ccccc2,C=C(C)C(=O)OC(C)(c1ccccc1)c1ccccc1,TXLHVCXHFRFNCE,M0405,False
+"Methacrylate, 1-naphthyl",CC(=C)C(=O)Oc1cccc2ccccc12,C=C(C)C(=O)Oc1cccc2ccccc12,HVYCQBKSRWZZGX,M0406,False
+"Methacrylate, 2,2,6,6-tetramethyl-4-piperidinyl",CC(=C)C(=O)OC1CC(C)(C)NC(C)(C)C1,C=C(C)C(=O)OC1CC(C)(C)NC(C)(C)C1,UFLXKQBCEYNCDU,M0407,False
+"Methacrylate, 2,2-dimethylaminoethyl",CNC(COC(=O)C(C)=C)NC,C=C(C)C(=O)OCC(NC)NC,DXDMKLZVAJPSSQ,M0408,False
+"Methacrylate, 2,3-epithiopropyl",CC(=C)C(=O)OCC1CS1,C=C(C)C(=O)OCC1CS1,OXUABORVCCLQJI,M0409,False
+"Methacrylate, 2-(2-carboxybenzoyl-oxy)ethyl",CC(=C)C(=O)OCCOC(=O)c1ccccc1C(O)=O,C=C(C)C(=O)OCCOC(=O)c1ccccc1C(=O)O,FIQBJLHOPOSODG,M0410,False
+"Methacrylate, 2-(N,N-dimethyl-carbamoyloxy)ethyl",CN(C)C(=O)OCCOC(=O)C(C)=C,C=C(C)C(=O)OCCOC(=O)N(C)C,HXICXKDVJSAIOG,M0411,False
+"Methacrylate, 2-acetoxyethyl",CC(=C)C(=O)OCCOC(C)=O,C=C(C)C(=O)OCCOC(C)=O,ZTJNPDLOIVDEEL,M0412,False
+"Methacrylate, 2-bromoethyl",CC(=C)C(=O)OCCBr,C=C(C)C(=O)OCCBr,AOUSBQVEVZBMNI,M0413,False
+"Methacrylate, 2-chloroethyl",CC(=C)C(=O)OCCCl,C=C(C)C(=O)OCCCl,GPOGMJLHWQHEGF,M0414,False
+"Methacrylate, 2-hydroxyethyl",CC(=C)C(=O)OCCO,C=C(C)C(=O)OCCO,WOBHKFSMXKNTIM,M0415,False
+"Methacrylate, 2-hydroxypropyl",CC(O)COC(=O)C(C)=C,C=C(C)C(=O)OCC(C)O,VHSHLMUCYSAUQU,M0416,False
+"Methacrylate, 2-naphthyl",CC(=C)C(=O)Oc1ccc2ccccc2c1,C=C(C)C(=O)Oc1ccc2ccccc2c1,CXOYJPWMGYDJNW,M0417,False
+"Methacrylate, 2-naphthyl-, methyl",COC(=O)C(C)=Cc1ccc2ccccc2c1,COC(=O)C(C)=Cc1ccc2ccccc2c1,GNUMWRBYJCOGQI,M0418,False
+"Methacrylate, 3,5-dimethyladamantyl",CC(=C)C(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,C=C(C)C(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,ZGPJNXSGPFUODV,M0419,False
+"Methacrylate, 5-oxo-pyrrolidinylmethyl",CC(=C)C(=O)OCN1CCCC1=O,C=C(C)C(=O)OCN1CCCC1=O,CYRKCTYDKNSRQV,M0420,False
+"Methacrylate, N-ethyl-3-hydroxymethylcarbazolyl",CCn1c2ccccc2c3cc(CO)cc(OC(=O)C(C)=C)c13,C=C(C)C(=O)Oc1cc(CO)cc2c3ccccc3n(CC)c12,NKJVPTYEVCEQFJ,M0421,False
+"Methacrylate, acetonyl",CC(=O)COC(=O)C(C)=C,C=C(C)C(=O)OCC(C)=O,UMNGRRUQHFCWGR,M0422,False
+"Methacrylate, amyl",CCCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCCC,GYDSPAVLTMAXHT,M0423,False
+"Methacrylate, benzyl",CC(=C)C(=O)OCc1ccccc1,C=C(C)C(=O)OCc1ccccc1,AOJOEFVRHOZDFN,M0424,False
+"Methacrylate, butyl",CCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCC,SOGAXMICEFXMKE,M0425,False
+"Methacrylate, chloromethyl",CC(=C)C(=O)OCCl,C=C(C)C(=O)OCCl,JNNKWUPPLJTSSJ,M0426,False
+"Methacrylate, cyanomethyl",CC(=C)C(=O)OCC#N,C=C(C)C(=O)OCC#N,KXTNMKREYTVOMX,M0427,False
+"Methacrylate, cyclohexyl",CC(=C)C(=O)OC1CCCCC1,C=C(C)C(=O)OC1CCCCC1,OIWOHHBRDFKZNC,M0428,False
+"Methacrylate, decyl",CCCCCCCCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCCCCCCCC,GTBGXKPAKVYEKJ,M0429,False
+"Methacrylate, diethylaminoethyl",CCN(CC)CCOC(=O)C(C)=C,C=C(C)C(=O)OCCN(CC)CC,SJIXRGNQPBQWMK,M0430,False
+"Methacrylate, dimethylaminoethyl",CN(C)CCOC(=O)C(C)=C,C=C(C)C(=O)OCCN(C)C,JKNCOURZONDCGV,M0431,False
+"Methacrylate, diphenylmethyl",CC(=C)C(=O)OC(c1ccccc1)c2ccccc2,C=C(C)C(=O)OC(c1ccccc1)c1ccccc1,AVXYPAZKABBYHD,M0432,False
+"Methacrylate, ethyl",CCOC(=O)C(C)=C,C=C(C)C(=O)OCC,SUPCQIBBMFXVTL,M0433,False
+"Methacrylate, furfuryl",CC(=C)C(=O)OCc1occc1,C=C(C)C(=O)OCc1ccco1,DWXAVNJYFLGAEF,M0434,False
+"Methacrylate, glycidyl",CC(=C)C(=O)OCC1CO1,C=C(C)C(=O)OCC1CO1,VOZRXNHHFUQHIL,M0435,False
+"Methacrylate, hexyl",CCCCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCCCC,LNCPIMCVTKXXOY,M0436,False
+"Methacrylate, iso-butyl",CC(C)COC(=O)C(C)=C,C=C(C)C(=O)OCC(C)C,RUMACXVDVNRZJZ,M0437,False
+"Methacrylate, m-chlorophenyl",CC(=C)C(=O)Oc1cccc(Cl)c1,C=C(C)C(=O)Oc1cccc(Cl)c1,UZPZUBQNWHJPCU,M0438,False
+"Methacrylate, m-nitrophenyl",CC(=C)C(=O)Oc1cccc(c1)[N+]([O-])=O,C=C(C)C(=O)Oc1cccc([N+](=O)[O-])c1,UTISFCFKPMKVKR,M0439,False
+"Methacrylate, methoxymethyl",COCOC(=O)C(C)=C,C=C(C)C(=O)OCOC,LVQPBIMCRZQQBC,M0440,False
+"Methacrylate, methyl",COC(=O)C(C)=C,C=C(C)C(=O)OC,VVQNEPGJFQJSBK,M0441,False
+Methacrylate,CC(=C)C([O-])=O,C=C(C)C(=O)[O-],CERQOIWHTDAKMF,M0442,False
+Styrene,C=Cc1ccccc1,C=Cc1ccccc1,PPBRXRYQALVLMV,M0443,False
+"Methacrylate, methylthiomethyl",CSCOC(=O)C(C)=C,C=C(C)C(=O)OCSC,AHJQXEBSKMYLKC,M0444,False
+"Methacrylate, p-carbomethoxyphenyl",COC(=O)c1ccc(OC(=O)C(C)=C)cc1,C=C(C)C(=O)Oc1ccc(C(=O)OC)cc1,MXEKGCYXPNIRFV,M0445,False
+"Methacrylate, p-chlorophenyl",CC(=C)C(=O)Oc1ccc(Cl)cc1,C=C(C)C(=O)Oc1ccc(Cl)cc1,SIADNYSYTSORRE,M0446,False
+"Methacrylate, p-methoxyphenyl",COc1ccc(OC(=O)C(C)=C)cc1,C=C(C)C(=O)Oc1ccc(OC)cc1,WIZMCLXMWBKNKH,M0447,False
+"Methacrylate, p-methylphenyl",CC(=C)C(=O)Oc1ccc(C)cc1,C=C(C)C(=O)Oc1ccc(C)cc1,AOUAMFARIYTDLK,M0448,False
+"Methacrylate, phenyl",CC(=C)C(=O)Oc1ccccc1,C=C(C)C(=O)Oc1ccccc1,QIWKUEJZZCOPFV,M0449,False
+"Methacrylate, propyl",CCCOC(=O)C(C)=C,C=C(C)C(=O)OCCC,NHARPDSAXCBDDR,M0450,False
+"Methacrylate, sulfolanyl",CC(=C)C(=O)OC1CCC[S]1(=O)=O,C=C(C)C(=O)OC1CCCS1(=O)=O,WPTHNYUICULUIA,M0451,False
+Methacrylic acid,CC(=C)C(O)=O,C=C(C)C(=O)O,CERQOIWHTDAKMF,M0452,False
+Methacrylic acid N-(2-methacryl),CC(=C)C(=O)OCCN(C)C,C=C(C)C(=O)OCCN(C)C,JKNCOURZONDCGV,M0453,False
+Methacrylic anhydride,CC(=C)C(=O)OC(=O)C(C)=C,C=C(C)C(=O)OC(=O)C(=C)C,DCUFMVPCXCSVNP,M0454,False
+Methacrylonitrile,CC(=C)C#N,C=C(C)C#N,GYCMBHHDWRMZGG,M0455,False
+Methacryloxymethylpentamethyldisiloxane,CC(=C)C(=O)OC[Si](C)(C)O[Si](C)(C)C,C=C(C)C(=O)OC[Si](C)(C)O[Si](C)(C)C,RZKKLXUEULTOGP,M0456,False
+Methacryloxypropyltrimethoxysilane,CO[Si](CCCOC(=O)C(C)=C)(OC)OC,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,XDLMVUHYZWKMMD,M0457,False
+Methacryloyl chloride,CC(=C)C(Cl)=O,C=C(C)C(=O)Cl,VHRYZQNGTZXDNX,M0458,False
+Methacryloyl fluoride,CC(=C)C(F)=O,C=C(C)C(=O)F,QPWDDANCLNNEQF,M0459,False
+"Methacryloyl fluoride, perfluoro-",FC(F)=C(C(F)=O)C(F)(F)F,O=C(F)C(=C(F)F)C(F)(F)F,PKMLXJCOQLUBAX,M0460,False
+Methacryloyl isocyanate,CC(=C)C(=O)N=C=O,C=C(C)C(=O)N=C=O,JEHFRMABGJJCPF,M0461,False
+Methacryloyl-β-hydroxyethyl-,CC(=C)C(=O)Cl,C=C(C)C(=O)Cl,VHRYZQNGTZXDNX,M0462,False
+Methacryloylacetone,CC(=C)C(=O)CC(C)=O,C=C(C)C(=O)CC(C)=O,RKAZWPVRTYSEED,M0463,False
+"Methacryloyloxy,",CC(=C)C(=O)OCCOC(=O)C=CC(=O)O,C=C(C)C(=O)OCCOC(=O)C=CC(=O)O,HSFXEOPJXMFQHG,M0464,False
+"Methyleneglutaronitrile, 2-",C=C(CCC#N)C#N,C=C(C#N)CCC#N,NGCJVMZXRCLPRQ,M0465,False
+Myrcene,CC(C)=CCCC(=C)C=C,C=CC(=C)CCC=C(C)C,UAHWPYUMFXYFJY,M0466,False
+"Oxazolidone, N-vinyl-",C=CN1CCOC1=O,C=CN1CCOC1=O,VUEZBQJWLDBIDE,M0467,False
+"Oxazoline, 2-, 2-isopropenyl-",CC(=C)C1=NCCO1,C=C(C)C1=NCCO1,LPIQIQPLUVLISR,M0468,False
+"Oxazolinium, 2-isopropenyl-2-",CC(=C)C1=[NH+]CCO1,C=C(C)C1=[NH+]CCO1,LPIQIQPLUVLISR,M0469,False
+"Oxirane, 4-vinylphenyl-",C=Cc1ccc(cc1)C2CO2,C=Cc1ccc(C2CO2)cc1,DENMIBABNWPFEG,M0470,False
+"Pentadiene, cis-1,3-",C\C=C/C=C,C=C/C=C\C,PMJHHCWVYXUKFD,M0471,False
+"Pentadiene, trans-1,3-",C/C=C/C=C,C=C/C=C/C,PMJHHCWVYXUKFD,M0472,False
+"Pentadienoate, trans-4-ethoxy-2,4-",CCOC(=C)\C=C\C([O-])=O,C=C(/C=C/C(=O)[O-])OCC,IVZUEAJDCWZRRZ,M0473,False
+"Penten-2,4-one",CC(=O)CC=C,C=CCC(C)=O,PNJWIWWMYCMZRO,M0474,False
+Pentene-1,CCCC=C,C=CCCC,YWAKXRMUMFPDSH,M0475,False
+"Pentene-1, 5-phenyl-",C=CCCCC1=CC=CC=C1,C=CCCCc1ccccc1,RURREWSZSUQSNB,M0476,False
+"Pentenoate, 3-oxo-4-, ethyl",CCOC(=O)CC(=O)C=C,C=CC(=O)CC(=O)OCC,IEZWUJDDYLWKEP,M0477,False
+"Pentenoate, 4-methyl-3-oxo-4-, ethyl",CCOC(=O)CC(=O)C(C)=C,C=C(C)C(=O)CC(=O)OCC,QWEOLZXJIXWQIA,M0478,False
+"Phenol, 3-(methacryloylamino)-",CC(=C)C(=O)Nc1cccc(O)c1,C=C(C)C(=O)Nc1cccc(O)c1,VAVZHSBOROHMQD,M0479,False
+"Phenol, 4-(methacryloylamino)-",CC(=C)C(=O)Nc1ccc(O)cc1,C=C(C)C(=O)Nc1ccc(O)cc1,XZSZONUJSGDIFI,M0480,False
+Phosphate diethyl isopropenyl,CC(=C)OP(=O)(OC)OC,C=C(C)OP(=O)(OC)OC,CLUBBNMVLUHMDR,M0481,False
+"Phosphate, 2-(acryloyloxy)ethyl diethyl",CCO[P](=O)(OCC)OCCOC(=O)C=C,C=CC(=O)OCCOP(=O)(OCC)OCC,AWQIKUQPESBGMJ,M0482,False
+"Phthalide, 3-(4-vinylphenyl)-",C=Cc1ccc(cc1)C2OC(=O)c3ccccc23,C=Cc1ccc(C2OC(=O)c3ccccc32)cc1,IFMYSPXTZOFPKN,M0483,False
+"Phthalimide, N-(4-vinylphenyl)-",C=Cc1ccc(cc1)N2C(=O)c3ccccc3C2=O,C=Cc1ccc(N2C(=O)c3ccccc3C2=O)cc1,ZHPCYNZIRCYKOJ,M0484,False
+"Phthalimide, N-(methacryloyloxy)-",CC(=C)C(=O)ON1C(=O)c2ccccc2C1=O,C=C(C)C(=O)ON1C(=O)c2ccccc2C1=O,QKTOEXNMNPTDSF,M0485,False
+"Phthalimide, N-vinyl-",C=CN1C(=O)c2ccccc2C1=O,C=CN1C(=O)c2ccccc2C1=O,IGDLZDCWMRPMGL,M0486,False
+Pinene,CC1=C2CC(CC1)C2(C)C,CC1=C2CC(CC1)C2(C)C,NDUIFQPPDDOKRN,M0487,False
+"Propene, 3,3,3-trichloro-",ClC(Cl)(Cl)C=C,C=CC(Cl)(Cl)Cl,VKEIPALYOJMDAC,M0488,False
+"Propene, 1-chloro-cis-",C\C=C/Cl,C/C=C\Cl,OWXJKYNZGFSVRC,M0489,False
+"Propene, 1-chloro-trans-",C/C=C/Cl,C/C=C/Cl,OWXJKYNZGFSVRC,M0490,False
+"Propene, 2,3-dichloro-",ClCC(Cl)=C,C=C(Cl)CCl,FALCMQXTWHPRIH,M0491,False
+"Propene, 2-chloro-",CC(Cl)=C,C=C(C)Cl,PNLQPWWBHXMFCA,M0492,False
+"Propene, 2-chloro-3-hydroxy-",OCC(Cl)=C,C=C(Cl)CO,OSCXYTRISGREIM,M0493,False
+"Propene, 3-chloro-2-chloromethyl-",ClCC(=C)CCl,C=C(CCl)CCl,XJFZOSUFGSANIF,M0494,False
+Propenyl methyl ketone,CC=CC(C)=O,CC=CC(C)=O,LABTWGUMFABVFG,M0495,False
+"Propenyl, 2-chloro-, acetate",CC(Cl)=COC(C)=O,CC(=O)OC=C(C)Cl,OPZZKYKMMQTPEL,M0496,False
+"Propenyl, 2-methyl-, acetate",CC(C)=COC(C)=O,CC(=O)OC=C(C)C,MNJRLZXXSZEIHD,M0497,False
+"Propiolactam, N-phenyl-α-methylene-",C=C1CN(C1=O)c2ccccc2,C=C1CN(c2ccccc2)C1=O,VJCLLNXQSYQNOV,M0498,False
+"Propionate, vinyl",CCC(=O)OC=C,C=COC(=O)CC,UIWXSTHGICQLQT,M0499,False
+Propylene,CC=C,C=CC,QQONPFPTGQHPMA,M0500,False
+"Pyrazole, 3-methyl-1-vinyl-",Cc1ccn(C=C)n1,C=Cn1ccc(C)n1,HXPGEXSWCTYWSC,M0501,False
+"Pyrazole, 5-methyl-1-vinyl-",Cc1ccnn1C=C,C=Cn1nccc1C,VQSNZRKTZXIYLG,M0502,False
+"Pyrazole, N-vinyl-3,5-dimethyl-",Cc1cc(C)n(C=C)n1,C=Cn1nc(C)cc1C,PWHCXMAJNAYEOR,M0503,False
+"Pyridazone, 2-vinyl-3-",C=CN1N=CC=CC1=O,C=Cn1ncccc1=O,YPRGCFKFJAQQFV,M0504,False
+"Pyridazone, 2-vinyl-6-methyl-3-",CC1=NN(C=C)C(=O)C=C1,C=Cn1nc(C)ccc1=O,XDGWZXLOJQQYPH,M0505,False
+"Pyridazone, 2-vinyl-6-phenyl-3-",C=CN1N=C(C=CC1=O)c2ccccc2,C=Cn1nc(-c2ccccc2)ccc1=O,CBHACVBMFPXKKT,M0506,False
+"Pyridine, 2-methyl-5-vinyl-",Cc1ccc(C=C)cn1,C=Cc1ccc(C)nc1,VJOWMORERYNYON,M0507,False
+"Pyridine, 2-vinyl-",C=Cc1ccccn1,C=Cc1ccccn1,KGIGUEBEKRSTEW,M0508,False
+"Pyridine, 2-vinyl-5-ethyl-",CCc1ccc(C=C)nc1,C=Cc1ccc(CC)cn1,YQUDMNIUBTXLSX,M0509,False
+"Pyridine, 3-vinyl-",C=Cc1cccnc1,C=Cc1cccnc1,DPZYLEIWHTWHCU,M0510,False
+"Pyridine, 4-vinyl-",C=Cc1ccncc1,C=Cc1ccncc1,KFDVPJUYSDEJTH,M0511,False
+"Pyridine, N-oxide-, 2-vinyl-5-ethyl-",C=CC1=CC=NC=C1,C=Cc1ccncc1,KFDVPJUYSDEJTH,M0512,False
+"Pyrimidine-2-one, 1,3-divinylhexahydro-",C=CN1CCCN(C=C)C1=O,C=CN1CCCN(C=C)C1=O,JVGOEGSMSPAINF,M0513,False
+"Pyrimidine, 2-N,N-dimethylamino-4-vinyl-",CN(C)C1=CC=C(C=C1)C=CC2=CC(=NC=N2)C=CC3=CC=C(C=C3)N(C)C,CN(C)c1ccc(C=Cc2cc(C=Cc3ccc(N(C)C)cc3)ncn2)cc1,GOXJDFAJJRAMNV,M0514,False
+"Pyrimidine, 4-vinyl-",C=Cc1ccncn1,C=Cc1ccncn1,UMKWZZPKADNTRP,M0515,False
+"Pyrrolidone, 1-benzyl-3-methylene-",C=C1CCN(Cc2ccccc2)C1=O,C=C1CCN(Cc2ccccc2)C1=O,DBGXJJHOFMFJFD,M0516,False
+"Pyrrolidone, N-vinyl-",C=CN1CCCC1=O,C=CN1CCCC1=O,WHNWPMSKXPGLAX,M0517,False
+"Pyrrolidone, a-methylene-N-methyl-",CN1CCC(=C)C1=O,C=C1CCN(C)C1=O,AFXKUUDFKHVAGI,M0518,False
+Quinine,COc1ccc2nccc([C@@H](O)[C@@H]3C[C@H]4CCN3C[C@@H]4C=C)c2c1,C=C[C@H]1CN2CC[C@@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,LOUPRKONTZGTKE,M0519,False
+"Quinoline, 2-vinyl-",C=Cc1ccc2ccccc2n1,C=Cc1ccc2ccccc2n1,XUGNJOCQALIQFG,M0520,False
+"Silane, 7-methacryloxypropyltrimethoxy-",CCO[Si](OC)(OC)OCCCCOC(=O)C(=C)C,C=C(C)C(=O)OCCCCO[Si](OC)(OC)OCC,DPSAYPJYQFQGNC,M0521,False
+Stilbene,c1ccc(cc1)C=Cc2ccccc2,C(=Cc1ccccc1)c1ccccc1,PJANXHGTPQOBST,M0522,False
+"Styrene, 2,4,6-trimethyl-",Cc1cc(C)c(C=C)c(C)c1,C=Cc1c(C)cc(C)cc1C,PDELBHCVXBSVPJ,M0523,False
+"Styrene, 2,4-dibromo-",Brc1ccc(C=C)c(Br)c1,C=Cc1ccc(Br)cc1Br,NTHFKMZKTASAMH,M0524,False
+"Styrene, 2,5-dichloro-",Clc1ccc(Cl)c(C=C)c1,C=Cc1cc(Cl)ccc1Cl,IZMZREOTRMMCCB,M0525,False
+"Styrene, 2,5-dimethyl-",Cc1ccc(C)c(C=C)c1,C=Cc1cc(C)ccc1C,DBWWINQJTZYDFK,M0526,False
+"Styrene, 2,6-dichloro-",Clc1cccc(Cl)c1C=C,C=Cc1c(Cl)cccc1Cl,YJCVRMIJBXTMNR,M0527,False
+"Styrene, 2,4,5-tribromo-",Brc1cc(Br)c(C=C)cc1Br,C=Cc1cc(Br)c(Br)cc1Br,ZFYXTBYFHIVKEC,M0528,False
+"Styrene, 4-(tert-butyldimethylsilyloxy)-",CC(C)(C)[Si](C)(C)Oc1ccc(C=C)cc1,C=Cc1ccc(O[Si](C)(C)C(C)(C)C)cc1,QVPBMCKCBQURHP,M0529,False
+"Styrene, 4-(trimethylsilyl)-",C[Si](C)(C)c1ccc(C=C)cc1,C=Cc1ccc([Si](C)(C)C)cc1,OXHSYXPNALRSME,M0530,False
+"Styrene, 4-methyl-",Cc1ccc(C=C)cc1,C=Cc1ccc(C)cc1,JLBJTVDPSNHSKJ,M0531,False
+"Styrene, 4-phenoxy-",C=Cc1ccc(Oc2ccccc2)cc1,C=Cc1ccc(Oc2ccccc2)cc1,UULPGUKSBAXNJN,M0532,False
+"Styrene, a-(trimethylsilyloxy)-",C[Si](C)(C)OC(=CC1=CC=CC=C1)O[Si](C)(C)C,C[Si](C)(C)OC(=Cc1ccccc1)O[Si](C)(C)C,HMHSNGLUZWVXQY,M0533,False
+"Styrene, a-methyl-",CC(=C)C1=CC=CC=C1,C=C(C)c1ccccc1,XYLMUPLGERFSHI,M0534,False
+"Styrene, m-amino-",Nc1cccc(C=C)c1,C=Cc1cccc(N)c1,IFSSSYDVRQSDSG,M0535,False
+"Styrene, m-bromo-",Brc1cccc(C=C)c1,C=Cc1cccc(Br)c1,KQJQPCJDKBKSLV,M0536,False
+"Styrene, m-chloro-",Clc1cccc(C=C)c1,C=Cc1cccc(Cl)c1,BOVQCIDBZXNFEJ,M0537,False
+"Styrene, m-cyano-",C=Cc1cccc(c1)C#N,C=Cc1cccc(C#N)c1,FDIHXBYYQCPWDX,M0538,False
+"Styrene, m-diethylaminoethyl-",CCN(CC)CCc1cccc(C=C)c1,C=Cc1cccc(CCN(CC)CC)c1,UTQHMFFTYBUYGA,M0539,False
+"Styrene, m-dimethylamino-",CN(C)c1cccc(C=C)c1,C=Cc1cccc(N(C)C)c1,PICSCPLZGPFCIT,M0540,False
+"Styrene, m-hydroxy-",Oc1cccc(C=C)c1,C=Cc1cccc(O)c1,YNGIFMKMDRDNBQ,M0541,False
+"Styrene, m-methoxy-",COc1cccc(C=C)c1,C=Cc1cccc(OC)c1,PECUPOXPPBBFLU,M0542,False
+"Styrene, m-methyl",CC1=CC(=CC=C1)C=C,C=Cc1cccc(C)c1,JZHGRUMIRATHIU,M0543,False
+"Styrene, m-methyl-",Cc1cccc(C=C)c1,C=Cc1cccc(C)c1,JZHGRUMIRATHIU,M0544,False
+"Styrene, m-nitro-",[O-][N+](=O)c1cccc(C=C)c1,C=Cc1cccc([N+](=O)[O-])c1,SYZVQXIUVGKCBJ,M0545,False
+"Styrene, o-chloro-",Clc1ccccc1C=C,C=Cc1ccccc1Cl,ISRGONDNXBCDBM,M0546,False
+"Styrene, p-phenyl ketone",C=CC1=CC=CC=C1,C=Cc1ccccc1,PPBRXRYQALVLMV,M0547,False
+"Styrene, p-N,N-dimethylamino-",CN(C)c1ccc(C=C)cc1,C=Cc1ccc(N(C)C)cc1,GQWAOUOHRMHSHL,M0548,False
+"Styrene, p-acetoxy-",CC(=O)Oc1ccc(C=C)cc1,C=Cc1ccc(OC(C)=O)cc1,JAMNSIXSLVPNLC,M0549,False
+"Styrene, p-amino-",Nc1ccc(C=C)cc1,C=Cc1ccc(N)cc1,LBSXSAXOLABXMF,M0550,False
+"Styrene, p-bromo-",Brc1ccc(C=C)cc1,C=Cc1ccc(Br)cc1,WGGLDBIZIQMEGH,M0551,False
+"Styrene, p-chloro-",Clc1ccc(C=C)cc1,C=Cc1ccc(Cl)cc1,KTZVZZJJVJQZHV,M0552,False
+"Styrene, p-chloromethyl-",ClCc1ccc(C=C)cc1,C=Cc1ccc(CCl)cc1,ZRZHXNCATOYMJH,M0553,False
+"Styrene, p-cyano-",C=Cc1ccc(cc1)C#N,C=Cc1ccc(C#N)cc1,SNTUCKQYWGHZPK,M0554,False
+"Styrene, p-decyl-",CCCCCCCCCCc1ccc(C=C)cc1,C=Cc1ccc(CCCCCCCCCC)cc1,DMADTXMQLFQQII,M0555,False
+"Styrene, p-diethylaminoethyl-",CCN(CC)CCc1ccc(C=C)cc1,C=Cc1ccc(CCN(CC)CC)cc1,BIOCRZSYHQYVSG,M0556,False
+"Styrene, p-dimethylaminomethyl-",CN(C)Cc1ccc(C=C)cc1,C=Cc1ccc(CN(C)C)cc1,XQBHAZDVLGNSOJ,M0557,False
+"Styrene, p-ethoxy-",CCOc1ccc(C=C)cc1,C=Cc1ccc(OCC)cc1,OBRYRJYZWVLVLF,M0558,False
+"Styrene, p-fluoro-",Fc1ccc(C=C)cc1,C=Cc1ccc(F)cc1,JWVTWJNGILGLAT,M0559,False
+"Styrene, p-fluoromethyl-",FCc1ccc(C=C)cc1,C=Cc1ccc(CF)cc1,WNLYONPBCCQPHU,M0560,False
+"Styrene, p-iodo-",Ic1ccc(C=C)cc1,C=Cc1ccc(I)cc1,KWHSBYQFELZKKS,M0561,False
+"Styrene, p-mercapto-",Sc1ccc(C=C)cc1,C=Cc1ccc(S)cc1,KCCWFTFCEHVSTM,M0562,False
+"Styrene, p-methoxy-",COc1ccc(C=C)cc1,C=Cc1ccc(OC)cc1,UAJRSHJHFRVGMG,M0563,False
+"Styrene, p-nitro-",[O-][N+](=O)c1ccc(C=C)cc1,C=Cc1ccc([N+](=O)[O-])cc1,YFZHODLXYNDBSM,M0564,False
+"Styrene, p-tert-butyl-",CC(C)(C)c1ccc(C=C)cc1,C=Cc1ccc(C(C)(C)C)cc1,QEDJMOONZLUIMC,M0565,False
+"Styrene, pentachloro-",ClC(Cl)=C(Cl)c1cccc(Cl)c1Cl,ClC(Cl)=C(Cl)c1cccc(Cl)c1Cl,AUHKVLIZXLBQSR,M0566,False
+"Succinimide, N-vinyl-",C=CN1C(=O)CCC1=O,C=CN1C(=O)CCC1=O,VOCDJQSAMZARGX,M0567,False
+"Terpyridinyl 4'-vinyl-2,2':6',2''-",C=CC1=CC(=NC(=C1)C2=CC=CC=N2)C3=CC=CC=N3,C=Cc1cc(-c2ccccn2)nc(-c2ccccn2)c1,YHHZTNLQLLFUQG,M0568,False
+"Tetrazole, 1-vinyl-",C=Cn1cnnn1,C=Cn1cnnn1,LUHYKUNBEOOKRR,M0569,False
+"Tetrazole, 2-methyl-5-(4'-vinyl)phenyl-",CN1N=C(N=N1)C2=CC=C(C=C2)C=C,C=Cc1ccc(-c2nnn(C)n2)cc1,RAPBLXIJQCCPLL,M0570,False
+"Tetrazole, 2-methyl-5-vinyl-",Cn1nnc(C=C)n1,C=Cc1nnn(C)n1,BHRMHWAEINWAJS,M0571,False
+"Tetrazole, 5-vinyl-",C=Cc1[nH]nnn1,C=Cc1nnn[nH]1,VTQMJCSAHXYXPJ,M0572,False
+"Thiophene, 3-vinyl",C=CC1=CSC=C1,C=Cc1ccsc1,BOJMHHBWYPDQQH,M0573,False
+"Thioxanthone, 2-(acryloyloxy)-",C=CC(=O)Oc1ccc2Sc3ccccc3C(=O)c2c1,C=CC(=O)Oc1ccc2sc3ccccc3c(=O)c2c1,SASHRXGZPBBERJ,M0574,False
+Triallyl citrate,OC(CC(=O)OCC=C)(CC(=O)OCC=C)C(=O)OCC=C,C=CCOC(=O)CC(O)(CC(=O)OCC=C)C(=O)OCC=C,PLCFYBDYBCOLSP,M0575,False
+Triallyl cyanurate,C=CCOc1nc(OCC=C)nc(OCC=C)n1,C=CCOc1nc(OCC=C)nc(OCC=C)n1,BJELTSYBAHKXRW,M0576,False
+Triallyl isocyanurate,C=CCN1C(=O)N(CC=C)C(=O)N(CC=C)C1=O,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,KOMNUTZXSVSERR,M0577,False
+"Triazine, 4,6-diamino-2-vinyl-",NC1=CC(=NN(N1)C=C)N,C=CN1N=C(N)C=C(N)N1,AKYLNDFIHYWREP,M0578,False
+"Triazine, 2-allyloxy-4,6-dichloro-",ClC1=CC(=NN(N1)OCC=C)Cl,C=CCON1N=C(Cl)C=C(Cl)N1,YDZKVRSOSLRUIO,M0579,False
+"Tricyclo[4,2,2,02,5]dec-7-ene-",C1CC2C=CC1C3CCC23,C1=CC2CCC1C1CCC21,OYPVZSANECKQOK,M0580,False
+"Urea, 1,3-divinyl-1,3-diphenyl-",C=CN(C(=O)N(C=C)c1ccccc1)c2ccccc2,C=CN(C(=O)N(C=C)c1ccccc1)c1ccccc1,KMTCZBUISRMORW,M0581,False
+"Urea, N-vinyl-N'-ethyl-",CCNC(=O)NC=C,C=CNC(=O)NCC,LIOYFPXDFZHOGN,M0582,False
+Vinyl 12-ketostearate,CCCCCCC(=O)CCCCCCCCCCC(=O)OC=C,C=COC(=O)CCCCCCCCCCC(=O)CCCCCC,RQWNBPJEOMPEGE,M0583,False
+Vinyl 2-bromo-ethyl ether,BrCCOC=C,C=COCCBr,PPUZXOKAOIOPIE,M0584,False
+Vinyl 2-chloroethyl ether,ClCCOC=C,C=COCCCl,DNJRKFKAFWSXSE,M0585,False
+Vinyl 2-ethylhexanoate,CCCCC(CC)C(=O)OC=C,C=COC(=O)C(CC)CCCC,IGBZOHMCHDADGY,M0586,False
+Vinyl acetate,CC(=O)OC=C,C=COC(C)=O,XTXRWKRVRITETP,M0587,False
+Vinyl acetoxymethyl ketone,CC(=O)OCC(=O)C=C,C=CC(=O)COC(C)=O,GZNCCNHJQSRXNU,M0588,False
+Vinyl benzenesulfonate,C=CO[S](=O)(=O)c1ccccc1,C=COS(=O)(=O)c1ccccc1,ZFRKEVMBGBIBGT,M0589,False
+Vinyl benzoate,C=COC(=O)c1ccccc1,C=COC(=O)c1ccccc1,KOZCZZVUFDCZGG,M0590,False
+Vinyl benzyl sulfide,C=CSCc1ccccc1,C=CSCc1ccccc1,RYZCGQUXJPHSSF,M0591,False
+Vinyl bromide,BrC=C,C=CBr,INLLPKCGLOXCIV,M0592,False
+Vinyl butyl ether,CCCCOC=C,C=COCCCC,UZKWTJUDCOPSNM,M0593,False
+Vinyl butyl sulfide,CCCCSC=C,C=CSCCCC,LBMGSGLAWRZARD,M0594,False
+Vinyl butylsulfonate,CCCC[S](=O)(=O)OC=C,C=COS(=O)(=O)CCCC,RLBAVXBAWIWOCS,M0595,False
+Vinyl butyrate,CCCC(=O)OC=C,C=COC(=O)CCC,MEGHWIAOTJPCHQ,M0596,False
+Vinyl caproate,CCCCCC(=O)OC=C,C=COC(=O)CCCCC,LZWYWAIOTBEZFN,M0597,False
+Vinyl chloride,ClC=C,C=CCl,BZHJMEDXRYGGRV,M0598,False
+Vinyl chloroformate,ClC(=O)OC=C,C=COC(=O)Cl,PQLFROTZSIMBKR,M0599,False
+Vinyl chloromethyl ketone,ClCC(=O)C=C,C=CC(=O)CCl,SEVIEHFDUHCSCV,M0600,False
+Vinyl cinnamate,C=COC(=O)C=Cc1ccccc1,C=COC(=O)C=Cc1ccccc1,WGXGKXTZIQFQFO,M0601,False
+Vinyl cyclohexyl ether,C=COC1CCCCC1,C=COC1CCCCC1,VGIYPVFBQRUBDD,M0602,False
+Vinyl dichloroacetate,ClC(Cl)C(=O)OC=C,C=COC(=O)C(Cl)Cl,ZBCLTORTGNOIGM,M0603,False
+Vinyl diethylphosphinate,CC[P](=O)(CC)OC=C,C=COP(=O)(CC)CC,GWWDTSBYKCXBOH,M0604,False
+Vinyl ether,C=COC=C,C=COC=C,QYKIQEUNHZKYBP,M0605,False
+Vinyl ethyl ether,CCOC=C,C=COCC,FJKIXWOMBXYWOQ,M0606,False
+Vinyl ethyl ketone,CCC(=O)C=C,C=CC(=O)CC,JLIDVCMBCGBIEY,M0607,False
+Vinyl ethyl oxalate,CCOC(=O)C(=O)OC=C,C=COC(=O)C(=O)OCC,VWBJUKIWBKFFCF,M0608,False
+Vinyl ethyl sulfide,CCSC=C,C=CSCC,AFGACPRTZOCNIW,M0609,False
+Vinyl ethyl sulfoxide,CC[S](=O)C=C,C=CS(=O)CC,HNXMKNMCALMEPP,M0610,False
+Vinyl fluoride,FC=C,C=CF,XUCNUKMRBVNAPB,M0611,False
+Vinyl formate,C=COC=O,C=COC=O,GFJVXXWOPWLRNU,M0612,False
+Vinyl hendecanoate,CCCCCCCCCCC(=O)OC=C,C=COC(=O)CCCCCCCCCC,QLSZOQFMYAIZBM,M0613,False
+Vinyl iodide,IC=C,C=CI,GHXZPUGJZVBLGC,M0614,False
+Vinyl isobutyl ether,CC(C)COC=C,C=COCC(C)C,OZCMOJQQLBXBKI,M0615,False
+Vinyl isobutyl sulfide,CC(C)CSC=C,C=CSCC(C)C,CANYKRZRPKHWHK,M0616,False
+Vinyl isopropyl ether,CC(C)OC=C,C=COC(C)C,GNUGVECARVKIPH,M0617,False
+Vinyl isopropyl ketone,CC(C)C(=O)C=C,C=CC(=O)C(C)C,SNOYUTZWILESAI,M0618,False
+Vinyl isopropyl sulfide,CC(C)SC=C,C=CSC(C)C,KENPNZJNGZPRCQ,M0619,False
+Vinyl isothiocyanate,C=CN=C=S,C=CN=C=S,VJCLZQUHGQSTMZ,M0620,False
+Vinyl 1-methyl ether,COC=C,C=COC,XJRBAMWJDBPFIM,M0621,False
+Vinyl laurate,CCCCCCCCCCCC(=O)OC=C,C=COC(=O)CCCCCCCCCCC,GLVVKKSPKXTQRB,M0622,False
+Vinyl m-cresyl ether,Cc1cccc(OC=C)c1,C=COc1cccc(C)c1,ZBUCIAUZAGKZOS,M0623,False
+Vinyl methanesulfonate,C[S](=O)(=O)OC=C,C=COS(C)(=O)=O,YEJVKMAEZUVCOK,M0624,False
+Vinyl methyl sulfide,CSC=C,C=CSC,AMBKPYJJYUKNFI,M0625,False
+Vinyl methyl sulfone,C[S](=O)(=O)C=C,C=CS(C)(=O)=O,WUIJTQZXUURFQU,M0626,False
+Vinyl methyl sulfoxide,C[S](=O)C=C,C=CS(C)=O,UDDBCWCQRQREBI,M0627,False
+Vinyl mono-diethyleneglycol ether,C=COCCOCCO,C=COCCOCCO,WULAHPYSGCVQHM,M0628,False
+Vinyl o-cresyl ether,Cc1ccccc1OC=C,C=COc1ccccc1C,TWWWGBSUPNNTMJ,M0629,False
+Vinyl octadecyl ether,CCCCCCCCCCCCCCCCCCOC=C,C=COCCCCCCCCCCCCCCCCCC,QJJDJWUCRAPCOL,M0630,False
+Vinyl octyl ether,CCCCCCCCOC=C,C=COCCCCCCCC,XXCVIFJHBFNFBO,M0631,False
+Vinyl p-bromobenzoate,Brc1ccc(cc1)C(=O)OC=C,C=COC(=O)c1ccc(Br)cc1,GFCRQEKWKJKZNG,M0632,False
+Vinyl p-chlorobenzoate,Clc1ccc(cc1)C(=O)OC=C,C=COC(=O)c1ccc(Cl)cc1,WUIOPDYOMAXHRZ,M0633,False
+Vinyl p-chlorophenyl ether,Clc1ccc(OC=C)cc1,C=COc1ccc(Cl)cc1,HDULJDRDAYLILV,M0634,False
+Vinyl p-cresyl ether,Cc1ccc(OC=C)cc1,C=COc1ccc(C)cc1,YXHRYLHTQVXZIK,M0635,False
+Vinyl p-cyanobenzoate,C=COC(=O)c1ccc(cc1)C#N,C=COC(=O)c1ccc(C#N)cc1,ODZSKPUYFMYYBX,M0636,False
+Vinyl p-methoxybenzoate,COc1ccc(cc1)C(=O)OC=C,C=COC(=O)c1ccc(OC)cc1,MZVHCBIARVQEDJ,M0637,False
+Vinyl p-methylbenzoate,Cc1ccc(cc1)C(=O)OC=C,C=COC(=O)c1ccc(C)cc1,HPHRYEFAPDIEIZ,M0638,False
+Vinyl p-tert-butylphenyl ether,CC(C)(C)c1ccc(OC=C)cc1,C=COc1ccc(C(C)(C)C)cc1,BFVTULXNNTYOAV,M0639,False
+Vinyl p-vinyloxybenzoate,C=COC(=O)c1ccc(OC=C)cc1,C=COC(=O)c1ccc(OC=C)cc1,ZPALXDUHENTQSB,M0640,False
+Vinyl pelargonate,CCCCCCCCC(=O)OC=C,C=COC(=O)CCCCCCCC,NWJTZFZQVYJIHU,M0641,False
+Vinyl phenyl carbonate,C=COC(=O)Oc1ccccc1,C=COC(=O)Oc1ccccc1,GTDSNRGCQQYWCF,M0642,False
+Vinyl phenyl ether,C=COc1ccccc1,C=COc1ccccc1,NHOGGUYTANYCGQ,M0643,False
+Vinyl phenyl ketone,C=CC(=O)c1ccccc1,C=CC(=O)c1ccccc1,KUIZKZHDMPERHR,M0644,False
+Vinyl phenyl sulfide,C=CSc1ccccc1,C=CSc1ccccc1,GMPDOIGGGXSAPL,M0645,False
+Vinyl phenyl sulfone,C=C[S](=O)(=O)c1ccccc1,C=CS(=O)(=O)c1ccccc1,UJTPZISIAWDGFF,M0646,False
+Vinyl stearate,CCCCCCCCCCCCCCCCCC(=O)OC=C,C=COC(=O)CCCCCCCCCCCCCCCCC,AFSIMBWBBOJPJG,M0647,False
+Vinyl sulfone,C=C[S](=O)(=O)C=C,C=CS(=O)(=O)C=C,AFOSIXZFDONLBT,M0648,False
+Vinyl tert-butyl ketone,CC(C)(C)C(=O)C=C,C=CC(=O)C(C)(C)C,MUOKXXOKLLKNIE,M0649,False
+Vinyl tert-butyl sulfide,CC(C)(C)SC=C,C=CSC(C)(C)C,QBBBUPLGCPJGMC,M0650,False
+Vinyl thiolacetate,C=COC(=O)Cc1sccc1,C=COC(=O)Cc1cccs1,IFMUNEPYWVGZCU,M0651,False
+Vinyl trichloroacetate,ClC(Cl)(Cl)C(=O)OC=C,C=COC(=O)C(Cl)(Cl)Cl,HDSFLVZBTRAEEM,M0652,False
+Vinyl valerate,CCCCC(=O)OC=C,C=COC(=O)CCCC,BLZSRIYYOIZLJL,M0653,False
+Vinyl-tris(trimethoxysiloxy)silane,CO[Si](OC)(OC)O[Si](O[Si](OC)(OC)OC)(O[Si](OC)(OC)OC)C=C,C=C[Si](O[Si](OC)(OC)OC)(O[Si](OC)(OC)OC)O[Si](OC)(OC)OC,JPGNEHFBHGVLRX,M0654,False
+Vinylacetophenone,C=CCC(=O)c1ccccc1,C=CCC(=O)c1ccccc1,ZFYKDNCOQBBOST,M0655,False
+"Vinylanthracene, 9-",C=Cc1c2ccccc2cc3ccccc13,C=Cc1c2ccccc2cc2ccccc12,OGOYZCQQQFAGRI,M0656,False
+"Vinylbenzoic acid, p-",OC(=O)c1ccc(C=C)cc1,C=Cc1ccc(C(=O)O)cc1,IRQWEODKXLDORP,M0657,False
+Vinylbenzyl chloride,ClC(C=C)c1ccccc1,C=CC(Cl)c1ccccc1,SLBOQBILGNEPEB,M0658,False
+Vinylethyldiethoxysilane,CCO[SiH](CCC=C)OCC,C=CCC[SiH](OCC)OCC,LVAGXFUXZLCXOO,M0659,False
+"Vinylethynyl-4-piperidinol, 1,2,5-trimethyl-4-",CC1CC(O)(C#CC=C)C(C)CN1C,C=CC#CC1(O)CC(C)N(C)CC1C,HERPIZXRZSGXDN,M0660,False
+Vinylhydroquinone,Oc1ccc(O)c(C=C)c1,C=Cc1cc(O)ccc1O,GWYFZTJDIQALEB,M0661,False
+Vinylidene chloride,ClC(Cl)=C,C=C(Cl)Cl,LGXVIGDEPROXKC,M0662,False
+Vinylidene cyanide,C=C(C#N)C#N,C=C(C#N)C#N,FCYVWWWTHPPJII,M0663,False
+Vinylidene fluoride,FC(F)=C,C=C(F)F,BQCIDUSAKPWEOX,M0664,False
+Vinylisocyanate,C=CN=C=O,C=CN=C=O,WARQUFORVQESFF,M0665,False
+Vinylmethyldiacetoxysilane,CC(=O)O[SiH](CC=C)OC(C)=O,C=CC[SiH](OC(C)=O)OC(C)=O,JMHWNJGXUIJPKG,M0666,False
+Vinylmethyldiethoxysilane,CCO[SiH](CC=C)OCC,C=CC[SiH](OCC)OCC,BGMKLPCJBFXZTQ,M0667,False
+Vinylphenyldimethylsilane,C[Si](C)(C=C)c1ccccc1,C=C[Si](C)(C)c1ccccc1,QDEZCOQKJSRQNN,M0668,False
+"Vinylphenylisocyanate, p-",C=Cc1ccc(cc1)N=C=O,C=Cc1ccc(N=C=O)cc1,ZEIXNMVAJQLPMA,M0669,False
+"Vinylphenylpropanol, 2-p-",CC(CO)c1ccc(C=C)cc1,C=Cc1ccc(C(C)CO)cc1,IWONVDRULKJRQP,M0670,False
+Vinylsulfonic acid,O[S](=O)(=O)C=C,C=CS(=O)(=O)O,NLVXSWCKKBEXTG,M0671,False
+Vinyltriethoxysilane,CCO[Si](OCC)(OCC)C=C,C=C[Si](OCC)(OCC)OCC,FWDBOZPQNFPOLF,M0672,False
+Vinyltrimethoxysilane,CO[Si](OC)(OC)C=C,C=C[Si](OC)(OC)OC,NKSJNEHGWDZZQF,M0673,False
+Vinyltrimethylsilane,C[Si](C)(C)C=C,C=C[Si](C)(C)C,GCSJLQSCSDMKTP,M0674,False
+"Xanthate, S-methacryloyl O-ethyl",CCOC(=S)SC(=O)C(C)=C,C=C(C)C(=O)SC(=S)OCC,ORGODPPLMFMXRB,M0675,False
+MDPL,C=C1OCC(C2=CC=CC=C2)O1,C=C1OCC(c2ccccc2)O1,FHTWQMHOTBIHEP,M0676,False
+MDO,C=C1OCCCCO1,C=C1OCCCCO1,AVUFZLGLMCACRE,M0677,False
+BMDO,C=C(OC1)OCC2=C1C=CC=C2,C=C1OCc2ccccc2CO1,XLDHYYAXFZTBKA,M0678,False
+alpha-Methylstyrene,CC(=C)c1ccccc1,C=C(C)c1ccccc1,XYLMUPLGERFSHI,M0679,False
+2-Hydroxyethyl methacrylate,C=C(C)C(=O)OCCO,C=C(C)C(=O)OCCO,WOBHKFSMXKNTIM,M0680,False
+acryloylmorpholine,C=CC(=O)C1CNCCO1,C=CC(=O)C1CNCCO1,ZJKPXJLAUAZTIZ,M0681,False
+methyl methacrylate,C=C(C)C(=O)OC,C=C(C)C(=O)OC,VVQNEPGJFQJSBK,M0682,False
+4-phthalimidocyclohexyl methacrylate,C=C(C)C(=O)OC1CCC(N2C(=O)c3ccccc3C2=O)CC1,C=C(C)C(=O)OC1CCC(N2C(=O)c3ccccc3C2=O)CC1,WEAIYLHCAIHPOZ,M0683,False
+4-hexahydrophthalimidocyclohexyl methacrylate,C=C(C)C(=O)OC1CCC(N2C(=O)C3CCCCC3C2=O)CC1,C=C(C)C(=O)OC1CCC(N2C(=O)C3CCCCC3C2=O)CC1,VKULFJCVRBNWAE,M0684,False
+2-naphthyl methacrylate,C=C(C)C(=O)Oc1ccc2ccccc2c1,C=C(C)C(=O)Oc1ccc2ccccc2c1,CXOYJPWMGYDJNW,M0685,False
+Propyl Methacrylate,C=C(C)C(=O)OCCC,C=C(C)C(=O)OCCC,NHARPDSAXCBDDR,M0686,False
+Pentyl Methacrylate,C=C(C)C(=O)OCCCCC,C=C(C)C(=O)OCCCCC,GYDSPAVLTMAXHT,M0687,False
+Hexyl Methacrylate,C=C(C)C(=O)OCCCCCC,C=C(C)C(=O)OCCCCCC,LNCPIMCVTKXXOY,M0688,False
+Heptyl Methacrylate,C=C(C)C(=O)OCCCCCCC,C=C(C)C(=O)OCCCCCCC,MDNFYIAABKQDML,M0689,False
+Octyl Methacrylate,C=C(C)C(=O)OCCCCCCCC,C=C(C)C(=O)OCCCCCCCC,NZIDBRBFGPQCRY,M0690,False
+Dodecyl Methacrylate,C=C(C)C(=O)OCCCCCCCCCCCC,C=C(C)C(=O)OCCCCCCCCCCCC,GMSCBRSQMRDRCD,M0691,False
+cinnamyl methacrylate,C=C(C)C(=O)OCC=Cc1ccccc1,C=C(C)C(=O)OCC=Cc1ccccc1,QJAIDMRTITZOLC,M0692,False
+Triisopropylsilyl acrylate,C=CC(=O)O[Si](C(C)C)(C(C)C)C(C)C,C=CC(=O)O[Si](C(C)C)(C(C)C)C(C)C,PQSIXYSSKXAOFE,M0693,False
+p-Chlorostyrene,C=Cc1ccc(Cl)cc1,C=Cc1ccc(Cl)cc1,KTZVZZJJVJQZHV,M0694,False
+m-Chlorostyrene,C=Cc1cccc(Cl)c1,C=Cc1cccc(Cl)c1,BOVQCIDBZXNFEJ,M0695,False
+vinylidene chloride,C=C(Cl)Cl,C=C(Cl)Cl,LGXVIGDEPROXKC,M0696,False
+ethylene sulphide,C1CS1,C1CS1,VOVUARRWDCVURC,M0697,False
+2-Hydroxypropyl Methacrylate,C=C(C)C(=O)OCC(C)O,C=C(C)C(=O)OCC(C)O,VHSHLMUCYSAUQU,M0698,False
+"2,4,6-tribromophenyl methacrylate",C=C(C)C(=O)Oc1c(Br)cc(Br)cc1Br,C=C(C)C(=O)Oc1c(Br)cc(Br)cc1Br,HAYWJKBZHDIUPU,M0699,False
+Fluorobutadiene,C=CC=CF,C=CC=CF,IGPWAITWXGQPMD,M0700,False
+sulfanilic acid,Nc1ccc(S(=O)(=O)O)cc1,Nc1ccc(S(=O)(=O)O)cc1,HVBSAKJJOYLTQU,M0701,False
+p-aminobenzoic acid,Nc1ccc(C(=O)O)cc1,Nc1ccc(C(=O)O)cc1,ALYNCZNDIQEVRV,M0702,False
+p-amino phenol,Nc1ccc(O)cc1,Nc1ccc(O)cc1,PLIKAWJENQZMHA,M0703,False
+ortho-methacryloyloxybenzoic acid,C=C(C)C(=O)Oc1ccccc1C(=O)O,C=C(C)C(=O)Oc1ccccc1C(=O)O,QFPKSTNFHFEHJL,M0704,False
+Methyl acrylate,C=CC(=O)OC,C=CC(=O)OC,BAPJBEWLBFYGME,M0705,False
+Ethyl acrylate,C=CC(=O)OCC,C=CC(=O)OCC,JIGUQPWFLRLWPJ,M0706,False
+Butyl acrylate,C=CC(=O)OCCCC,C=CC(=O)OCCCC,CQEYYJKEWSMYFG,M0707,False
+Vinyl acetate,C=COC(C)=O,C=COC(C)=O,XTXRWKRVRITETP,M0708,False
+3-chloro-2-hydroxypropyl methacrylate,C=C(C)C(=O)OCC(O)CCl,C=C(C)C(=O)OCC(O)CCl,DDKMFQGAZVMXQV,M0709,False
+acrylamide,C=CC(N)=O,C=CC(N)=O,HRPVXLWXLXDGHG,M0710,False
+glycidyl methacrylate,C=C(C)C(=O)OCC1CO1,C=C(C)C(=O)OCC1CO1,VOZRXNHHFUQHIL,M0711,False
+methacrylic acid,C=C(C)C(=O)O,C=C(C)C(=O)O,CERQOIWHTDAKMF,M0712,False
+Methyl Vinyl Ketone,C=CC(C)=O,C=CC(C)=O,FUSUHKVFWTUUBE,M0713,False
+Ethyl Vinyl Ketone,C=CC(=O)CC,C=CC(=O)CC,JLIDVCMBCGBIEY,M0714,False
+Isopropyl Vinyl Ketone,C=CC(=O)C(C)C,C=CC(=O)C(C)C,SNOYUTZWILESAI,M0715,False
+tert-Butyl Vinyl Ketone,C=CC(=O)C(C)(C)C,C=CC(=O)C(C)(C)C,MUOKXXOKLLKNIE,M0716,False
+Chloromethyl Vinyl Ketone,C=CC(=O)CCl,C=CC(=O)CCl,SEVIEHFDUHCSCV,M0717,False
+2-methyl-1-vinylimidazole,C=Cn1ccnc1C,C=Cn1ccnc1C,BDHGFCVQWMDIQX,M0718,False
+acrylyl chloride,C=CC(=O)Cl,C=CC(=O)Cl,HFBMWMNUJJDEQZ,M0719,False
+Acenaphthylene,C1=Cc2cccc3cccc1c23,C1=Cc2cccc3cccc1c23,HXGDTGSAIMULJN,M0720,False
+ethyl methacrylate,C=C(C)C(=O)OCC,C=C(C)C(=O)OCC,SUPCQIBBMFXVTL,M0721,False
+butyl methacrylate,C=C(C)C(=O)OCCCC,C=C(C)C(=O)OCCCC,SOGAXMICEFXMKE,M0722,False
+N-vinyl-tert-butylcarbamate,C=CN(C(=O)[O-])C(C)(C)C,C=CN(C(=O)[O-])C(C)(C)C,ZRFQAEAQYZWGSN,M0723,False
+tert-butyl methacrylate,C=C(C)C(=O)OC(C)(C)C,C=C(C)C(=O)OC(C)(C)C,SJMYWORNLPSJQO,M0724,False
+Vinylhydroquinone,C=Cc1cc(O)ccc1O,C=Cc1cc(O)ccc1O,GWYFZTJDIQALEB,M0725,False
+Methacrylic Anhydride,C=C(C)C(=O)OC(=O)C(=C)C,C=C(C)C(=O)OC(=O)C(=C)C,DCUFMVPCXCSVNP,M0726,False
+o-Chlorostyrene,C=Cc1ccccc1Cl,C=Cc1ccccc1Cl,ISRGONDNXBCDBM,M0727,False
+Vinyl Chloride,C=CCl,C=CCl,BZHJMEDXRYGGRV,M0728,False
+N-Vinyl carbazol,C=Cn1c2ccccc2c2ccccc21,C=Cn1c2ccccc2c2ccccc21,KKFHAJHLJHVUDM,M0729,False
+4-Nitrophenyl Acrylate,C=CC(=O)Oc1ccc([N+](=O)[O-])cc1,C=CC(=O)Oc1ccc([N+](=O)[O-])cc1,PSRGGEQXKSZPRF,M0730,False
+"N,N-Dimethylacrylamide",C=CC(=O)N(C)C,C=CC(=O)N(C)C,YLGYACDQVQQZSW,M0731,False
+Methacrylonitrile,C=C(C)C#N,C=C(C)C#N,GYCMBHHDWRMZGG,M0732,False
+Methacrylamide,C=C(C)C(N)=O,C=C(C)C(N)=O,FQPSGWSUVKBHSU,M0733,False
+2-(p-methoxyphenoxy)-2-oxo-ethyl methacrylate,C=C(C)C(=O)OCC(=O)Oc1ccc(OC)cc1,C=C(C)C(=O)OCC(=O)Oc1ccc(OC)cc1,CNJUUFMHWBGCNE,M0734,False
+2-(p-chlorophenoxy)-2-oxo-ethyl methacrylate,C=C(C)C(=O)OCC(=O)Oc1ccc(Cl)cc1,C=C(C)C(=O)OCC(=O)Oc1ccc(Cl)cc1,QDSNDZJLXLMNRH,M0735,False
+2-Hydroxyethyl acrylate,C=CC(=O)OCCO,C=CC(=O)OCCO,OMIGHNLMNHATMP,M0736,False
+Vinyl 2-ethylhexoate,C=COC(=O)C(CC)CCCC,C=COC(=O)C(CC)CCCC,IGBZOHMCHDADGY,M0737,False
+Acetoxystyrene,CC(=O)OC=Cc1ccccc1,CC(=O)OC=Cc1ccccc1,FMFHUEMLVAIBFI,M0738,False
+Allyl chloride,C=CCCl,C=CCCl,OSDWBNJEKMUWAV,M0739,False
+Methyl isopropenyl ketone,C=C(C)C(C)=O,C=C(C)C(C)=O,ZGHFDIIVVIFNPS,M0740,False
+Trimethyl aconitate,COC(=O)C=C(CC(=O)OC)C(=O)OC,COC(=O)C=C(CC(=O)OC)C(=O)OC,DZAIBGWGBBQGPZ,M0741,False
+allyl acetate,C=CCOC(C)=O,C=CCOC(C)=O,FWZUNOYOVVKUNF,M0742,False
+allyl methacrylate,C=CCOC(=O)C(=C)C,C=CCOC(=O)C(=C)C,FBCQUCJYYPMKRO,M0743,False
+Isobutyl vinyl ether,C=COCC(C)C,C=COCC(C)C,OZCMOJQQLBXBKI,M0744,False
+2-(2-naphthylamino)-2-oxo-ethyl methacrylate,C=C(C)C(=O)OCC(=O)Nc1ccc2ccccc2c1,C=C(C)C(=O)OCC(=O)Nc1ccc2ccccc2c1,GVXQEUXYJVAXIE,M0745,False
+2-acrylamido-2-methylpropane sulfonic acid,C=CC(=O)NC(C)(C)CS(=O)(=O)O,C=CC(=O)NC(C)(C)CS(=O)(=O)O,XHZPRMZZQOIPDS,M0746,False
+N-Octadecylacrylamide,C=CC(=O)NCCCCCCCCCCCCCCCCCC,C=CC(=O)NCCCCCCCCCCCCCCCCCC,CNWVYEGPPMQTKA,M0747,False
+N-Allylstearamide,C=CCNC(=O)CCCCCCCCCCCCCCCCC,C=CCNC(=O)CCCCCCCCCCCCCCCCC,HKKGHYAJDLYYNC,M0748,False
+Dicyclopentadiene,C1=CC2C3C=CC(C3)C2C1,C1=CC2C3C=CC(C3)C2C1,HECLRDQVFMWTQS,M0749,False
+2-phenoxy-2-phenylethyl acrylate,C=CC(=O)OCC(Oc1ccccc1)c1ccccc1,C=CC(=O)OCC(Oc1ccccc1)c1ccccc1,FGGRLKWCMJMSKS,M0750,False
+Acrylic Acid,C=CC(=O)O,C=CC(=O)O,NIXOWILDQLNWCW,M0751,False
+Alpha-Methylstyrene,C=C(C)c1ccccc1,C=C(C)c1ccccc1,XYLMUPLGERFSHI,M0752,False
+Maleic Anhydride,O=C1C=CC(=O)O1,O=C1C=CC(=O)O1,FPYJFEHAWHCUMM,M0753,False
+N-cyclohexylmaleimide,O=C1C=CC(=O)N1C1CCCCC1,O=C1C=CC(=O)N1C1CCCCC1,BQTPKSBXMONSJI,M0754,False
+propylene,C=CC,C=CC,QQONPFPTGQHPMA,M0755,False
+isobutylene,C=C(C)C,C=C(C)C,VQTUBCCKSQIDNK,M0756,False
+2-dimethylaminoethyl methacrylate,C=C(C)C(=O)OCCN(C)C,C=C(C)C(=O)OCCN(C)C,JKNCOURZONDCGV,M0757,False
+2-diethylaminoethyl methacrylate,C=C(C)C(=O)OCCN(CC)CC,C=C(C)C(=O)OCCN(CC)CC,SJIXRGNQPBQWMK,M0758,False
+2-benzylmethylaminoethyl methacrylate,C=C(C)C(=O)OCCNCCc1ccccc1,C=C(C)C(=O)OCCNCCc1ccccc1,JHDMAMYNFUMNKB,M0759,False
+4-Benzyloxycarbonylphenyl Acrylate,C=CC(=O)Oc1ccc(C(=O)OCc2ccccc2)cc1,C=CC(=O)Oc1ccc(C(=O)OCc2ccccc2)cc1,WYEJAZSXKWMGOE,M0760,False
+Methacryloyl Acetone,C=C(C)C(=O)CC(C)=O,C=C(C)C(=O)CC(C)=O,RKAZWPVRTYSEED,M0761,False
+benzyl methacrylate,C=C(C)C(=O)OCc1ccccc1,C=C(C)C(=O)OCc1ccccc1,AOJOEFVRHOZDFN,M0762,False
+ortho-Chlorophenyl acrylate,C=CC(=O)Oc1ccccc1Cl,C=CC(=O)Oc1ccccc1Cl,GOUZWCLULXUQSR,M0763,False
+para-Chlorophenyl acrylate,C=CC(=O)Oc1ccc(Cl)cc1,C=CC(=O)Oc1ccc(Cl)cc1,IGHDIBHFCIOXGK,M0764,False
+Hydroxypropyl acrylate,C=CC(=O)OCCCO,C=CC(=O)OCCCO,QZPSOSOOLFHYRR,M0765,False
+2-(1-Aziridinyl)ethyl methacrylate,C=C(C)C(=O)OCCN1CC1,C=C(C)C(=O)OCCN1CC1,XEZCCHVCBAZAQD,M0766,False
+dichlorostyrene,ClC(Cl)=Cc1ccccc1,ClC(Cl)=Cc1ccccc1,CISIJYCKDJSTMX,M0767,False
+Triphenyltin Methacrylate,C=C(C)C(=O)[O-].c1ccc([Sn+](c2ccccc2)c2ccccc2)cc1,C=C(C)C(=O)[O-].c1cc[c]([Sn+]([c]2ccccc2)[c]2ccccc2)cc1,JNRFAGAIHOKUES,M0768,False
+gamma-methyl-alpha-methylene-gamma-butyrolactone,C=C1CC(C)OC1=O,C=C1CC(C)OC1=O,KYLUHLJIAMFYKW,M0769,False
+Octene-1,C=CCCCCCC,C=CCCCCCC,KWKAKUADMBZCLK,M0770,False
+"2-Chloro-2,3,3,3-tetrafluoropropyl methacrylate",C=C(C)C(=O)OCC(F)(Cl)C(F)(F)F,C=C(C)C(=O)OCC(F)(Cl)C(F)(F)F,OOUSDMSJNKEAJO,M0771,False
+Dodecyl acrylate,C=CC(=O)OCCCCCCCCCCCC,C=CC(=O)OCCCCCCCCCCCC,PBOSTUDLECTMNL,M0772,False
+Octadecyl acrylate,C=CC(=O)OCCCCCCCCCCCCCCCCCC,C=CC(=O)OCCCCCCCCCCCCCCCCCC,FSAJWMJJORKPKS,M0773,False
+chloromethylstyrene,ClCC=Cc1ccccc1,ClCC=Cc1ccccc1,IWTYTFSSTWXZFU,M0774,False
+methyl alpha-cyanoacrylate,C=C(C#N)C(=O)OC,C=C(C#N)C(=O)OC,MWCLLHOVUTZFKS,M0775,False
+methyl alpha-chloroacrylate,C=C(Cl)C(=O)OC,C=C(Cl)C(=O)OC,AWJZTPWDQYFQPQ,M0776,False
+methyl alpha-bromoacrylate,C=C(Br)C(=O)OC,C=C(Br)C(=O)OC,HVJXPDPGPORYKY,M0777,False
+methyl alpha-phenylacrylate,C=C(C(=O)OC)c1ccccc1,C=C(C(=O)OC)c1ccccc1,GQTXKEVAUZYHGE,M0778,False
+furfuryl methacrylate,C=C(C)C(=O)OCc1ccco1,C=C(C)C(=O)OCc1ccco1,DWXAVNJYFLGAEF,M0779,False
+octyl acrylate,C=CC(=O)OCCCCCCCC,C=CC(=O)OCCCCCCCC,ANISOHQJBAQUQP,M0780,False
+2-ethylacrylic acid,C=C(CC)C(=O)O,C=C(CC)C(=O)O,WROUWQQRXUBECT,M0781,False
+"1-p-Bromophenyl-4-vinyl-1,2,3-triazole",C=Cc1cn(-c2ccc(Br)cc2)nn1,C=Cc1cn(-c2ccc(Br)cc2)nn1,ZPXNHQLOEHEGTQ,M0782,False
+2-Methyl-5-vinyl-tetrazole,C=Cc1nnn(C)n1,C=Cc1nnn(C)n1,BHRMHWAEINWAJS,M0783,False
+N-Vinyl-N-methylacetamide,C=CN(C)C(C)=O,C=CN(C)C(C)=O,PNLUGRYDUHRLOF,M0784,False
+N-Vinylacetamide,C=CNC(C)=O,C=CNC(C)=O,RQAKESSLMFZVMC,M0785,False
+Stilbene,C(=Cc1ccccc1)c1ccccc1,C(=Cc1ccccc1)c1ccccc1,PJANXHGTPQOBST,M0786,False
+N-Phenylmaleimide,O=C1C=CC(=O)N1c1ccccc1,O=C1C=CC(=O)N1c1ccccc1,HIDBROSJWZYGSZ,M0787,False
+N-3-Chlorophenylmaleimide,O=C1C=CC(=O)N1c1cccc(Cl)c1,O=C1C=CC(=O)N1c1cccc(Cl)c1,QDEQBRUNBFJJPW,M0788,False
+N-4-Methylphenylmaleimide,Cc1ccc(N2C(=O)C=CC2=O)cc1,Cc1ccc(N2C(=O)C=CC2=O)cc1,KCFXNGDHQPMIAQ,M0789,False
+2-ethyl-n-hexyl methacrylate,C=C(C)C(=O)OCC(CC)CCCC,C=C(C)C(=O)OCC(CC)CCCC,WDQMWEYDKDCEHT,M0790,False
+Vinylene Carbonate,O=c1occo1,O=c1occo1,VAYTZRYEBVHVLE,M0791,False
+Crotonolactone,O=C1C=CCO1,O=C1C=CCO1,VIHAEDVKXSOUAT,M0792,False
+p-Vinylbenzoic acid,C=Cc1ccc(C(=O)O)cc1,C=Cc1ccc(C(=O)O)cc1,IRQWEODKXLDORP,M0793,False
+Ferrocenylmethyl Acrylate,C=CC(=O)OC[c-]1cccc1.[Fe+2].c1cc[cH-]c1,C=CC(=O)OC[c-]1cccc1.[Fe+2].c1cc[cH-]c1,YGIYTECLTHOHLV,M0794,False
+2-Nitrobutyl acrylate,C=CC(=O)OCC(CC)[N+](=O)[O-],C=CC(=O)OCC(CC)[N+](=O)[O-],KDDXAKYGDJGCLF,M0795,False
+2-Isopropenyl-2-oxazoline,C=C(C)C1=NCCO1,C=C(C)C1=NCCO1,LPIQIQPLUVLISR,M0796,False
+p-Methoxystyrene,C=Cc1ccc(OC)cc1,C=Cc1ccc(OC)cc1,UAJRSHJHFRVGMG,M0797,False
+p-Nitrostyrene,C=Cc1ccc([N+](=O)[O-])cc1,C=Cc1ccc([N+](=O)[O-])cc1,YFZHODLXYNDBSM,M0798,False
+2-hydroxy-4-methacrylamidobenzoic acid,C=C(C)C(=O)Nc1ccc(C(=O)O)c(O)c1,C=C(C)C(=O)Nc1ccc(C(=O)O)c(O)c1,JYLCVRHQTJPCTN,M0799,False
+2-hydroxy-5-methacrylamidobenzoic acid,C=C(C)C(=O)Nc1ccc(O)c(C(=O)O)c1,C=C(C)C(=O)Nc1ccc(O)c(C(=O)O)c1,XEYLAWVXYZUVDD,M0800,False
+Chloroprene,C=CC(=C)Cl,C=CC(=C)Cl,YACLQRRMGMJLJV,M0801,False
+ethyl alpha-hydroxymethylacrylate,C=C(CO)C(=O)OCC,C=C(CO)C(=O)OCC,SYGAXBISYRORDR,M0802,False
+3-vinyl thiophene,C=Cc1ccsc1,C=Cc1ccsc1,BOJMHHBWYPDQQH,M0803,False
+N-(2-hydroxyethyl)carbazolyl methacrylate,C=C(C)C(=O)Oc1cccc2c3ccccc3n(CCO)c12,C=C(C)C(=O)Oc1cccc2c3ccccc3n(CCO)c12,FNCGKFBSIPQSJX,M0804,False
+N-(2-hydroxyethyl)carbazolyl acrylate,C=CC(=O)Oc1cccc2c3ccccc3n(CCO)c12,C=CC(=O)Oc1cccc2c3ccccc3n(CCO)c12,ZKYFWYAPXHPABG,M0805,False
+2-Methyl-5-vinylpyridine,C=Cc1ccc(C)nc1,C=Cc1ccc(C)nc1,VJOWMORERYNYON,M0806,False
+N-tert-butyl acrylamide,C=CC(=O)NC(C)(C)C,C=CC(=O)NC(C)(C)C,XFHJDMUEHUHAJW,M0807,False
+"N-(2,4,6-tribromophenyl)maleimide",O=C1C=CC(=O)N1c1c(Br)cc(Br)cc1Br,O=C1C=CC(=O)N1c1c(Br)cc(Br)cc1Br,ONEIBTGSNPDDSB,M0808,False
+Ethyl alpha-chloroacrylate,C=C(Cl)C(=O)OCC,C=C(Cl)C(=O)OCC,CVUNPKSKGHPMSY,M0809,False
+monomethyl itaconate,C=C(CC(=O)[O-])C(=O)OC,C=C(CC(=O)[O-])C(=O)OC,KBFJHOCTSIMQKL,M0810,False
+Sodium Styrene Sulfonate,O=S(=O)([O-])C=Cc1ccccc1.[Na+],O=S(=O)([O-])C=Cc1ccccc1.[Na+],MNCGMVDMOKPCSQ,M0811,False
+"2,4-Dinitrophenyl Methacrylate",C=C(C)C(=O)Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],C=C(C)C(=O)Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],JOZILYOMCYIYFH,M0812,False
+Isopropenyl Chloride,C=C(C)Cl,C=C(C)Cl,PNLQPWWBHXMFCA,M0813,False
+furfuryl acrylate,C=CC(=O)OCc1ccco1,C=CC(=O)OCc1ccco1,BHPLCUDMENJIRS,M0814,False
+Vinyl imidazole,C=Cc1ncc[nH]1,C=Cc1ncc[nH]1,MLMGJTAJUDSUKA,M0815,False
+3-phthalimido-2-hydroxypropyl methacrylate,C=C(C)C(=O)OCC(O)CN1C(=O)c2ccccc2C1=O,C=C(C)C(=O)OCC(O)CN1C(=O)c2ccccc2C1=O,CZYOVKDCHUBOOS,M0816,False
+2-(4-tert-butylphenoxy)-2-oxo-ethyl methacrylate,C=C(C)C(=O)OCC(=O)Oc1ccc(C(C)(C)C)cc1,C=C(C)C(=O)OCC(=O)Oc1ccc(C(C)(C)C)cc1,JXPOGMUAHMBEEZ,M0817,False
+vinyltrimethylsilane,C=C[Si](C)(C)C,C=C[Si](C)(C)C,GCSJLQSCSDMKTP,M0818,False
+vinylphenyldimethylsilane,C=C[Si](C)(C)c1ccccc1,C=C[Si](C)(C)c1ccccc1,QDEZCOQKJSRQNN,M0819,False
+2-acryloyloxybenzoic acid,C=CC(=O)Oc1ccccc1C(=O)O,C=CC(=O)Oc1ccccc1C(=O)O,ZKFOEDSYSPDTEB,M0820,False
+N-methyl-N-phenyl-2-aminoethyl methacrylate,C=C(C)C(=O)OCCN(C)c1ccccc1,C=C(C)C(=O)OCCN(C)c1ccccc1,MBOCINIPIHLPHH,M0821,False
+methyl 2-methacryloyloxybenzoate,C=C(C)C(=O)Oc1ccccc1C(=O)OC,C=C(C)C(=O)Oc1ccccc1C(=O)OC,HXJOEIGJQKRHFE,M0822,False
+Methyl 2-acetoxyacrylate,C=C(OC(C)=O)C(=O)OC,C=C(OC(C)=O)C(=O)OC,NGJIJGCJRNAGHK,M0823,False
+"3,3-Bis(ethoxycarbonyl)propyl Vinyl Ether",C=COCCC(C(=O)OCC)C(=O)OCC,C=COCCC(C(=O)OCC)C(=O)OCC,FHBPLNAJCDTIPP,M0824,False
+Methacrolein,C=C(C)C=O,C=C(C)C=O,STNJBCKSHOAVAJ,M0825,False
+acetoxymethyl vinyl ketone,C=CC(=O)COC(C)=O,C=CC(=O)COC(C)=O,GZNCCNHJQSRXNU,M0826,False
+N-(1-acetoxyphenyl)itaconimide,C=C1CC(=O)N(C2(OC(C)=O)C=CC=CC2)C1=O,C=C1CC(=O)N(C2(OC(C)=O)C=CC=CC2)C1=O,OXTAJYRDBHORDZ,M0827,False
+N-(p-acetoxyphenyl)maleimide,CC(=O)Oc1ccc(N2C(=O)C=CC2=O)cc1,CC(=O)Oc1ccc(N2C(=O)C=CC2=O)cc1,QTRJOLFWYFCHQD,M0828,False
+p-acetoxystyrene,C=Cc1ccc(OC(C)=O)cc1,C=Cc1ccc(OC(C)=O)cc1,JAMNSIXSLVPNLC,M0829,False
+N-benzyl maleimide,O=C1C=CC(=O)N1Cc1ccccc1,O=C1C=CC(=O)N1Cc1ccccc1,MKRBAPNEJMFMHU,M0830,False
+"2-methacrylamido-2-hydroxymethyl-1,3-propanediol",C=C(C)C(=O)NC(CO)(CO)CO,C=C(C)C(=O)NC(CO)(CO)CO,PQWVIUSCFLEBHJ,M0831,False
+Allyl chloroacetate,C=CCOC(=O)CCl,C=CCOC(=O)CCl,VMBJJCDVORDOCF,M0832,False
+Allyl dichloroacetate,C=CCOC(=O)C(Cl)Cl,C=CCOC(=O)C(Cl)Cl,UJUPTENXDPFFDP,M0833,False
+Allyl trichloroacetate,C=CCOC(=O)C(Cl)(Cl)Cl,C=CCOC(=O)C(Cl)(Cl)Cl,LJQCONXCOYBYIE,M0834,False
+p-Aminostyrene,C=Cc1ccc(N)cc1,C=Cc1ccc(N)cc1,LBSXSAXOLABXMF,M0835,False
+"2,3,5,6-tetrafluorophenyl methacrylate",C=C(C)C(=O)Oc1c(F)c(F)cc(F)c1F,C=C(C)C(=O)Oc1c(F)c(F)cc(F)c1F,DDQNBJUNTSWDDM,M0836,False
+pentafluorophenyl methacrylate,C=C(C)C(=O)Oc1c(F)c(F)c(F)c(F)c1F,C=C(C)C(=O)Oc1c(F)c(F)c(F)c(F)c1F,NIJWSVFNELSKMF,M0837,False
+"4-trifluoromethyl-2,3,5,6-tetrafluorophenyl methacrylate",C=C(C)C(=O)Oc1c(F)c(F)c(C(F)(F)F)c(F)c1F,C=C(C)C(=O)Oc1c(F)c(F)c(C(F)(F)F)c(F)c1F,FVJYWRFUHBTXOT,M0838,False
+4-Trimethylsilyl-N-vinylphthalimid,C=CN1C(=O)c2ccc([Si](C)(C)C)cc2C1=O,C=CN1C(=O)c2ccc([Si](C)(C)C)cc2C1=O,WDAZLXMXRBZEDN,M0839,False
+Methyl Vinyl Sulfide,C=CSC,C=CSC,AMBKPYJJYUKNFI,M0840,False
+Ethyl Vinyl Sulfide,C=CSCC,C=CSCC,AFGACPRTZOCNIW,M0841,False
+Isopropyl Vinyl Sulfide,C=CSC(C)C,C=CSC(C)C,KENPNZJNGZPRCQ,M0842,False
+n-Butyl Vinyl Sulfide,C=CSCCCC,C=CSCCCC,LBMGSGLAWRZARD,M0843,False
+Isobutyl Vinyl Sulfide,C=CSCC(C)C,C=CSCC(C)C,CANYKRZRPKHWHK,M0844,False
+t-Butyl Vinyl Sulfide,C=CSC(C)(C)C,C=CSC(C)(C)C,QBBBUPLGCPJGMC,M0845,False
+1-Ethylcyclopentyl methacrylate,C=C(C)C(=O)OC1(CC)CCCC1,C=C(C)C(=O)OC1(CC)CCCC1,FMEBJQQRPGHVOR,M0846,False
+"4,8-Dioxaspiro(2,5)oct-1-ene",C1=CC12OCCCO2,C1=CC12OCCCO2,HIQNFQSASCLYLW,M0847,False
+"6,6-Dimethyl-4,8-dioxaspiro(2,5)oct-1-ene",CC1(C)COC2(C=C2)OC1,CC1(C)COC2(C=C2)OC1,AINMINDCBBSFAO,M0848,False
+p-vinylbenzophenone,C=Cc1ccc(C(=O)c2ccccc2)cc1,C=Cc1ccc(C(=O)c2ccccc2)cc1,SHMWGXIEPCHLGC,M0849,False
+p-dimethylaminostyrene,C=Cc1ccc(N(C)C)cc1,C=Cc1ccc(N(C)C)cc1,GQWAOUOHRMHSHL,M0850,False
+2-Methylbenzyl methacrylate,C=C(C)C(=O)OCc1ccccc1C,C=C(C)C(=O)OCc1ccccc1C,ZYNKDLMBQIFFQS,M0851,False
+4-Methylbenzyl methacrylate,C=C(C)C(=O)OCc1ccc(C)cc1,C=C(C)C(=O)OCc1ccc(C)cc1,ZALFZMYXGFDRIW,M0852,False
+3-methoxy-4-(2-hydroxy-3-methacryloyloxypropoxy)benzaldehyde,C=C(C)C(=O)OCC(O)COc1ccc(C=O)cc1OC,C=C(C)C(=O)OCC(O)COc1ccc(C=O)cc1OC,WRTXOBZFKKUBOU,M0853,False
+alpha-acetoxystyrene,C=C(OC(C)=O)c1ccccc1,C=C(OC(C)=O)c1ccccc1,HWCUCNKPBMGSSC,M0854,False
+dimethyl meta-isopropenyl benzyl isocyanate,C=C(C)c1cccc(C(C)(C)N=C=O)c1,C=C(C)c1cccc(C(C)(C)N=C=O)c1,ZVEMLYIXBCTVOF,M0855,False
+Tributyltin Methacrylate,C=C(C)C(=O)O[Sn](CCCC)(CCCC)CCCC,C=C(C)C(=O)[O][Sn]([CH2]CCC)([CH2]CCC)[CH2]CCC,LPUCKLOWOWADAC,M0856,False
+N-methylacrylamide,C=CC(=O)NC,C=CC(=O)NC,YPHQUSNPXDGUHL,M0857,False
+2-[3-(2H-Benzotriazol-2-yl)-4-hydroxyphenyl]ethyl methacrylate,C=C(C)C(=O)OCCc1ccc(O)c(-n2nc3ccccc3n2)c1,C=C(C)C(=O)OCCc1ccc(O)c(-n2nc3ccccc3n2)c1,VCYCUECVHJJFIQ,M0858,False
+2-vinyl-5-methyl furan,C=Cc1ccc(C)o1,C=Cc1ccc(C)o1,LTQOQNQWJBSGPF,M0859,False
+methoxymethyl methacrylate,C=C(C)C(=O)OCOC,C=C(C)C(=O)OCOC,LVQPBIMCRZQQBC,M0860,False
+"4-Cyclopentene-1,3-dione",O=C1C=CC(=O)C1,O=C1C=CC(=O)C1,MCFZBCCYOPSZLG,M0861,False
+2-acetoxyethyl methacrylate,C=C(C)C(=O)OCCOC(C)=O,C=C(C)C(=O)OCCOC(C)=O,ZTJNPDLOIVDEEL,M0862,False
+Vinyl ethyl ether,C=COCC,C=COCC,FJKIXWOMBXYWOQ,M0863,False
+Methacrylate,C=C(C)C(=O)[O-],C=C(C)C(=O)[O-],CERQOIWHTDAKMF,M0864,False
+ethylene oxide,C1CO1,C1CO1,IAYPIBMASNFSPL,M0865,False
+Isoprene,C=CC(=C)C,C=CC(=C)C,RRHGJUQNOFWUDK,M0866,False
+isobutyl methacrylate,C=C(C)C(=O)OCC(C)C,C=C(C)C(=O)OCC(C)C,RUMACXVDVNRZJZ,M0867,False
+bis(beta-chloroethyl) vinylphosphonate,C=CP(=O)(OCCCl)OCCCl,C=CP(=O)(OCCCl)OCCCl,LHHMNJZNWUJFOC,M0868,False
+Phenylacetylene,C#Cc1ccccc1,C#Cc1ccccc1,UEXCJVNBTNXOEH,M0869,False
+alpha-Methylbenzyl Methacrylate,C=C(C)C(=O)OC(C)c1ccccc1,C=C(C)C(=O)OC(C)c1ccccc1,BQMWZHUIGYNOAL,M0870,False
+"1-Chloro-1,3-butadiene",C=CC=CCl,C=CC=CCl,PCPYTNCQOSFKGG,M0871,False
+"2,5-dichlorostyrene",C=Cc1cc(Cl)ccc1Cl,C=Cc1cc(Cl)ccc1Cl,IZMZREOTRMMCCB,M0872,False
+Allyl propionate,C=CCOC(=O)CC,C=CCOC(=O)CC,XRFWKHVQMACVTA,M0873,False
+Allyl butyrate,C=CCOC(=O)CCC,C=CCOC(=O)CCC,RMZIOVJHUJAAEY,M0874,False
+Allyl valerate,C=CCOC(=O)CCCC,C=CCOC(=O)CCCC,PWYXVVREDGESBB,M0875,False
+Allyl isobutyrate,C=CCOC(=O)C(C)C,C=CCOC(=O)C(C)C,QNBDJTKBKITRJI,M0876,False
+Allyl trimethylacetate,C=CCOC(=O)C(C)(C)C,C=CCOC(=O)C(C)(C)C,GVVKBARIYRBZHC,M0877,False
+4-propanoylphenyl acrylate,C=CC(=O)Oc1ccc(C(=O)CC)cc1,C=CC(=O)Oc1ccc(C(=O)CC)cc1,HCRRCFCMPOUGSN,M0878,False
+Isopropenyl acetate,C=C(C)OC(C)=O,C=C(C)OC(C)=O,HETCEOQFVDFGSY,M0879,False
+N-2-chlorophenylmaleimide,O=C1C=CC(=O)N1c1ccccc1Cl,O=C1C=CC(=O)N1c1ccccc1Cl,KPQOXMCRYWDRSB,M0880,False
+3-Methylstyrene,C=Cc1cccc(C)c1,C=Cc1cccc(C)c1,JZHGRUMIRATHIU,M0881,False
+N-(2-thiazolyl)methacrylamide,C=C(C)C(=O)Nc1nccs1,C=C(C)C(=O)Nc1nccs1,UUPLFVGCURGBPN,M0882,False
+methylphenylvinylsulfonium tetrafluoroborate,C[SH+]C=Cc1ccccc1.F[B-](F)(F)F,C[SH+]C=Cc1ccccc1.F[B-](F)(F)F,FEVQOIXRDQGHFZ,M0883,False
+"2,4-Dinitrophenyl Acrylate",C=CC(=O)Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],C=CC(=O)Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],RKJGQMJOEDIVQQ,M0884,False
+4-Acetylphenyl Methacrylate,C=C(C)C(=O)Oc1ccc(C(C)=O)cc1,C=C(C)C(=O)Oc1ccc(C(C)=O)cc1,JXNVHEOTDUDTMM,M0885,False
+4-cyanophenyl methacrylate,C=C(C)C(=O)Oc1ccc(C#N)cc1,C=C(C)C(=O)Oc1ccc(C#N)cc1,OGVIMBVPFAEZDF,M0886,False
+allyl glycidyl ether,C=CCOCC1CO1,C=CCOCC1CO1,LSWYGACWGAICNM,M0887,False
+propylene oxide,CC1CO1,CC1CO1,GOOHAUXETOMSMM,M0888,False
+Vinylmesitylene,C=Cc1c(C)cc(C)cc1C,C=Cc1c(C)cc(C)cc1C,PDELBHCVXBSVPJ,M0889,False
+Isopropyl Methacrylate,C=C(C)C(=O)OC(C)C,C=C(C)C(=O)OC(C)C,BOQSSGDQNWEFSX,M0890,False
+N-Vinylethylurethane,C=CCCNC(=O)OCC,C=CCCNC(=O)OCC,UUDCIVJTMZEFPZ,M0891,False
+N-(4-methacryloyloxyphenyl)-2-(4-methoxyphenyl)acetamide,C=C(C)C(=O)Oc1ccc(NC(=O)Cc2ccc(OC)cc2)cc1,C=C(C)C(=O)Oc1ccc(NC(=O)Cc2ccc(OC)cc2)cc1,UEVZRGUTORGIFU,M0892,False
+N-[4-(4-methoxyphenylacetoxy)phenyl]methacrylamide,C=C(C)C(=O)Nc1ccc(OC(=O)Cc2ccc(OC)cc2)cc1,C=C(C)C(=O)Nc1ccc(OC(=O)Cc2ccc(OC)cc2)cc1,XTMYPSMRHOBKHU,M0893,False
+decyl acrylate,C=CC(=O)OCCCCCCCCCC,C=CC(=O)OCCCCCCCCCC,FWLDHHJLVGRRHD,M0894,False
+hexyl acrylate,C=CC(=O)OCCCCCC,C=CC(=O)OCCCCCC,LNMQRPPRQDGUDR,M0895,False
+Isopropyl Acrylate,C=CC(=O)OC(C)C,C=CC(=O)OC(C)C,LYBIZMNPXTXVMV,M0896,False
+2-Chloroethyl Acrylate,C=CC(=O)OCCCl,C=CC(=O)OCCCl,WHBAYNMEIXUTJV,M0897,False
+Butadiene-1-carboxylic acid,C=CC=CC(=O)O,C=CC=CC(=O)O,SDVVLIIVFBKBMG,M0898,False
+"N,N-Divinylaniline",C=CN(C=C)c1ccccc1,C=CN(C=C)c1ccccc1,ZARXZEARBRXKMO,M0899,False
+Divinyl Sulfone,C=CS(=O)(=O)C=C,C=CS(=O)(=O)C=C,AFOSIXZFDONLBT,M0900,False
+"1,4-Pentadiene",C=CCC=C,C=CCC=C,QYZLKGVUSQXAMU,M0901,False
+N-bromophenylmaleimide,O=C1C=C(c2ccccc2)C(=O)N1Br,O=C1C=C(c2ccccc2)C(=O)N1Br,FPDOHAABWLBAKE,M0902,False
+Vinyl 4-ketostearate,C=COC(=O)CCC(=O)CCCCCCCCCCCCCC,C=COC(=O)CCC(=O)CCCCCCCCCCCCCC,OGDVTWPHWZUPKH,M0903,False
+Vinyl 12-ketostearate,C=COC(=O)CCCCCCCCCCC(=O)CCCCCC,C=COC(=O)CCCCCCCCCCC(=O)CCCCCC,RQWNBPJEOMPEGE,M0904,False
+Allyl Benzoate,C=CCOC(=O)c1ccccc1,C=CCOC(=O)c1ccccc1,LYJHVEDILOKZCG,M0905,False
+"2-Vinyl-4,4-Dimethylazlactone",C=CC1=NC(C)(C)C(=O)O1,C=CC1=NC(C)(C)C(=O)O1,QKPKBBFSFQAMIY,M0906,False
+2-Vinylbenzofuran,C=Cc1cc2ccccc2o1,C=Cc1cc2ccccc2o1,HVFZVIHIJNLIED,M0907,False
+Potassium Methacrylate,C=C(C)C(=O)[O-].[K+],C=C(C)C(=O)[O-].[K+],LLLCSBYSPJHDJX,M0908,False
+epsilon-Caprolactone,O=C1CCCCCO1,O=C1CCCCCO1,PAPBSGBWRJIAAV,M0909,False
+Stearyl methacrylate,C=C(C)C(=O)OCCCCCCCCCCCCCCCCCC,C=C(C)C(=O)OCCCCCCCCCCCCCCCCCC,HMZGPNHSPWNGEP,M0910,False
+Decyl Methacrylate,C=C(C)C(=O)OCCCCCCCCCC,C=C(C)C(=O)OCCCCCCCCCC,GTBGXKPAKVYEKJ,M0911,False
+1-Acrylamido-1-deoxy-D-glucitol,C=CC(=O)NCC(O)C(O)C(O)C(O)CO,C=CC(=O)NCC(O)C(O)C(O)C(O)CO,VOXLHYBRLWBDHW,M0912,False
+1-Deoxy-1-methacrylamido-D-glucitol,C=C(C)C(=O)NCC(O)C(O)C(O)C(O)CO,C=C(C)C(=O)NCC(O)C(O)C(O)C(O)CO,XUGYUZFBKRTXGT,M0913,False
+Vinyl thioacetate,C=COC(C)=S,C=COC(C)=S,AKJNVJQPTQSJFM,M0914,False
+N-(3-(Dimethylamino)propyl)methacrylamide,C=C(C)C(=O)NCCCN(C)C,C=C(C)C(=O)NCCCN(C)C,GDFCSMCGLZFNFY,M0915,False
+Dichloroethylene,ClCCCl,ClCCCl,WSLDOOZREJYCGB,M0916,False
+Vinyl octadecyl ether,C=COCCCCCCCCCCCCCCCCCC,C=COCCCCCCCCCCCCCCCCCC,QJJDJWUCRAPCOL,M0917,False
+p-Methyl-alpha-methylstyrene,C=C(C)c1ccc(C)cc1,C=C(C)c1ccc(C)cc1,MMSLOZQEMPDGPI,M0918,False
+p-Methoxy-alpha-methylstyrene,C=C(C)c1ccc(OC)cc1,C=C(C)c1ccc(OC)cc1,XCTSGGVBLWBSIJ,M0919,False
+behenyl acrylate,C=CC(=O)OCCCCCCCCCCCCCCCCCCCCCC,C=CC(=O)OCCCCCCCCCCCCCCCCCCCCCC,KHAYCTOSKLIHEP,M0920,False
+3-(4-vinylphenoxy)phthalide,C=Cc1ccc(OC2OC(=O)c3ccccc32)cc1,C=Cc1ccc(OC2OC(=O)c3ccccc32)cc1,QQZSWYVSDHHCEW,M0921,False
+2-chloroethyl vinyl ether,C=COCCCl,C=COCCCl,DNJRKFKAFWSXSE,M0922,False
+N-Isopropylacrylamide,C=CC(=O)NC(C)C,C=CC(=O)NC(C)C,QNILTEGFHQSKFF,M0923,False
+N-(4-methoxy-3-chlorophenyl) itaconimide,C=C1CC(=O)N(c2ccc(OC)c(Cl)c2)C1=O,C=C1CC(=O)N(c2ccc(OC)c(Cl)c2)C1=O,PFWDXOOLKDWVCU,M0924,False
+N-(2-methoxy-5-chlorophenyl) itaconimide,C=C1CC(=O)N(c2cc(Cl)ccc2OC)C1=O,C=C1CC(=O)N(c2cc(Cl)ccc2OC)C1=O,HMHZXCYPLDQHBA,M0925,False
+Ic,CCC(C)C(N)C(=O)NC(CS)C(=O)O,CCC(C)C(N)C(=O)NC(CS)C(=O)O,JSZMKEYEVLDPDO,M0926,False
+Vinyl fluoride,C=CF,C=CF,XUCNUKMRBVNAPB,M0927,False
+Methallyl Chloride,C=C(C)CCl,C=C(C)CCl,OHXAOPZTJOUYKM,M0928,False
+N-methacryloyloxyphthalimide,C=C(C)C(=O)ON1C(=O)c2ccccc2C1=O,C=C(C)C(=O)ON1C(=O)c2ccccc2C1=O,QKTOEXNMNPTDSF,M0929,False
+1-ethyl-3-vinylimidazolid-2-one,C=CN1CCN(CC)C1=O,C=CN1CCN(CC)C1=O,SWIIURYBQJUUFY,M0930,False
+vinylphosphonic dichloride,C=CP(=O)(Cl)Cl,C=CP(=O)(Cl)Cl,MLSZIADXWDYFKM,M0931,False
+2-acryloyl thioxanthone,C=CC(=O)c1ccc2sc3ccccc3c(=O)c2c1,C=CC(=O)c1ccc2sc3ccccc3c(=O)c2c1,IHGBEVYGXLNAIY,M0932,False
+Vinyl chloroacetate,C=COC(=O)CCl,C=COC(=O)CCl,XJELOQYISYPGDX,M0933,False
+vinyl stearate,C=COC(=O)CCCCCCCCCCCCCCCCC,C=COC(=O)CCCCCCCCCCCCCCCCC,AFSIMBWBBOJPJG,M0934,False
+benzoylphenyl methacrylate,C=C(C)C(=O)Oc1ccccc1C(=O)c1ccccc1,C=C(C)C(=O)Oc1ccccc1C(=O)c1ccccc1,KKMCJEPDHKUQRC,M0935,False
+ethyl 3-oxo-4-pentenoate,C=CC(=O)CC(=O)OCC,C=CC(=O)CC(=O)OCC,IEZWUJDDYLWKEP,M0936,False
+"1-(p-Allyloxyphenyl)-1,1,3,3,3-pentamethyldisiloxane",C=CCOc1ccc([Si](C)(C)O[Si](C)(C)C)cc1,C=CCOc1ccc([Si](C)(C)O[Si](C)(C)C)cc1,KSTHJKVDKRFDJG,M0937,False
+"1,3-Bis(p-allyloxyphenyl)-1,1,3,3-tetramethyldisiloxane",C=CCOc1ccc([Si](C)(C)O[Si](C)(C)c2ccc(OCC=C)cc2)cc1,C=CCOc1ccc([Si](C)(C)O[Si](C)(C)c2ccc(OCC=C)cc2)cc1,CKNVJMZVJMXTBJ,M0938,False
+"2-Phthalimido-1,3-butadiene",C=CC(=C)N1C(=O)c2ccccc2C1=O,C=CC(=C)N1C(=O)c2ccccc2C1=O,HAKCEXMIDBSZBG,M0939,False
+indene,C1=Cc2ccccc2C1,C1=Cc2ccccc2C1,YBYIRNPNPLQARY,M0940,False
+2-butoxy-1-methylenecyclopropane,C=C1CC1OCCCC,C=C1CC1OCCCC,GPHOJTKSYUHMTH,M0941,False
+2-(2-methoxyethoxy)ethyl-1-methylenecyclopropane,C=C1CC1CCOCCOC,C=C1CC1CCOCCOC,PLXXUVRBCIEINF,M0942,False
+carbon dioxide,O=C=O,O=C=O,CURLTUGMZLYLDI,M0943,False
+trioxane,C1COOOC1,C1COOOC1,KQBSGRWMSNFIPG,M0944,False
+gamma-Benzyl L-glutamate N-carboxyanhydride,O=C(CCC1NC(=O)OC1=O)OCc1ccccc1,O=C(CCC1NC(=O)OC1=O)OCc1ccccc1,UGCBVSDSTGUPBC,M0945,False
+N-(4-acetyl phenyl)maleimide,CC(=O)c1ccc(N2C(=O)C=CC2=O)cc1,CC(=O)c1ccc(N2C(=O)C=CC2=O)cc1,ISGBKWSEHGAUNF,M0946,False
+4-Methylphenyl acrylate,C=CC(=O)Oc1ccc(C)cc1,C=CC(=O)Oc1ccc(C)cc1,OJNXPAPLAAGFBJ,M0947,False
+4-Methoxyphenyl acrylate,C=CC(=O)Oc1ccc(OC)cc1,C=CC(=O)Oc1ccc(OC)cc1,WFJNXICXEHGDLB,M0948,False
+norbornene,C1=CC2CCC1C2,C1=CC2CCC1C2,JFNLZVQOOSMTJK,M0949,False
+methyl 3-phenyl-2-cyanopropenoate,COC(=O)C(C#N)=Cc1ccccc1,COC(=O)C(C#N)=Cc1ccccc1,XLNFLJOWTRDNCX,M0950,False
+"2-phenyl-1,1-dicyanoethene",N#CC(C#N)=Cc1ccccc1,N#CC(C#N)=Cc1ccccc1,WAVNYPVYNSIHNC,M0951,False
+p-Methylstyrene,C=Cc1ccc(C)cc1,C=Cc1ccc(C)cc1,JLBJTVDPSNHSKJ,M0952,False
+aniline,Nc1ccccc1,Nc1ccccc1,PAYRUJLWNCNPSJ,M0953,False
+Cyclopentadiene,C1=CCC=C1,C1=CCC=C1,ZSWFCLXCOIISFI,M0954,False
+4-vinylbenzenesulfonic acid sodium salt,C=Cc1ccc(S(=O)(=O)[O-])cc1.[Na+],C=Cc1ccc(S(=O)(=O)[O-])cc1.[Na+],XFTALRAZSCGSKN,M0955,False
+isocyanatoethyl methacrylate,C=C(C)C(=O)OCCN=C=O,C=C(C)C(=O)OCCN=C=O,RBQRWNWVPQDTJJ,M0956,False
+"3,7-dimethyl-1-octene",C=CC(C)CCCC(C)C,C=CC(C)CCCC(C)C,KSXTZYRIJKDCEA,M0957,False
+"1,3-dioxolane",C1COCO1,C1COCO1,WNXJIVFYUVYPPR,M0958,False
+"3,3',5,5'-tetramethyl-4,4'-biphenol",Cc1cc(O)cc(C)c1-c1c(C)cc(O)cc1C,Cc1cc(O)cc(C)c1-c1c(C)cc(O)cc1C,XSTITJMSUGCZDH,M0959,False
+acetylene,C#C,C#C,HSFWRNGVRCDJHI,M0960,False
+methylacetylene,C#CC,C#CC,MWWATHDPGQKSAR,M0961,False
+l-Menthyl vinyl ether,C=COC1CC(C)CCC1C(C)C,C=COC1CC(C)CCC1C(C)C,IZPAEFLHCVEFSX,M0962,False
+"2-phthalimidomethyl 1,3-butadiene",C=CC(=C)CN1C(=O)c2ccccc2C1=O,C=CC(=C)CN1C(=O)c2ccccc2C1=O,WDRXMMMTNVQBGV,M0963,False
+"1,3-dioxepane",C1CCOCOC1,C1CCOCOC1,CZLMRJZAHXYRIX,M0964,False
+"1,3,6-trioxocane",C1COCOCCO1,C1COCOCCO1,AUAGGMPIKOZAJZ,M0965,False
+Epichlorohydrin,ClCC1CO1,ClCC1CO1,BRLQWZUYTZBJKN,M0966,False
+glycidyl methyl ether,COCC1CO1,COCC1CO1,LKMJVFRMDSNFRT,M0967,False
+ethylene chlorophosphonite,ClP1OCCO1,ClP1OCCO1,OLSFRDLMFAOSIA,M0968,False
+2-phenylvinyl ethyl ether,CCOC=Cc1ccccc1,CCOC=Cc1ccccc1,FZHNODDFDJBMAS,M0969,False
+Norbornadiene,C1=C2CCC(=C1)C2,C1=C2CCC(=C1)C2,UFLCUWLPQBPVQL,M0970,False
+"dimethyl 2,6-dimethyleneheptanedioate",C=C(CCCC(=C)C(=O)OC)C(=O)OC,C=C(CCCC(=C)C(=O)OC)C(=O)OC,DPKHBZDGJHJGQX,M0971,False
+1-Naphthylamine,Nc1cccc2ccccc12,Nc1cccc2ccccc12,RUFPHBVGCFYCNW,M0972,False
+"1,6-Anhydro-3-azido-2,4-di-O-benzyl-3-deoxy-beta-D-glucopyranose",[N-]=[N+]=N[C@@H]1[C@@H](OCc2ccccc2)[C@@H]2OC[C@@H](O2)[C@H]1OCc1ccccc1,[N-]=[N+]=N[C@@H]1[C@@H](OCc2ccccc2)[C@@H]2OC[C@@H](O2)[C@H]1OCc1ccccc1,UNEKSOQNVMKYBS,M0973,False
+"1,6-Anhydro-2-azido-3,4-di-O-benzyl-2-deoxy-beta-D-glucopyranose",[N-]=[N+]=N[C@H]1[C@@H]2OC[C@@H](O2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1,[N-]=[N+]=N[C@H]1[C@@H]2OC[C@@H](O2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1,WGZHSGODUTUPCP,M0974,False
+"1,6-Anhydro-4-azido-2,3-di-O-benzyl-4-deoxy-beta-D-glucopyranose",[N-]=[N+]=N[C@H]1[C@H](OCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]2OC[C@H]1O2,[N-]=[N+]=N[C@H]1[C@H](OCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]2OC[C@H]1O2,CCHHIMYPXRVQMW,M0975,False
+vinyl cyclohexane,C=CC1CCCCC1,C=CC1CCCCC1,LDLDYFCCDKENPD,M0976,False
+carbon monoxide,[C-]#[O+],[C-]#[O+],UGFAIRIUMAVXCW,M0977,False
+methyl vinyl ether,C=COC,C=COC,XJRBAMWJDBPFIM,M0978,False
+2-methoxyaniline,COc1ccccc1N,COc1ccccc1N,VMPITZXILSNTON,M0979,False
+O-acetyl-L-tyrosine,CC(=O)Oc1ccc(C[C@H](N)C(=O)O)cc1,CC(=O)Oc1ccc(C[C@H](N)C(=O)O)cc1,QBFQXAKABOKEHT,M0980,False
+p-acryloyloxybenzoic acid,C=CC(=O)Oc1ccc(C(=O)O)cc1,C=CC(=O)Oc1ccc(C(=O)O)cc1,RZZZQPNSNIVWAU,M0981,False
+gamma-Benzyl-L-glutamate,N[C@@H](CC(Cc1ccccc1)C(=O)[O-])C(=O)[O-],N[C@@H](CC(Cc1ccccc1)C(=O)[O-])C(=O)[O-],ATCFYQUZTYQTJN,M0982,False
+"N-methyl-N-[4-(2,5-dichlorophenyl)azophenyl]-2-aminoethyl methacrylate",C=C(C)C(=O)OCCN(C)c1ccc(N=Nc2cc(Cl)ccc2Cl)cc1,C=C(C)C(=O)OCCN(C)c1ccc(N=Nc2cc(Cl)ccc2Cl)cc1,UJXDGWAJHTZARM,M0983,False
+perfluoroheptyl methacrylate,C=C(C)C(=O)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,HEFHMJVNMXDZKE,M0984,False
+beta butyrolactone,CC1CC(=O)O1,CC1CC(=O)O1,GSCLMSFRWBPUSK,M0985,False
+2-Isopropenyl-4-isopropyl-2-oxazolin-5-one,C=C(C)C1=NC(C(C)C)C(=O)O1,C=C(C)C1=NC(C(C)C)C(=O)O1,SLDIRJPHEKVOSZ,M0986,False
+2-Isopropylidene-4-methyl-3-oxazolin-5-one,CC1=NC(=C(C)C)OC1=O,CC1=NC(=C(C)C)OC1=O,RCAPOENSKUYDRE,M0987,False
+2-Isopropylidene-4-isopropyl-3-oxazolin-5-one,CC(C)=C1N=C(C(C)C)C(=O)O1,CC(C)=C1N=C(C(C)C)C(=O)O1,ABLFCCHOCYSJHP,M0988,False
+2-Isopropylidene-4-isobutyl-3-oxazolin-5-one,CC(C)=C1N=C(CC(C)C)C(=O)O1,CC(C)=C1N=C(CC(C)C)C(=O)O1,SKBLZIZSNGWSEB,M0989,False
+"2,4,5-Trichlorophenyl acrylate",C=CC(=O)Oc1cc(Cl)c(Cl)cc1Cl,C=CC(=O)Oc1cc(Cl)c(Cl)cc1Cl,WPRNUAVQZCFEOA,M0990,False
+1-vinylnaphthalene,C=Cc1cccc2ccccc12,C=Cc1cccc2ccccc12,IGGDKDTUCAWDAN,M0991,False
+2-vinylnaphthalene,C=Cc1ccc2ccccc2c1,C=Cc1ccc2ccccc2c1,KXYAVSFOJVUIHT,M0992,False
+"2,2-dimethyltrimethylene carbonate",CC1(C)COC(=O)OC1,CC1(C)COC(=O)OC1,JRFXQKZEGILCCO,M0993,False
+lactide,CC1OC(=O)C(C)OC1=O,CC1OC(=O)C(C)OC1=O,JJTUDXZGHPGLLC,M0994,False
+2-Phenylethyl Acrylate,C=CC(=O)OCCc1ccccc1,C=CC(=O)OCCc1ccccc1,HPSGLFKWHYAKSF,M0995,False
+"3,4-ethylenedioxythiophene",c1scc2c1OCCO2,c1scc2c1OCCO2,GKWLILHTTGWKLQ,M0996,False
+"10-methyl-2H,8H-benzo[1,2-b:5,4-b']dipyran-2,8-dione",Cc1c2oc(=O)ccc2cc2ccc(=O)oc12,Cc1c2oc(=O)ccc2cc2ccc(=O)oc12,MMICDRRFNJRHNO,M0997,False
+maleimide,O=C1C=CC(=O)N1,O=C1C=CC(=O)N1,PEEHTFAAVSWFBL,M0998,False
+lactic acid,CC(O)C(=O)O,CC(O)C(=O)O,JVTAAEKCZFNVCJ,M0999,False
+"1,5,7,11-tetraoxaspiro[5.5]undecane",C1COC2(OC1)OCCCO2,C1COC2(OC1)OCCCO2,PCEBNPHEKQSKKT,M1000,False
+6a,CC1(COc2ccc(S(=O)(=O)N3CCCC3)cc2)Cn2cc([N+](=O)[O-])nc2O1,CC1(COc2ccc(S(=O)(=O)N3CCCC3)cc2)Cn2cc([N+](=O)[O-])nc2O1,LVWXLDIUXWCXAE,M1001,False
+"2-methylene-1,4,6-trioxaspiro[4.4]nonane",C=C1COC2(CCCO2)O1,C=C1COC2(CCCO2)O1,UPQNOIJAJSCWPX,M1002,False
+"2-methylene-1,4,6-trioxaspiro[4.6]undecane",C=C1COC2(CCCCCO2)O1,C=C1COC2(CCCCCO2)O1,AZHSMQQQPOINDU,M1003,False
+1-Chloroanthracene,Clc1cccc2cc3ccccc3cc12,Clc1cccc2cc3ccccc3cc12,SRIHSAFSOOUEGL,M1004,False
+2-Chloroanthracene,Clc1ccc2cc3ccccc3cc2c1,Clc1ccc2cc3ccccc3cc2c1,OWFINXQLBMJDJQ,M1005,False
+nadic anhydride,O=C1OC(=O)C2C3C=CC(C3)C12,O=C1OC(=O)C2C3C=CC(C3)C12,KNDQHSIWLOJIGP,M1006,False
+"2-Methylene-4-phenyl-1,3-dioxolane",C=C1OCC(c2ccccc2)O1,C=C1OCC(c2ccccc2)O1,FHTWQMHOTBIHEP,M1007,False
+itaconic acid monomethylester,C=C(CC(=O)O)C(=O)OC,C=C(CC(=O)O)C(=O)OC,KBFJHOCTSIMQKL,M1008,False
+fumarate,O=C([O-])C=CC(=O)[O-],O=C([O-])C=CC(=O)[O-],VZCYOOQTPOCHFL,M1009,False
+acrylate,C=CC(=O)[O-],C=CC(=O)[O-],NIXOWILDQLNWCW,M1010,False
+diglycidyl ether of bisphenol A,CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,LCFVJGUPQDGYKZ,M1011,False
+diallyl tartrate,C=CCOC(=O)C(O)C(O)C(=O)OCC=C,C=CCOC(=O)C(O)C(O)C(=O)OCC=C,VPPSHXIFIAJKMX,M1012,False
+"1H,1H,2H,2H-perfluorodecyl methacrylate",C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,HBZFBSFGXQBQTB,M1013,False
+3-ethyl-1-vinyl-2-pyrrolidone,C=CN1CCC(CC)C1=O,C=CN1CCC(CC)C1=O,JFUWJIKJUNAHEN,M1014,False
+5-hexene-1-ol,C=CCCCCO,C=CCCCCO,UIZVMOZAXAMASY,M1015,False
+10-undecene-1-ol,C=CCCCCCCCCCO,C=CCCCCCCCCCO,GIEMHYCMBGELGY,M1016,False
+1-hexene,C=CCCCC,C=CCCCC,LIKMAJRDDDTEIG,M1017,False
+1-dodecene,C=CCCCCCCCCCC,C=CCCCCCCCCCC,CRSBERNSMYQZNG,M1018,False
+tributylsilyl methacrylate,C=C(C)C(=O)O[Si](CCCC)(CCCC)CCCC,C=C(C)C(=O)O[Si](CCCC)(CCCC)CCCC,WEAZWKYSTGLBSQ,M1019,False
+triisopropylsilyl methacrylate,C=C(C)C(=O)O[Si](C(C)C)(C(C)C)C(C)C,C=C(C)C(=O)O[Si](C(C)C)(C(C)C)C(C)C,KNNOZYMZRGTZQM,M1020,False
+triisobutylsilyl methacrylate,C=C(C)C(=O)O[Si](CC(C)C)(CC(C)C)CC(C)C,C=C(C)C(=O)O[Si](CC(C)C)(CC(C)C)CC(C)C,WOVWDKQMNXXLDG,M1021,False
+tributylsilyl acrylate,C=CC(=O)O[Si](CCCC)(CCCC)CCCC,C=CC(=O)O[Si](CCCC)(CCCC)CCCC,NIBPEHGZRFSWSY,M1022,False
+"2,2'-biphenyldicarbaldehyde",O=Cc1ccccc1-c1ccccc1C=O,O=Cc1ccccc1-c1ccccc1C=O,HJFGULDHUDIPDA,M1023,False
+benzaldehyde,O=Cc1ccccc1,O=Cc1ccccc1,HUMNYLRZRPPJDN,M1024,False
+"2,3-dichloropropene",C=C(Cl)CCl,C=C(Cl)CCl,FALCMQXTWHPRIH,M1025,False
+"3,5-bis(4-aminophenoxy)phenyl phenylcarbamate",Nc1ccc(Oc2cc(OC(=O)Nc3ccccc3)cc(Oc3ccc(N)cc3)c2)cc1,Nc1ccc(Oc2cc(OC(=O)Nc3ccccc3)cc(Oc3ccc(N)cc3)c2)cc1,CPLSBSHHLNYNCA,M1026,False
+octafluorocyclopentene,FC1=C(F)C(F)(F)C(F)(F)C1(F)F,FC1=C(F)C(F)(F)C(F)(F)C1(F)F,YBMDPYAEZDJWNY,M1027,False
+vinylidene fluoride,C=C(F)F,C=C(F)F,BQCIDUSAKPWEOX,M1028,False
+"2-oxo-1,3-dioxolan-4-yl)methyl methacrylate",C=C(C)C(=O)OCC1COC(=O)O1,C=C(C)C(=O)OCC1COC(=O)O1,NUTJVZGIRRFKKI,M1029,False
+p-benzoquinone,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,AZQWKYJCGOJGHM,M1030,False
+trimethylene carbonate,O=C1OCCCO1,O=C1OCCCO1,YFHICDDUDORKJB,M1031,False
+"2,3-dihydrothiophene",C1=CSCC1,C1=CSCC1,OXBLVCZKDOZZOJ,M1032,False
+vinyl p-methoxybenzoate,C=COC(=O)c1ccc(OC)cc1,C=COC(=O)c1ccc(OC)cc1,MZVHCBIARVQEDJ,M1033,False
+vinyl p-bromobenzoate,C=COC(=O)c1ccc(Br)cc1,C=COC(=O)c1ccc(Br)cc1,GFCRQEKWKJKZNG,M1034,False
+vinyl p-cyanobenzoate,C=COC(=O)c1ccc(C#N)cc1,C=COC(=O)c1ccc(C#N)cc1,ODZSKPUYFMYYBX,M1035,False
+o-Hydroxystyrene,C=Cc1ccccc1O,C=Cc1ccccc1O,JESXATFQYMPTNL,M1036,False
+allyl radical,[CH2]C=C,[CH2]C=C,RMRFFCXPLWYOOY,M1037,False
+benzyl radical,[CH2]c1ccccc1,[CH2]c1ccccc1,SLRMQYXOBQWXCR,M1038,False
+2-methoxyethyl acrylate,C=CC(=O)OCCOC,C=CC(=O)OCCOC,HFCUBKYHMMPGBY,M1039,False
+linalool,C=CC(C)(O)CCC=C(C)C,C=CC(C)(O)CCC=C(C)C,CDOSHBSSFJOMGT,M1040,False
+R-(+)-limonene,C=C(C)C1CC=C(C)CC1,C=C(C)C1CC=C(C)CC1,XMGQYMWWDOXHJM,M1041,False
+Divinylbenzene,C=Cc1ccccc1C=C,C=Cc1ccccc1C=C,MYRTYDVEIRVNKP,M1042,False
+"1,3-Cyclohexadiene",C1=CCCC=C1,C1=CCCC=C1,MGNZXYYWBUKAII,M1043,False
+"3,5-bis(4-aminophenoxy)benzoic acid",Nc1ccc(Oc2cc(Oc3ccc(N)cc3)cc(C(=O)O)c2)cc1,Nc1ccc(Oc2cc(Oc3ccc(N)cc3)cc(C(=O)O)c2)cc1,KPKOSOUTWDOOIW,M1044,False
+trifluoroethyl methacrylate,C=C(C)C(=O)OCC(F)(F)F,C=C(C)C(=O)OCC(F)(F)F,QTKPMCIBUROOGY,M1045,False
+octafluoropentyl methacrylate,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,ZNJXRXXJPIFFAO,M1046,False
+Chloral,O=CC(Cl)(Cl)Cl,O=CC(Cl)(Cl)Cl,HFFLGKNGCAIQMO,M1047,False
+tetrahydrofuran,C1CCOC1,C1CCOC1,WYURNTSHIVDZCO,M1048,False
+2-methyltetrahydrofuran,CC1CCCO1,CC1CCCO1,JWUJQDFVADABEY,M1049,False
+2-methoxyethyl vinyl ether,C=COCCOC,C=COCCOC,GXZPMXGRNUXGHN,M1050,False
+2-hydroxyethyl vinyl ether,C=COCCO,C=COCCO,VUIWJRYTWUGOOF,M1051,False
+acetoacetoxyethyl vinyl ether,C=COCCOC(=O)CC(C)=O,C=COCCOC(=O)CC(C)=O,FVAKYJXOKAKNIA,M1052,False
+2-sulfoethyl methacrylate,C=C(C)C(=O)OCCS(=O)(=O)O,C=C(C)C(=O)OCCS(=O)(=O)O,PRAMZQXXPOLCIY,M1053,False
+styrene oxide,c1ccc(C2CO2)cc1,c1ccc(C2CO2)cc1,AWMVMTVKBNGEAK,M1054,False
+pentachlorophenyl acrylate,C=CC(=O)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,C=CC(=O)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,KWQJKAHZHOILKK,M1055,False
+mono-n-octyl itaconate,C=C(CC(=O)[O-])C(=O)OCCCCCCCC,C=C(CC(=O)[O-])C(=O)OCCCCCCCC,PEJTXKFLHJIZEY,M1056,False
+mono-n-decyl itaconate,C=C(CC(=O)[O-])C(=O)OCCCCCCCCCC,C=C(CC(=O)[O-])C(=O)OCCCCCCCCCC,FANIWYOYJINZAM,M1057,False
+mono-n-dodecyl itaconate,C=C(CC(=O)[O-])C(=O)OCCCCCCCCCCCC,C=C(CC(=O)[O-])C(=O)OCCCCCCCCCCCC,JELFVXVEOTVGKC,M1058,False
+gamma-butyrolactone,O=C1CCCO1,O=C1CCCO1,YEJRWHAVMIAJKC,M1059,False
+N-acryloylpiperidine,C=CC(=O)N1CCCCC1,C=CC(=O)N1CCCCC1,RESPXSHDJQUNTN,M1060,False
+pyrrole,c1cc[nH]c1,c1cc[nH]c1,KAESVJOAVNADME,M1061,False
+vinyl silyl ether,C=CO[SiH3],C=CO[SiH3],CPBHJGWJMLDUNB,M1062,False
+phenylvinyl ethyl thioether,CCSC=Cc1ccccc1,CCSC=Cc1ccccc1,KMBNERGBMXMGRI,M1063,False
+phenyl methacrylate,C=C(C)C(=O)Oc1ccccc1,C=C(C)C(=O)Oc1ccccc1,QIWKUEJZZCOPFV,M1064,False
+p-tolyl methacrylate,C=C(C)C(=O)Oc1ccc(C)cc1,C=C(C)C(=O)Oc1ccc(C)cc1,AOUAMFARIYTDLK,M1065,False
+p-chlorophenyl methacrylate,C=C(C)C(=O)Oc1ccc(Cl)cc1,C=C(C)C(=O)Oc1ccc(Cl)cc1,SIADNYSYTSORRE,M1066,False
+2-(2-carboxybenzoyloxy)ethyl methacrylate,C=C(C)C(=O)OCCOC(=O)c1ccccc1C(=O)O,C=C(C)C(=O)OCCOC(=O)c1ccccc1C(=O)O,FIQBJLHOPOSODG,M1067,False
+"2,2,2-trifluoroethyl alpha-fluoroacrylate",C=C(F)C(=O)OCC(F)(F)F,C=C(F)C(=O)OCC(F)(F)F,COXVPPNYSBFWNG,M1068,False
+furan,c1ccoc1,c1ccoc1,YLQBMQCUIZJEEH,M1069,False
+monobutyl itaconate,C=C(CC(=O)[O-])C(=O)OCCCC,C=C(CC(=O)[O-])C(=O)OCCCC,DYYFCJRYZVHEKQ,M1070,False
+monobenzyl itaconate,C=C(CC(=O)[O-])C(=O)OCc1ccccc1,C=C(CC(=O)[O-])C(=O)OCc1ccccc1,QUEPLWQMCBQXGI,M1071,False
+"methyl 10,11-epoxyundecanoate",COC(=O)CCCCCCCCC1CO1,COC(=O)CCCCCCCCC1CO1,UGYHPPMOOSFOTN,M1072,False
+"3-methyl-2,5-morpholinedione",CC1NC(=O)COC1=O,CC1NC(=O)COC1=O,KNMQEWSKCAMAIM,M1073,False
+"3,6-dimethyl-2,5-morpholinedione",CC1NC(=O)C(C)OC1=O,CC1NC(=O)C(C)OC1=O,VVCGOQDXURYHJV,M1074,False
+6-caprolactam,O=C1CCCCCN1,O=C1CCCCCN1,JBKVHLHDHHXQEQ,M1075,False
+"3,3-Bis(chloromethyl)oxacyclobutane",ClCC1(CCl)COC1,ClCC1(CCl)COC1,CXURGFRDGROIKG,M1076,False
+benzofuran,c1ccc2occc2c1,c1ccc2occc2c1,IANQTJSKSUMEQM,M1077,False
+(-)-Menthyl acrylate,C=CC(=O)OC1CC(C)CCC1C(C)C,C=CC(=O)OC1CC(C)CCC1C(C)C,XJBRSZAYOKVFRH,M1078,False
+tert-butyl 2-trifluoromethylacrylate,C=C(C(=O)OC(C)(C)C)C(F)(F)F,C=C(C(=O)OC(C)(C)C)C(F)(F)F,RCSSZBOUAGQERK,M1079,False
+1-ethoxyethyl methacrylate,C=C(C)C(=O)OC(C)OCC,C=C(C)C(=O)OC(C)OCC,HVBADOTWUFBZMF,M1080,False
+1-butoxyethyl methacrylate,C=C(C)C(=O)OC(C)OCCCC,C=C(C)C(=O)OC(C)OCCCC,XXNDEOCNKXHSGK,M1081,False
+1-tert-butoxyethyl methacrylate,C=C(C)C(=O)OC(C)OC(C)(C)C,C=C(C)C(=O)OC(C)OC(C)(C)C,MLYNUBSZHMBILG,M1082,False
+Ethyl-2-cyanoacrylate,C=C(C#N)C(=O)OCC,C=C(C#N)C(=O)OCC,FGBJXOREULPLGL,M1083,False
+cyclohexene oxide,C1CCC2OC2C1,C1CCC2OC2C1,ZWAJLVLEBYIOTI,M1084,False
+N-dodecylacrylamide,C=CC(=O)NCCCCCCCCCCCC,C=CC(=O)NCCCCCCCCCCCC,XQPVIMDDIXCFFS,M1085,False
+p-dioxene,C1=COCCO1,C1=COCCO1,HIZVCIIORGCREW,M1086,False
+butyl vinyl ether,C=COCCCC,C=COCCCC,UZKWTJUDCOPSNM,M1087,False
+N-(2-hydroxyethylmethyl)acrylamide,C=CC(=O)NCCCO,C=CC(=O)NCCCO,ZEMHQYNMVKDBFJ,M1088,False
+p-Dioxanone,O=C1COCCO1,O=C1COCCO1,VPVXHAANQNHFSF,M1089,False
+2-methoxyethyl methacrylate,C=C(C)C(=O)OCCOC,C=C(C)C(=O)OCCOC,YXYJVFYWCLAXHO,M1090,False
+2-ethyl-2-oxazoline,CCC1=NCCO1,CCC1=NCCO1,NYEZZYQZRQDLEH,M1091,False
+"4,4'-difluorobenzophenone",O=C(c1ccc(F)cc1)c1ccc(F)cc1,O=C(c1ccc(F)cc1)c1ccc(F)cc1,LSQARZALBDFYQZ,M1092,False
+"4,4'-difluorodiphenyl sulfone",O=S(=O)(c1ccc(F)cc1)c1ccc(F)cc1,O=S(=O)(c1ccc(F)cc1)c1ccc(F)cc1,PLVUIVUKKJTSDM,M1093,False
+phenylglycidylether,c1ccc(OCC2CO2)cc1,c1ccc(OCC2CO2)cc1,FQYUMYWMJTYZTK,M1094,False
+vinyl hexanoate,C=COC(=O)CCCCC,C=COC(=O)CCCCC,LZWYWAIOTBEZFN,M1095,False
+"1-Ethenyl-4-(2,3-epoxy-1-propoxy)benzene",C=Cc1ccc(OCC2CO2)cc1,C=Cc1ccc(OCC2CO2)cc1,AAUXVPAKDMCMMN,M1096,False
+tert-Butyl 3-isopropenylcumylperoxide,C=C(C)c1cccc(C(C)(C)OOC(C)(C)C)c1,C=C(C)c1cccc(C(C)(C)OOC(C)(C)C)c1,UPJJAYDKTWNELO,M1097,False
+vinyl thiolacetate,C=COC(=O)Cc1cccs1,C=COC(=O)Cc1cccs1,IFMUNEPYWVGZCU,M1098,False
+p-chloromethylstyrene,C=Cc1ccc(CCl)cc1,C=Cc1ccc(CCl)cc1,ZRZHXNCATOYMJH,M1099,False
+"1,2-butylene oxide",CCC1CO1,CCC1CO1,RBACIKXCRWGCBB,M1100,False
+n-propyl glycidyl ether,CCCOCC1CO1,CCCOCC1CO1,CWNOEVURTVLUNV,M1101,False
+glycolide,O=C1COC(=O)CO1,O=C1COC(=O)CO1,RKDVKSZUMVYZHH,M1102,False
+maleic acid,O=C(O)C=CC(=O)O,O=C(O)C=CC(=O)O,VZCYOOQTPOCHFL,M1103,False
+"1,6-heptadiene",C=CCCCC=C,C=CCCCC=C,GEAWFZNTIFJMHR,M1104,False
+"methyl 3,4-epoxybutanoate",COC(=O)CC1CO1,COC(=O)CC1CO1,DQHYBNWZWWGNQB,M1105,False
+ethyl 1-propenyl ether,CC=COCC,CC=COCC,XDHOEHJVXXTEDV,M1106,False
+2-methyl-1-propenyl ether,CC(C)=COC=C(C)C,CC(C)=COC=C(C)C,MYGMGGHRPDDQCN,M1107,False
+trifluoropropene,CC(F)=C(F)F,CC(F)=C(F)F,LNGDLROYEAUMEQ,M1108,False
+p-hydroxy acetophenone,CC(=O)c1ccc(O)cc1,CC(=O)c1ccc(O)cc1,TXFPEBPIARQUIG,M1109,False
+p-amino acetophenone,CC(=O)c1ccc(N)cc1,CC(=O)c1ccc(N)cc1,GPRYKVSEZCQIHD,M1110,False
+ortho-methoxystyrene,C=Cc1ccccc1OC,C=Cc1ccccc1OC,SFBTTWXNCQVIEC,M1111,False
+furfural,O=Cc1ccco1,O=Cc1ccco1,HYBBIBNJHNGZAN,M1112,False
+isobornyl acrylate,C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,PSGCQDPCAWOCSH,M1113,False
+"diethyl 7-oxabicyclo[2.2.1]hepta-2,5-diene-2,3-dicarboxylate",CCOC(=O)C1=C(C(=O)OCC)C2C=CC1O2,CCOC(=O)C1=C(C(=O)OCC)C2C=CC1O2,PCYLJFYRZQXRIP,M1114,False
+Diphenylvinylphosphine sulfide,S=[PH2]C=C(c1ccccc1)c1ccccc1,S=[PH2]C=C(c1ccccc1)c1ccccc1,LZKUFXWPYLJUHS,M1115,False
+Diphenylvinylphosphine oxide,O=[PH2]C=C(c1ccccc1)c1ccccc1,O=[PH2]C=C(c1ccccc1)c1ccccc1,RSKAVJXBWILKMK,M1116,False
+Diphenylvinylphosphine,PC=C(c1ccccc1)c1ccccc1,PC=C(c1ccccc1)c1ccccc1,OURPSHGVPDXVPF,M1117,False
+Diisobutylvinylphosphine oxide,CC(C)CC(=C[PH2]=O)CC(C)C,CC(C)CC(=C[PH2]=O)CC(C)C,APMAMJBVOGNAKB,M1118,False
+ethylene glycol nitrate acrylate,C=CC(=O)O.O=[N+]([O-])O.OCCO,C=CC(=O)O.O=[N+]([O-])O.OCCO,HEHSPEHSUAXYHS,M1119,False
+butylene glycol nitrate acrylate,C=CC(=O)O.O=[N+]([O-])O.OCCCCO,C=CC(=O)O.O=[N+]([O-])O.OCCCCO,JDWLERLOSXOYSA,M1120,False
+ethylene glycol nitrate methacrylate,C=C(C)C(=O)O.O=[N+]([O-])O.OCCO,C=C(C)C(=O)O.O=[N+]([O-])O.OCCO,FUTDKSOJVLYNEV,M1121,False
+diphenylketene,O=C=C(c1ccccc1)c1ccccc1,O=C=C(c1ccccc1)c1ccccc1,ZWJPCOALBPMBIC,M1122,False
+phenylethylketene,O=C=CCCc1ccccc1,O=C=CCCc1ccccc1,WHVUEILNCDOYJE,M1123,False
+phenylmethylketene,O=C=CCc1ccccc1,O=C=CCc1ccccc1,NQYLGSSWJYKDDI,M1124,False
+beta-methylstyrene,CC=Cc1ccccc1,CC=Cc1ccccc1,QROGIFZRVHSFLM,M1125,False
+"1,8-bis(4-(1-naphthoxy)phenylsulfonyl)perfluorooctane",O=S(=O)(c1ccc(Oc2cccc3ccccc23)cc1)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)c1ccc(Oc2cccc3ccccc23)cc1,O=S(=O)(c1ccc(Oc2cccc3ccccc23)cc1)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)c1ccc(Oc2cccc3ccccc23)cc1,OENYOJUXZDWKME,M1126,False
+"8-vinyloxytricyclo[5.2.1.0²,⁶]decane",C=COC1CC2CC1C1CCCC21,C=COC1CC2CC1C1CCCC21,PKTORKCIXKNVFR,M1127,False
+myrcene,C=CC(=C)CCC=C(C)C,C=CC(=C)CCC=C(C)C,UAHWPYUMFXYFJY,M1128,False
+Phenylvinyl methyl ether,COC=Cc1ccccc1,COC=Cc1ccccc1,CTHJQRHPNQEPAB,M1129,False
+Phenylvinyl n-propyl ether,CCCOC=Cc1ccccc1,CCCOC=Cc1ccccc1,ILYSKJPEZAABAA,M1130,False
+Phenylvinyl isopropyl ether,CC(C)OC=Cc1ccccc1,CC(C)OC=Cc1ccccc1,VNOSMVIVSUHSPU,M1131,False
+Phenylvinyl sec-butyl ether,CCC(C)OC=Cc1ccccc1,CCC(C)OC=Cc1ccccc1,HVNNSSKFHAZEJH,M1132,False
+o-toluidine,Cc1ccccc1N,Cc1ccccc1N,RNVCVTLRINQCPJ,M1133,False
+"2-phenyl-1,3,2-dioxaphospholane",c1ccc(P2OCCO2)cc1,c1ccc(P2OCCO2)cc1,IYBBAKJYRPWKLP,M1134,False
+2-ethylhexyl acrylate,C=CC(=O)OCC(CC)CCCC,C=CC(=O)OCC(CC)CCCC,GOXQRTZXKQZDDN,M1135,False
+"3,4-Dimethyltetrahydrofuran",CC1COCC1C,CC1COCC1C,FVAHHPPJYLVIIC,M1136,False
+methyl diphenylacetylene,Cc1ccccc1C#Cc1ccccc1,Cc1ccccc1C#Cc1ccccc1,RVTIFECUYDUJAY,M1137,False
+cyclopentene,C1=CCCC1,C1=CCCC1,LPIQUOYDBNQMRZ,M1138,False
+cyclooctene,C1=CCCCCCC1,C1=CCCCCCC1,URYYVOIYTNXXBN,M1139,False
+"1,5-cyclooctadiene",C1=CCCC=CCC1,C1=CCCC=CCC1,VYXHVRARDIDEHS,M1140,False
+3-Methyltetrahydrofuran,CC1CCOC1,CC1CCOC1,LJPCNSSTRWGCMZ,M1141,False
+"1-[2-(2-ethoxyethoxy)ethoxy]-1,2,2-trifluoroethene",CCOCCOCCOC(F)=C(F)F,CCOCCOCCOC(F)=C(F)F,PUJCFSQVLRTYOQ,M1142,False
+allyl ethenesulfonate,C=CCOS(=O)(=O)C=C,C=CCOS(=O)(=O)C=C,UIEFMYGRHVOUTG,M1143,False
+phthalic anhydride,O=C1OC(=O)c2ccccc21,O=C1OC(=O)c2ccccc21,LGRFSURHDFAFJT,M1144,False
+N-(4-carboxyphenyl)maleimide,O=C(O)c1ccc(N2C(=O)C=CC2=O)cc1,O=C(O)c1ccc(N2C(=O)C=CC2=O)cc1,LKUOJDGRNKVVFF,M1145,False
+"3,3-Bis(hydroxymethyl)oxetane",OCC1(CO)COC1,OCC1(CO)COC1,QSGREIXRTDCBHO,M1146,False
+"Perfluoro-3-methylene-2,4-dioxabicyclo[3.3.0]octane",FC(F)=C1OC2(F)C(F)(F)C(F)(F)C(F)(F)C2(F)O1,FC(F)=C1OC2(F)C(F)(F)C(F)(F)C(F)(F)C2(F)O1,MXCGKKOVZPLOLK,M1147,False
+6-Chloro-2-vinylnaphthalene,C=Cc1ccc2cc(Cl)ccc2c1,C=Cc1ccc2cc(Cl)ccc2c1,QAJSYNIVOSRFAQ,M1148,False
+4-Chloro-1-vinylnaphthalene,C=Cc1ccc(Cl)c2ccccc12,C=Cc1ccc(Cl)c2ccccc12,NYUXIFDLNGQOLF,M1149,False
+2-Vinylphenanthrene,C=Cc1ccc2c(ccc3ccccc32)c1,C=Cc1ccc2c(ccc3ccccc32)c1,UIUTYKKZYFMBHJ,M1150,False
+3-Vinylphenanthrene,C=Cc1ccc2ccc3ccccc3c2c1,C=Cc1ccc2ccc3ccccc3c2c1,GSOQJPAPFAGIOM,M1151,False
+vinyl bromide,C=CBr,C=CBr,INLLPKCGLOXCIV,M1152,False
+Vinyl levulinate,C=COC(=O)CCC(C)=O,C=COC(=O)CCC(C)=O,VEIVCESBDXEZQY,M1153,False
+Vinyl pelargonate,C=COC(=O)CCCCCCCC,C=COC(=O)CCCCCCCC,NWJTZFZQVYJIHU,M1154,False
+"2,3,4,5,6-pentafluorostyrene",C=Cc1c(F)c(F)c(F)c(F)c1F,C=Cc1c(F)c(F)c(F)c(F)c1F,LVJZCPNIJXVIAT,M1155,False
+beta-Pinene,C=C1CCC2CC1C2(C)C,C=C1CCC2CC1C2(C)C,WTARULDDTDQWMU,M1156,False
+isophthalaldehyde,O=Cc1cccc(C=O)c1,O=Cc1cccc(C=O)c1,IZALUMVGBVKPJD,M1157,False
+terephthalaldehyde,O=Cc1ccc(C=O)cc1,O=Cc1ccc(C=O)cc1,KUCOHFSKRZZVRO,M1158,False
+alpha-Pyrrolidone,O=C1CCCN1,O=C1CCCN1,HNJBEVLQSNELDL,M1159,False
+Acryloxymethylpentamethyldisiloxane,C=CC(=O)OC[Si](C)(C)O[Si](C)(C)C,C=CC(=O)OC[Si](C)(C)O[Si](C)(C)C,VKPVUNFNWSJTBJ,M1160,False
+Methacryloxymethylpentamethyldisiloxane,C=C(C)C(=O)OC[Si](C)(C)O[Si](C)(C)C,C=C(C)C(=O)OC[Si](C)(C)O[Si](C)(C)C,RZKKLXUEULTOGP,M1161,False
+methylthiomethyl methacrylate,C=C(C)C(=O)OCSC,C=C(C)C(=O)OCSC,AHJQXEBSKMYLKC,M1162,False
+propylene sulphide,CC1CS1,CC1CS1,MBNVSWHUJDDZRH,M1163,False
+"4-methacryloyl-2,2,6,6-tetramethyl-piperidine",C=C(C)C(=O)C1CC(C)(C)NC(C)(C)C1,C=C(C)C(=O)C1CC(C)(C)NC(C)(C)C1,XOKPQFZWKUUZGQ,M1164,False
+p-hydroxybenzoic acid,O=C(O)c1ccc(O)cc1,O=C(O)c1ccc(O)cc1,FJKROLUGYXJWQN,M1165,False
+9-Vinylanthracene,C=Cc1c2ccccc2cc2ccccc12,C=Cc1c2ccccc2cc2ccccc12,OGOYZCQQQFAGRI,M1166,False
+alpha-Fluoroacrylamide,C=C(F)C(N)=O,C=C(F)C(N)=O,QLGUMAKHZODJET,M1167,False
+3-benzyl-1-vinylimidazolium bromide,C=C[n+]1ccn(Cc2ccccc2)c1.[Br-],C=C[n+]1ccn(Cc2ccccc2)c1.[Br-],FQRFBZONOVSXFW,M1168,False
+3-ethyl-1-vinylimidazolium iodide,C=C[n+]1ccn(CC)c1.[I-],C=C[n+]1ccn(CC)c1.[I-],UOARFFHPYSKBNB,M1169,False
+triallyl isocyanurate,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,C=CCn1c(=O)n(CC=C)c(=O)n(CC=C)c1=O,KOMNUTZXSVSERR,M1170,False
+diallylmelamine,C=CCN(CC=C)c1nc(N)nc(N)n1,C=CCN(CC=C)c1nc(N)nc(N)n1,ROHTVIURAJBDES,M1171,False
+vinylacetate,C=CCC(=O)[O-],C=CCC(=O)[O-],PVEOYINWKBTPIZ,M1172,False
+isobutyl acrylate,C=CC(=O)OCC(C)C,C=CC(=O)OCC(C)C,CFVWNXQPGQOHRJ,M1173,False
+sec-butyl acrylate,C=CC(=O)OC(C)CC,C=CC(=O)OC(C)CC,RNOOHTVUSNIPCJ,M1174,False
+tert-butyl acrylate,C=CC(=O)OC(C)(C)C,C=CC(=O)OC(C)(C)C,ISXSCDLOGDJUNJ,M1175,False
+Cyanomethyl Methacrylate,C=C(C)C(=O)OCC#N,C=C(C)C(=O)OCC#N,KXTNMKREYTVOMX,M1176,False
+tert-Butylethylene,C=CC(C)(C)C,C=CC(C)(C)C,PKXHXOTZMFCXSH,M1177,False
+"1,1-Dichloro-2,2-difluoroethylene",FC(F)=C(Cl)Cl,FC(F)=C(Cl)Cl,QDGONURINHVBEW,M1178,False
+Hexachlorobutadiene,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,RWNKSTSCBHKHTB,M1179,False
+"Bicyclo[2.2.1]hepta-2,5-diene",C1=CC2C=CC1C2,C1=CC2C=CC1C2,SJYNFBVQFBRSIB,M1180,False
+Sodium 2-acrylamido-2-methylpropanesulfonate,C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].[Na+],C=CC(=O)NC(C)(C)CS(=O)(=O)[O-].[Na+],FWFUWXVFYKCSQA,M1181,False
+Sodium 3-acrylamido-3-methylbutanoate,C=CC(=O)NC(C)(C)CC(=O)[O-].[Na+],C=CC(=O)NC(C)(C)CC(=O)[O-].[Na+],UYQMMKJPYKVVIC,M1182,False
+γ-Methacryloxypropyl trimethoxy silane,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,XDLMVUHYZWKMMD,M1183,False
+dimethyl maleate,COC(=O)C=CC(=O)OC,COC(=O)C=CC(=O)OC,LDCRTTXIJACKKU,M1184,False
+dimethyl itaconate,C=C(CC(=O)OC)C(=O)OC,C=C(CC(=O)OC)C(=O)OC,ZWWQRMFIZFPUAA,M1185,False
+p-bromophenyl acrylate,C=CC(=O)Oc1ccc(Br)cc1,C=CC(=O)Oc1ccc(Br)cc1,HWWIOYDCNOHHMH,M1186,False
+m-chlorophenyl acrylate,C=CC(=O)Oc1cccc(Cl)c1,C=CC(=O)Oc1cccc(Cl)c1,QGLITNZASFCEKC,M1187,False
+9-Vinylphenanthrene,C=Cc1cc2ccccc2c2ccccc12,C=Cc1cc2ccccc2c2ccccc12,KTPLMACSFXCPHL,M1188,False
+1-Vinylanthracene,C=Cc1cccc2cc3ccccc3cc12,C=Cc1cccc2cc3ccccc3cc12,UVHXEHGUEKARKZ,M1189,False
+alpha-Trimethylsilyloxystyrene,C=C(O[Si](C)(C)C)c1ccccc1,C=C(O[Si](C)(C)C)c1ccccc1,AFFPCIMDERUIST,M1190,False
+Ethyl Vinyl Sulfoxide,C=CS(=O)CC,C=CS(=O)CC,HNXMKNMCALMEPP,M1191,False
+p-Bromostyrene,C=Cc1ccc(Br)cc1,C=Cc1ccc(Br)cc1,WGGLDBIZIQMEGH,M1192,False
+p-Cyanostyrene,C=Cc1ccc(C#N)cc1,C=Cc1ccc(C#N)cc1,SNTUCKQYWGHZPK,M1193,False
+bis(2-ethylhexyl) itaconate,C=C(CC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,C=C(CC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,CGNRQCGWXXLTIA,M1194,False
+3-[diethyl-2-(2-methacryloyloxyethoxy)ethylammonio]propanesulphonate,C=C(C)C(=O)OCCOCC[N+](CC)(CC)CCCS(=O)(=O)[O-],C=C(C)C(=O)OCCOCC[N+](CC)(CC)CCCS(=O)(=O)[O-],FGWCDFKNCOKXIL,M1195,False
+tolylisocyanide,[C-]#[N+]c1ccccc1C,[C-]#[N+]c1ccccc1C,HGHZICGHCZFYNX,M1196,False
+hexyl alpha-chloroacrylate,C=C(Cl)C(=O)OCCCCCC,C=C(Cl)C(=O)OCCCCCC,OZEQOULCAFTKNS,M1197,False
+cyclohexyl alpha-chloroacrylate,C=C(Cl)C(=O)OC1CCCCC1,C=C(Cl)C(=O)OC1CCCCC1,GCFPFZBUGPYIIA,M1198,False
+"acetic acid, dichloro-, vinyl ester",C=COC(=O)C(Cl)Cl,C=COC(=O)C(Cl)Cl,ZBCLTORTGNOIGM,M1199,False
+tetrahydrofurfuryl methacrylate,C=C(C)C(=O)OCC1CCCO1,C=C(C)C(=O)OCC1CCCO1,LCXXNKZQVOXMEH,M1200,False
+m-nitrostyrene,C=Cc1cccc([N+](=O)[O-])c1,C=Cc1cccc([N+](=O)[O-])c1,SYZVQXIUVGKCBJ,M1201,False
+diphenylvinylphosphonate,O=P([O-])([O-])C=C(c1ccccc1)c1ccccc1,O=P([O-])([O-])C=C(c1ccccc1)c1ccccc1,JPUBMSLXAPYBJZ,M1202,False
+vinyl trichloroacetate,C=COC(=O)C(Cl)(Cl)Cl,C=COC(=O)C(Cl)(Cl)Cl,HDSFLVZBTRAEEM,M1203,False
+Methyl Vinyl Sulfone,C=CS(C)(=O)=O,C=CS(C)(=O)=O,WUIJTQZXUURFQU,M1204,False
+Vinylmethyldiethoxysilane,C=CC[SiH](OCC)OCC,C=CC[SiH](OCC)OCC,BGMKLPCJBFXZTQ,M1205,False
+vinyl propionate,C=COC(=O)CC,C=COC(=O)CC,UIWXSTHGICQLQT,M1206,False
+vinyl butyrate,C=COC(=O)CCC,C=COC(=O)CCC,MEGHWIAOTJPCHQ,M1207,False
+vinyl phenylacetate,C=COC(=O)Cc1ccccc1,C=COC(=O)Cc1ccccc1,IDZLRASFVAGODW,M1208,False
+Ethyl alpha-Acetoxyacrylate,C=C(OC(C)=O)C(=O)OCC,C=C(OC(C)=O)C(=O)OCC,UMSUVRQADXVIDD,M1209,False
+(-)-Menthyl Methacrylate,C=C(C)C(=O)OC1CC(C)CCC1C(C)C,C=C(C)C(=O)OC1CC(C)CCC1C(C)C,VYPRXWXGLLURNB,M1210,False
+"N,N'-dimethylacrylamide",C=C(C)C(=O)NC,C=C(C)C(=O)NC,WFKDPJRCBCBQNT,M1211,False
+isopropenyl isocyanate,C=C(C)N=C=O,C=C(C)N=C=O,UKQJZQQPMIFNHE,M1212,False
+Diethyl maleate,CCOC(=O)C=CC(=O)OCC,CCOC(=O)C=CC(=O)OCC,IEPRKVQEAMIZSS,M1213,False
+Methacryloyl fluoride,C=C(C)C(=O)F,C=C(C)C(=O)F,QPWDDANCLNNEQF,M1214,False
+p-ethoxystyrene,C=Cc1ccc(OCC)cc1,C=Cc1ccc(OCC)cc1,OBRYRJYZWVLVLF,M1215,False
+"methacryloyl β-hydroxyethyl-3,5-dinitrobenzoate",C=C(C)C(=O)OC(=O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1CCO,C=C(C)C(=O)OC(=O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1CCO,XHAYBZKPUFFCFY,M1216,False
+p-isopropylstyrene,C=Cc1ccc(C(C)C)cc1,C=Cc1ccc(C(C)C)cc1,QQHQTCGEZWTSEJ,M1217,False
+itaconic acid,C=C(CC(=O)O)C(=O)O,C=C(CC(=O)O)C(=O)O,LVHBHZANLOWSRM,M1218,False
+3-methylthienyl methacrylate,C=C(C)C(=O)Oc1sccc1C,C=C(C)C(=O)Oc1sccc1C,WPZWUVGLJXBHBU,M1219,False
+α-Methoxystyrene,C=C(OC)c1ccccc1,C=C(OC)c1ccccc1,SIZDIMDMQQFWLM,M1220,False
+N-(3-Bromophenyl)maleimide,O=C1C=CC(=O)N1c1cccc(Br)c1,O=C1C=CC(=O)N1c1cccc(Br)c1,KJJYDECLTBAKCK,M1221,False
+N-(4-Bromophenyl)maleimide,O=C1C=CC(=O)N1c1ccc(Br)cc1,O=C1C=CC(=O)N1c1ccc(Br)cc1,FECSFBYOMHWJQG,M1222,False
+N-(4-Chlorophenyl)maleimide,O=C1C=CC(=O)N1c1ccc(Cl)cc1,O=C1C=CC(=O)N1c1ccc(Cl)cc1,FPZQYYXSOJSITC,M1223,False
+Sodium Chloroacrylate,C=C(Cl)C(=O)[O-].[Na+],C=C(Cl)C(=O)[O-].[Na+],BNGQLYQWSYXQLK,M1224,False
+"N-(2-Hydroxyethyl)-3,6-dichlorocarbazolyl Methacrylate",C=C(C)C(=O)Oc1cc(Cl)cc2c3cc(Cl)ccc3n(CCO)c12,C=C(C)C(=O)Oc1cc(Cl)cc2c3cc(Cl)ccc3n(CCO)c12,IOUVVCUGCDORLB,M1225,False
+"N-(2-Hydroxyethyl)-3,6-dichlorocarbazolyl Acrylate",C=CC(=O)Oc1cc(Cl)cc2c3cc(Cl)ccc3n(CCO)c12,C=CC(=O)Oc1cc(Cl)cc2c3cc(Cl)ccc3n(CCO)c12,OCDYWOIWBPAMEY,M1226,False
+p-t-butylstyrene,C=Cc1ccc(C(C)(C)C)cc1,C=Cc1ccc(C(C)(C)C)cc1,QEDJMOONZLUIMC,M1227,False
+Di-n-butyl itaconate,C=C(CC(=O)OCCCC)C(=O)OCCCC,C=C(CC(=O)OCCCC)C(=O)OCCCC,OGVXYCDTRMDYOG,M1228,False
+1-cyanobutadiene,C=CC=CC#N,C=CC=CC#N,STSRVFAXSLNLLI,M1229,False
+5-Ethyl-2-vinyl pyridine,C=Cc1ccc(CC)cn1,C=Cc1ccc(CC)cn1,YQUDMNIUBTXLSX,M1230,False
+alpha-Trifluoromethylacrylonitrile,C=C(C#N)C(F)(F)F,C=C(C#N)C(F)(F)F,XHOYJCHWYPGFNS,M1231,False
+Methyl alpha-Trifluoromethylacrylate,C=C(C(=O)OC)C(F)(F)F,C=C(C(=O)OC)C(F)(F)F,GTRBXMICTQNNIN,M1232,False
+Butene-1,C=CCC,C=CCC,VXNZUUAINFGPBY,M1233,False
+p-dimethylaminomethylstyrene,C=Cc1ccc(CN(C)C)cc1,C=Cc1ccc(CN(C)C)cc1,XQBHAZDVLGNSOJ,M1234,False
+Cyclohexyl Methacrylate,C=C(C)C(=O)OC1CCCCC1,C=C(C)C(=O)OC1CCCCC1,OIWOHHBRDFKZNC,M1235,False
+2-Ethoxyethyl Methacrylate,C=C(C)C(=O)OCCOCC,C=C(C)C(=O)OCCOCC,SFPNZPQIIAJXGL,M1236,False
+p-trimethoxysilylstyrene,C=Cc1ccc([Si](OC)(OC)OC)cc1,C=Cc1ccc([Si](OC)(OC)OC)cc1,LTQBNYCMVZQRSD,M1237,False
+Tetracyanoethylene,N#CC(C#N)=C(C#N)C#N,N#CC(C#N)=C(C#N)C#N,NLDYACGHTUPAQU,M1238,False
+Vinyl Mercaptobenzothiazole,C=Cc1cccc2sc(S)nc12,C=Cc1cccc2sc(S)nc12,SXWJKBPQVPUDID,M1239,False
+p-vinylphenyldimethylcarbinol,C=Cc1ccc(C(C)(C)O)cc1,C=Cc1ccc(C(C)(C)O)cc1,VXYFKTCNSCJZKY,M1240,False
+p-vinylphenylmethylcarbinol,C=Cc1ccc(CCO)cc1,C=Cc1ccc(CCO)cc1,TVUARPCSZQNJJZ,M1241,False
+p-vinylphenyl diethylcarbinol,C=Cc1ccc(C(O)(CC)CC)cc1,C=Cc1ccc(C(O)(CC)CC)cc1,YQSVQFLOXYBCCA,M1242,False
+9-(4-vinylbenzyl)-9H-carbazole,C=Cc1ccc(Cn2c3ccccc3c3ccccc32)cc1,C=Cc1ccc(Cn2c3ccccc3c3ccccc32)cc1,NHIZBKTYLXRSOL,M1243,False
+Allyl Urea,C=CCNC(N)=O,C=CCNC(N)=O,VPJDULFXCAQHRC,M1244,False
+Cyanoacetylene,C#CC#N,C#CC#N,LNDJVIYUJOJFSO,M1245,False
+Carbon Monoxide,C=O,C=O,WSFSSNUMVMOOMR,M1246,False
+4-(tert-butyldimethylsilyloxy)styrene,C=Cc1ccc(O[Si](C)(C)C(C)(C)C)cc1,C=Cc1ccc(O[Si](C)(C)C(C)(C)C)cc1,QVPBMCKCBQURHP,M1247,False
+"2,3-Dimethyl-1,3-butadiene",C=C(C)C(=C)C,C=C(C)C(=C)C,SDJHPPZKZZWAKF,M1248,False
+Trityl Methacrylate,C=C(C)C(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1,C=C(C)C(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1,PTVDYMGQGCNETM,M1249,False
+Allyl Alcohol,C=CCO,C=CCO,XXROGKLTLUQVRX,M1250,False
+"acryloyl-β-hydroxyethyl-3,5-dinitrobenzoate",C=CC(=O)c1c([N+](=O)[O-])cc(C(=O)[O-])c(CCO)c1[N+](=O)[O-],C=CC(=O)c1c([N+](=O)[O-])cc(C(=O)[O-])c(CCO)c1[N+](=O)[O-],NJVKXRVCGNECJI,M1251,False
+Ethyl benzylidenecyanoacetate,CCOC(=O)C(C#N)=Cc1ccccc1,CCOC(=O)C(C#N)=Cc1ccccc1,KCDAMWRCUXGACP,M1252,False
+crotononitrile,CC=CC#N,CC=CC#N,NKKMVIVFRUYPLQ,M1253,False
+methyl crotonate,CC=CC(=O)OC,CC=CC(=O)OC,MCVVUJPXSBQTRZ,M1254,False
+2-(diisopropylamino)ethyl methacrylate,C=C(C)C(=O)OCCN(C(C)C)C(C)C,C=C(C)C(=O)OCCN(C(C)C)C(C)C,SVYHMICYJHWXIN,M1255,False
+N-vinyl-N'-ethylurea,C=CNC(=O)NCC,C=CNC(=O)NCC,LIOYFPXDFZHOGN,M1256,False
+"N,N-dibenzylaminoethyl glycidyl amine",CCC(C1CO1)N(NCc1ccccc1)NCc1ccccc1,CCC(C1CO1)N(NCc1ccccc1)NCc1ccccc1,BEXUJKNKYPFKLP,M1257,False
+"1-Acetoxy-1,3-butadiene",C=CC=COC(C)=O,C=CC=COC(C)=O,NMQQBXHZBNUXGJ,M1258,False
+"2,5-Dimethylstyrene",C=Cc1cc(C)ccc1C,C=Cc1cc(C)ccc1C,DBWWINQJTZYDFK,M1259,False
+tetradecyl acrylate,C=CC(=O)OCCCCCCCCCCCCCC,C=CC(=O)OCCCCCCCCCCCCCC,XZHNPVKXBNDGJD,M1260,False
+Triallyl Citrate,C=CCOC(=O)CC(O)(CC(=O)OCC=C)C(=O)OCC=C,C=CCOC(=O)CC(O)(CC(=O)OCC=C)C(=O)OCC=C,PLCFYBDYBCOLSP,M1261,False
+"2,3-dichloro-1,3-butadiene",C=C(Cl)C(=C)Cl,C=C(Cl)C(=C)Cl,LIFLRQVHKGGNSG,M1262,False
+Dioctyl Maleate,CCCCCCCCOC(=O)C=CC(=O)OCCCCCCCC,CCCCCCCCOC(=O)C=CC(=O)OCCCCCCCC,TVWTZAGVNBPXHU,M1263,False
+trans-Dichloroethylene,ClC=CCl,ClC=CCl,KFUSEUYYWQURPO,M1264,False
+delta-Valerolactone,O=C1CCCCO1,O=C1CCCCO1,OZJPLYNZGCXSJM,M1265,False
+propyl acrylate,C=CC(=O)OCCC,C=CC(=O)OCCC,PNXMTCDJUBJHQJ,M1266,False
+N-methyl citraconimide,CC1=CC(=O)N(C)C1=O,CC1=CC(=O)N(C)C1=O,HZSAZNPWHKCGKO,M1267,False
+"2-trimethylsilyloxy-1,3-butadiene",C=CC(=C)O[Si](C)(C)C,C=CC(=C)O[Si](C)(C)C,JOAPBVRQZQYKMS,M1268,False
+"2,3-Dihydroxypropylmethacrylate",C=C(C)C(=O)OCC(O)CO,C=C(C)C(=O)OCC(O)CO,QRIMLDXJAPZHJE,M1269,False
+Methacryloyl chloride,C=C(C)C(=O)Cl,C=C(C)C(=O)Cl,VHRYZQNGTZXDNX,M1270,False
+m-vinyl phenol,C=Cc1cccc(O)c1,C=Cc1cccc(O)c1,YNGIFMKMDRDNBQ,M1271,False
+Monomethyl Maleate,COC(=O)C=CC(=O)O,COC(=O)C=CC(=O)O,NKHAVTQWNUWKEO,M1272,False
+Maleonitrile,N#CC=CC#N,N#CC=CC#N,KYPOHTVBFVELTG,M1273,False
+N-(p-chlorophenyl) itaconimide,C=C1CC(=O)N(c2ccc(Cl)cc2)C1=O,C=C1CC(=O)N(c2ccc(Cl)cc2)C1=O,QTVOBMUYSKKMBK,M1274,False
+N-(m-chlorophenyl) itaconimide,C=C1CC(=O)N(c2cccc(Cl)c2)C1=O,C=C1CC(=O)N(c2cccc(Cl)c2)C1=O,RBZUQLXAEPRQHU,M1275,False
+N-(o-chlorophenyl) itaconimide,C=C1CC(=O)N(c2ccccc2Cl)C1=O,C=C1CC(=O)N(c2ccccc2Cl)C1=O,NYXCRPZXZIXDHV,M1276,False
+p-dioxane,C1COCCO1,C1COCCO1,RYHBNJHYFVUHQT,M1277,False
+chlorostyrene,ClC=Cc1ccccc1,ClC=Cc1ccccc1,SBYMUDUGTIKLCR,M1278,False
+pentadecylphenyl methacrylate,C=C(C)C(=O)Oc1ccccc1CCCCCCCCCCCCCCC,C=C(C)C(=O)Oc1ccccc1CCCCCCCCCCCCCCC,QBLDFVAFDOHINN,M1279,False
+isopropyl vinyl ether,C=COC(C)C,C=COC(C)C,GNUGVECARVKIPH,M1280,False
+Triethyl aconitate,CCOC(=O)C=C(CC(=O)OCC)C(=O)OCC,CCOC(=O)C=C(CC(=O)OCC)C(=O)OCC,IDDWGDKSBYYEPL,M1281,False
+1-Pentene,C=CCCC,C=CCCC,YWAKXRMUMFPDSH,M1282,False
+"1,1-diphenylethyl methacrylate",C=C(C)C(=O)OC(C)(c1ccccc1)c1ccccc1,C=C(C)C(=O)OC(C)(c1ccccc1)c1ccccc1,TXLHVCXHFRFNCE,M1283,False
+Vinyl Carbazole,C=Cc1cccc2c1[nH]c1ccccc12,C=Cc1cccc2c1[nH]c1ccccc12,APQXWKHOGQFGTB,M1284,False
+Diethyl vinyl phosphate,C=COP(=O)(OCC)OCC,C=COP(=O)(OCC)OCC,ULUJSLFWDQSXRS,M1285,False
+Diphenyl vinyl phosphate,C=COP(=O)(Oc1ccccc1)Oc1ccccc1,C=COP(=O)(Oc1ccccc1)Oc1ccccc1,RJYNTEFVOZNXEM,M1286,False
+alpha-chloroacrylonitrile,C=C(Cl)C#N,C=C(Cl)C#N,OYUNTGBISCIYPW,M1287,False
+ethylene glycol dimethacrylate,C=C(C)C(=O)OCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOC(=O)C(=C)C,STVZJERGLQHEKB,M1288,False
+diethylene glycol dimethacrylate,C=C(C)C(=O)OCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOC(=O)C(=C)C,XFCMNSHQOZQILR,M1289,False
+triethylene glycol dimethacrylate,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,HWSSEYVMGDIFMH,M1290,False
+tetraethylene glycol dimethacrylate,C=C(C)C(=O)OCCOCCOCCOCCOC(=O)C(=C)C,C=C(C)C(=O)OCCOCCOCCOCCOC(=O)C(=C)C,LTHJXDSHSVNJKG,M1291,False
+beta-acryloxypropionic acid,C=CC(=O)OCCC(=O)O,C=CC(=O)OCCC(=O)O,CYUZOYPRAQASLN,M1292,False
+N-methylol maleimide,O=C1C=CC(=O)N1CO,O=C1C=CC(=O)N1CO,BHPDNFUVYQFFNK,M1293,False
+N-2-hydroxyethyl maleimide,O=C1C=CC(=O)N1CCO,O=C1C=CC(=O)N1CCO,AXTADRUCVAUCRS,M1294,False
+N-4-hydroxyphenyl maleimide,O=C1C=CC(=O)N1c1ccc(O)cc1,O=C1C=CC(=O)N1c1ccc(O)cc1,BLLFPKZTBLMEFG,M1295,False
+2-methylaziridine,CC1CN1,CC1CN1,OZDGMOYKSFPLSE,M1296,False
+4-Methyl-1-pentene,C=CCC(C)C,C=CCC(C)C,WSSSPWUEQFSQQG,M1297,False
+acrylamido undecanoic acid,C=CC(=O)NC(CCCCCCCCC)C(=O)O,C=CC(=O)NC(CCCCCCCCC)C(=O)O,JHHGXBMPCYDHDU,M1298,False
+"5,10,15,20-tetrakis(pentafluorophenyl)porphyrin",Fc1c(F)c(F)c(-c2c3nc(c(-c4c(F)c(F)c(F)c(F)c4F)c4ccc([nH]4)c(-c4c(F)c(F)c(F)c(F)c4F)c4nc(c(-c5c(F)c(F)c(F)c(F)c5F)c5ccc2[nH]5)C=C4)C=C3)c(F)c1F,Fc1c(F)c(F)c(-c2c3nc(c(-c4c(F)c(F)c(F)c(F)c4F)c4ccc([nH]4)c(-c4c(F)c(F)c(F)c(F)c4F)c4nc(c(-c5c(F)c(F)c(F)c(F)c5F)c5ccc2[nH]5)C=C4)C=C3)c(F)c1F,VJEVAXUMNMFKDT,M1299,False
+2-benzyloxy-1-methylenecyclopropane,C=C1CC1OCc1ccccc1,C=C1CC1OCc1ccccc1,ZTWIINZSCLSPPE,M1300,False
+"4-methyl-1,3-pentadiene",C=CC=C(C)C,C=CC=C(C)C,CJSBUWDGPXGFGA,M1301,False
+"3,3,4,4,5,5,5-heptafluoropentene-1",C=CC(F)(F)C(F)(F)C(F)(F)F,C=CC(F)(F)C(F)(F)C(F)(F)F,LQAPOTKKMIZDGP,M1302,False
+L-valine N-carboxyanhydride,CC(C)C1NC(=O)OC1=O,CC(C)C1NC(=O)OC1=O,XNCNNYXFGGTEMT,M1303,False
+3-glycidyloxypropyltrimethoxysilane,CO[Si](CCCOCC1CO1)(OC)OC,CO[Si](CCCOCC1CO1)(OC)OC,BPSIOYPQMFLKFR,M1304,False
+N-[3-(dimethylamino)propyl]acrylamide,C=CC(=O)NCCCN(C)C,C=CC(=O)NCCCN(C)C,ADTJPOBHAXXXFS,M1305,False
+tert-butylacrylamide,C=C(C(N)=O)C(C)(C)C,C=C(C(N)=O)C(C)(C)C,ZAWQXWZJKKICSZ,M1306,False
+Trimethylvinylgermane,CC(C)=C(C)[GeH3],CC(C)=[C](C)[GeH3],NDCQABIYEGWQMB,M1307,False
+diallyl phenylphosphonate,C=CCOP(=O)(OCC=C)c1ccccc1,C=CCOP(=O)(OCC=C)c1ccccc1,YSRMRWIQPVDQBV,M1308,False
+diallyl butylphosphonate,C=CCOP(=O)(CCCC)OCC=C,C=CCOP(=O)(CCCC)OCC=C,PMOZSIBTRVMCRW,M1309,False
+diethyl allylphosphonate,C=CCP(=O)(OCC)OCC,C=CCP(=O)(OCC)OCC,YPJHXRAHMUKXAE,M1310,False
+"4-chloromethyl-1,3-dioxolane",ClCC1COCO1,ClCC1COCO1,IUDNGVFSUHFMCF,M1311,False
+N-(3-methoxyphenyl) itaconimide,C=C1CC(=O)N(c2cccc(OC)c2)C1=O,C=C1CC(=O)N(c2cccc(OC)c2)C1=O,LJXIHHIXPXYPGL,M1312,False
+N-(4-methoxyphenyl) itaconimide,C=C1CC(=O)N(c2ccc(OC)cc2)C1=O,C=C1CC(=O)N(c2ccc(OC)cc2)C1=O,WBDXCBZSLZXLCT,M1313,False
+"1,4-bis(4-fluorobenzoyl) benzene",O=C(c1ccc(F)cc1)c1ccc(C(=O)c2ccc(F)cc2)cc1,O=C(c1ccc(F)cc1)c1ccc(C(=O)c2ccc(F)cc2)cc1,LLJNTLUXOZPFQB,M1314,False
+2-(N-ethylperfluorooctanesulfonamido)ethyl methacrylate,C=C(C)C(=O)OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,C=C(C)C(=O)OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,DBCGADAHIXJHCE,M1315,False
+ethyl glycidyl ether,CCOCC1CO1,CCOCC1CO1,HQCSZRIVJVOYSU,M1316,False
+"2-phenyl-1,3-dioxolane",c1ccc(C2OCCO2)cc1,c1ccc(C2OCCO2)cc1,LYINTWKRUWVLBA,M1317,False
+"1,6-Anhydro-2,3,4-tri-O-benzyl-beta-D-glucopyranose",c1ccc(CO[C@@H]2[C@@H](OCc3ccccc3)[C@@H]3OC[C@@H](O3)[C@H]2OCc2ccccc2)cc1,c1ccc(CO[C@@H]2[C@@H](OCc3ccccc3)[C@@H]3OC[C@@H](O3)[C@H]2OCc2ccccc2)cc1,JSRSLTCFTYHIRT,M1318,False
+N-(2-ethylhexyl)maleimide,CCCCC(CC)CN1C(=O)C=CC1=O,CCCCC(CC)CN1C(=O)C=CC1=O,VGRQUXWNVDAFES,M1319,False
+N-ethylmaleimide,CCN1C(=O)C=CC1=O,CCN1C(=O)C=CC1=O,HDFGOPSGAURCEO,M1320,False
+alpha-chloromaleic anhydride,O=C1C=C(Cl)C(=O)O1,O=C1C=C(Cl)C(=O)O1,CXJAFLQWMOMYOW,M1321,False
+ethylenimine,C1CN1,C1CN1,NOWKCMXCCJGMRR,M1322,False
+2-aminobenzoic acid,Nc1ccccc1C(=O)O,Nc1ccccc1C(=O)O,RWZYAGGXGHYGMB,M1323,False
+3-aminobenzenesulfonic acid,Nc1cccc(S(=O)(=O)O)c1,Nc1cccc(S(=O)(=O)O)c1,ZAJAQTYSTDTMCU,M1324,False
+2-aminobenzenesulfonic acid,Nc1ccccc1S(=O)(=O)O,Nc1ccccc1S(=O)(=O)O,ZMCHBSMFKQYNKA,M1325,False
+3-aminobenzoic acid,Nc1cccc(C(=O)O)c1,Nc1cccc(C(=O)O)c1,XFDUHJPVQKIXHO,M1326,False
+Glycine,NCC(=O)O,NCC(=O)O,DHMQDGOQFOQNFH,M1327,False
+L-Valine,CC(C)[C@H](N)C(=O)O,CC(C)[C@H](N)C(=O)O,KZSNJWFQEVHDMF,M1328,False
+L-Alanine,C[C@H](N)C(=O)O,C[C@H](N)C(=O)O,QNAYBMKLOCPYGJ,M1329,False
+triphenyltin acrylate,C=CC(=O)[O-].c1ccc([Sn+](c2ccccc2)c2ccccc2)cc1,C=CC(=O)[O-].c1cc[c]([Sn+]([c]2ccccc2)[c]2ccccc2)cc1,ZBOZYQUPHVWBCE,M1330,False
+triphenyltin itaconate,C=C(CC(=O)[O-])C(=O)[O-].c1ccc([Sn+2](c2ccccc2)c2ccccc2)cc1,C=C(CC(=O)[O-])C(=O)[O-].c1cc[c]([Sn+2]([c]2ccccc2)[c]2ccccc2)cc1,BXDKERISIBHTTF,M1331,False
+"2,2′-azobis[N-(2-propenyl)-2-methylpropionamide]",C=CCNC(=O)C(C)(C)N=NC(C)(C)C(=O)NCC=C,C=CCNC(=O)C(C)(C)N=NC(C)(C)C(=O)NCC=C,LYPGJGCIPQYQBW,M1332,False
+Naphthalene,c1ccc2ccccc2c1,c1ccc2ccccc2c1,UFWIBTONFRDIAS,M1333,False
+Sodium acrylate,C=CC(=O)[O-].[Na+],C=CC(=O)[O-].[Na+],NNMHYFLPFNGQFZ,M1334,False
+"2,2,2-trichloroethyl methacrylate",C=C(C)C(=O)OCC(Cl)(Cl)Cl,C=C(C)C(=O)OCC(Cl)(Cl)Cl,IUGNCEABJSRDPG,M1335,False
+p-ethyl styrene,C=Cc1ccc(CC)cc1,C=Cc1ccc(CC)cc1,WHFHDVDXYKOSKI,M1336,False
+1-nonene,C=CCCCCCCC,C=CCCCCCCC,JRZJOMJEPLMPRA,M1337,False
+"1,2,4-trivinylbenzene",C=Cc1ccc(C=C)c(C=C)c1,C=Cc1ccc(C=C)c(C=C)c1,DQFAIOJURQGXBT,M1338,False
+ethyl diazoacetate,CCOC(=O)C=[N+]=[N-],CCOC(=O)C=[N+]=[N-],YVPJCJLMRRTDMQ,M1339,False
+butylglycidylether,CCCCOCC1CO1,CCCCOCC1CO1,YSUQLAYJZDEMOT,M1340,False
+glycidyl vinyl sulfonate,C=CS(=O)(=O)OCC1CO1,C=CS(=O)(=O)OCC1CO1,YCNNCJXFNCVEOL,M1341,False
+5-methylindole,Cc1ccc2[nH]ccc2c1,Cc1ccc2[nH]ccc2c1,YPKBCLZFIYBSHK,M1342,False
+"1,3-pentadiene",C=CC=CC,C=CC=CC,PMJHHCWVYXUKFD,M1343,False
+m-styrenesulfonyl fluoride,C=Cc1cccc(S(=O)(=O)F)c1,C=Cc1cccc(S(=O)(=O)F)c1,WROLBSGNHIYBAL,M1344,False
+p-styrenesulfonyl fluoride,C=Cc1ccc(S(=O)(=O)F)cc1,C=Cc1ccc(S(=O)(=O)F)cc1,AANYPNZHPGEIOT,M1345,False
+ethylenesulfonic acid,C=CS(=O)(=O)O,C=CS(=O)(=O)O,NLVXSWCKKBEXTG,M1346,False
+diethyl itaconate,C=C(CC(=O)OCC)C(=O)OCC,C=C(CC(=O)OCC)C(=O)OCC,ZEFVHSWKYCYFFL,M1347,False
+N-carboxybenzoxy-L-lysine,NCCCC[C@@H](C(=O)O)N(OCc1ccccc1)C(=O)O,NCCCC[C@@H](C(=O)O)N(OCc1ccccc1)C(=O)O,IEPDCXKXFHJJAL,M1348,False
+1-decene,C=CCCCCCCCC,C=CCCCCCCCC,AFFLGGQVNFXPEV,M1349,False
+"2,2,2-trifluoroethyl acrylate",C=CC(=O)OCC(F)(F)F,C=CC(=O)OCC(F)(F)F,VBHXIMACZBQHPX,M1350,False
+2-acetoacetoxyethyl methacrylate,C=C(C)C(=O)OCCOC(=O)CC(C)=O,C=C(C)C(=O)OCCOC(=O)CC(C)=O,IBDVWXAVKPRHCU,M1351,False
+1-hexadecene,C=CCCCCCCCCCCCCCC,C=CCCCCCCCCCCCCCC,GQEZCXVZFLOKMC,M1352,False
+N-vinylformamide,C=CNC=O,C=CNC=O,ZQXSMRAEXCEDJD,M1353,False
+nitrogen,[NH2],[NH2],MDFFNEOEWAXZRQ,M1354,False
+water,O,O,XLYOFNOQVPJJNP,M1355,False
+p-vinyltrifluoroacetophenone,C=Cc1ccc(C(=O)C(F)(F)F)cc1,C=Cc1ccc(C(=O)C(F)(F)F)cc1,PPGKDDNDPPHDAJ,M1356,False
+"3,3,3-trifluoropropene",C=CC(F)(F)F,C=CC(F)(F)F,FDMFUZHCIRHGRG,M1357,False
+N-(4-carbomethoxyphenyl)maleimide,COC(=O)c1ccc(N2C(=O)C=CC2=O)cc1,COC(=O)c1ccc(N2C(=O)C=CC2=O)cc1,MCQKOFWQPCQEBG,M1358,False
+methyltetrahydrophthalic anhydride,CC12C=CCCC1C(=O)OC2=O,CC12C=CCCC1C(=O)OC2=O,CSHJJWDAZSZQBT,M1359,False
+"5-methylnorbornene 2,3-dicarboxylic anhydride",CC1CC2CC1C1=C2C(=O)OC1=O,CC1CC2CC1C1=C2C(=O)OC1=O,SPSWFHKQOFOGHM,M1360,False
+diallyl succinate,C=CCOC(=O)CCC(=O)OCC=C,C=CCOC(=O)CCC(=O)OCC=C,HABAXTXIECRCKH,M1361,False
+para-tert-butoxystyrene,C=Cc1ccc(OC(C)(C)C)cc1,C=Cc1ccc(OC(C)(C)C)cc1,GRFNSWBVXHLTCI,M1362,False
+"1,3-dioxepan-2-one",O=C1OCCCCO1,O=C1OCCCCO1,VKSWWACDZPRJAP,M1363,False
+alpha-trifluoromethylstyrene,C=C(c1ccccc1)C(F)(F)F,C=C(c1ccccc1)C(F)(F)F,RQXPGOCXZHCXDG,M1364,False
+2-sulfolene,O=S1(=O)C=CCC1,O=S1(=O)C=CCC1,DYGJDTCGUUMUBL,M1365,False
+1-hexyne,C#CCCCC,C#CCCCC,CGHIBGNXEGJPQZ,M1366,False
+ethoxy ethyl glycidyl ether,CCOC(C)OCC1CO1,CCOC(C)OCC1CO1,LKOYNWCKHRXSKP,M1367,False
+chitin,CC(=O)NC1[C@H](COC[C@@H]2C(CO)O[C@@H](COC[C@@H]3C(CO)O[C@@H](O)C(NC(C)=O)[C@@H]3O)C(NC(C)=O)[C@@H]2O)OC(CO)[C@@H](O)[C@H]1O,CC(=O)NC1[C@H](COC[C@@H]2C(CO)O[C@@H](COC[C@@H]3C(CO)O[C@@H](O)C(NC(C)=O)[C@@H]3O)C(NC(C)=O)[C@@H]2O)OC(CO)[C@@H](O)[C@H]1O,DJHJJVWPFGHIPH,M1368,False
+cellulose,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,GUBGYTABKSRVRQ,M1369,False
+1-tetradecene,C=CCCCCCCCCCCCC,C=CCCCCCCCCCCCC,HFDVRLIODXPAHB,M1370,False
+"3,5-bis(ethylenoxy-4-aminophenoxy)phenyl carbonyl azide",[N-]=[N+]=NCCOc1cc(N)ccc1Oc1cc(Oc2ccc(N)cc2OCCN=[N+]=[N-])cc(C(=O)N=[N+]=[N-])c1,[N-]=[N+]=NCCOc1cc(N)ccc1Oc1cc(Oc2ccc(N)cc2OCCN=[N+]=[N-])cc(C(=O)N=[N+]=[N-])c1,UCMKEMUDYRJZAM,M1371,False
+"4-bromo-1,1,2-trifluorobut-1-ene",FC(F)=C(F)CCBr,FC(F)=C(F)CCBr,GQCQMFYIFUDARF,M1372,False
+Isobornyl methacrylate,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,IAXXETNIOYFMLW,M1373,False
+p-chloranil,O=C1C(Cl)=C(Cl)C(=O)C(Cl)=C1Cl,O=C1C(Cl)=C(Cl)C(=O)C(Cl)=C1Cl,UGNWTBMOAKPKBL,M1374,False
+"ethyl 5-methyl-2-oxo-1,3-dioxane-5-carboxylate",CCOC(=O)C1(C)COC(=O)OC1,CCOC(=O)C1(C)COC(=O)OC1,JCQFIMPZAUENFB,M1375,False
+Trimethylvinylstannane,CC(C)=C(C)[SnH3],CC(C)=[C](C)[SnH3],SWLQMAUBZAIUEM,M1376,False
+Tributylvinylstannane,CCCCC([SnH3])=C(CCCC)CCCC,CCCC[C]([SnH3])=C(CCCC)CCCC,APKFPKLTEJAOJI,M1377,False
+2-methacryloyloxyethyl phosphorylcholine,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,ZSZRUEAFVQITHH,M1378,False
+sulfur dioxide,O=S=O,O=S=O,RAHZWNYVWXNFOC,M1379,False
+2-allyloxymethyl-2-ethyltrimethylene carbonate,C=CCOCC1(CC)COC(=O)OC1,C=CCOCC1(CC)COC(=O)OC1,LYKKWIORPWIXPO,M1380,False
+alpha-(methacryloyloxy)phenylacetic acid,C=C(C)C(=O)OC(C(=O)O)c1ccccc1,C=C(C)C(=O)OC(C(=O)O)c1ccccc1,KVZZKGDIDCGMJU,M1381,False
+4-(methacryloyloxy)phenylacetic acid,C=C(C)C(=O)Oc1ccc(CC(=O)O)cc1,C=C(C)C(=O)Oc1ccc(CC(=O)O)cc1,CGJVCYQPDOPKKZ,M1382,False
+4-(acryloyloxy)phenylacetic acid,C=CC(=O)Oc1ccc(CC(=O)O)cc1,C=CC(=O)Oc1ccc(CC(=O)O)cc1,LBACIWIEYZWCDH,M1383,False
+ethyl 4-(methacryloyloxy)phenylacetate,C=C(C)C(=O)Oc1ccc(CC(=O)OCC)cc1,C=C(C)C(=O)Oc1ccc(CC(=O)OCC)cc1,MKJWLYQYECXHQT,M1384,False
+ethyl 4-(acryloyloxy)phenylacetate,C=CC(=O)Oc1ccc(CC(=O)OCC)cc1,C=CC(=O)Oc1ccc(CC(=O)OCC)cc1,SDNULRQOGIEUNH,M1385,False
+1-eicosene,C=CCCCCCCCCCCCCCCCCCC,C=CCCCCCCCCCCCCCCCCCC,VAMFXQBUQXONLZ,M1386,False
+3-(4-aminophenoxy)benzoic acid,Nc1ccc(Oc2cccc(C(=O)O)c2)cc1,Nc1ccc(Oc2cccc(C(=O)O)c2)cc1,ZIKOFLSRJZCPKF,M1387,False
+p-vinylphenol,C=Cc1ccc(O)cc1,C=Cc1ccc(O)cc1,FUGYGGDSWSUORM,M1388,False
+Dichloroacetaldehyde,O=CC(Cl)Cl,O=CC(Cl)Cl,NWQWQKUXRJYXFH,M1389,False
+2-(tert-butyldimethylsilyloxy)ethyl vinyl ether,C=COCCO[Si](C)(C)C(C)(C)C,C=COCCO[Si](C)(C)C(C)(C)C,IBKMQWQOOSSNNT,M1390,False
+para-fluorostyrene,C=Cc1ccc(F)cc1,C=Cc1ccc(F)cc1,JWVTWJNGILGLAT,M1391,False
+N-methylol acrylamide,C=CC(=O)NCO,C=CC(=O)NCO,CNCOEDDPFOAUMB,M1392,False
+bis(4-vinylphenyl)methane,C=Cc1ccc(Cc2ccc(C=C)cc2)cc1,C=Cc1ccc(Cc2ccc(C=C)cc2)cc1,FWTVCFLAJJDTLG,M1393,False
+"1,2-bis(4-vinylphenyl)ethane",C=Cc1ccc(CCc2ccc(C=C)cc2)cc1,C=Cc1ccc(CCc2ccc(C=C)cc2)cc1,ZXLAFQNTMMFLSA,M1394,False
+"1,3-bis(4-vinylphenyl)propane",C=Cc1ccc(CCCc2ccc(C=C)cc2)cc1,C=Cc1ccc(CCCc2ccc(C=C)cc2)cc1,DJKDXFPHJDRXRU,M1395,False
+"1,4-bis(4-vinylphenyl)butane",C=Cc1ccc(CCCCc2ccc(C=C)cc2)cc1,C=Cc1ccc(CCCCc2ccc(C=C)cc2)cc1,UHRVUYXFQPXHIG,M1396,False
+bis(4-vinylphenyl) ether,C=Cc1ccc(Oc2ccc(C=C)cc2)cc1,C=Cc1ccc(Oc2ccc(C=C)cc2)cc1,NYINVZSHVMSTDP,M1397,False
+bis(4-vinylphenyl) sulfide,C=Cc1ccc(Sc2ccc(C=C)cc2)cc1,C=Cc1ccc(Sc2ccc(C=C)cc2)cc1,RPFOPSZCGONCJA,M1398,False
+N-methylpyrrole,Cn1cccc1,Cn1cccc1,OXHNLMTVIGZXSG,M1399,False
+N-p-tolylcitraconimide,CC1=CC(=O)N(c2ccc(C)cc2)C1=O,CC1=CC(=O)N(c2ccc(C)cc2)C1=O,WOKURXAXAPLSNE,M1400,False
+p-methacryloyloxybenzoic acid,C=C(C)C(=O)Oc1ccc(C(=O)O)cc1,C=C(C)C(=O)Oc1ccc(C(=O)O)cc1,DNCFPDURLPJGKX,M1401,False
+alpha-cyanovinyl acetate,C=C(C#N)OC(C)=O,C=C(C#N)OC(C)=O,LFSHREXVLSTLFB,M1402,False
+5-hexene-1-yl-acetate,C=CCCCCCC(=O)[O-],C=CCCCCCC(=O)[O-],OZYYQTRHHXLTKX,M1403,False
+"3,3-dimethyloxetane",CC1(C)COC1,CC1(C)COC1,RVGLUKRYMXEQAH,M1404,False
+"N-(1,1-dimethyl-3-oxybutyl)acrylamide",C=CC(=O)NC(C)(C)CC(C)=O,C=CC(=O)NC(C)(C)CC(C)=O,OMNKZBIFPJNNIO,M1405,False
+p-decyl styrene,C=Cc1ccc(CCCCCCCCCC)cc1,C=Cc1ccc(CCCCCCCCCC)cc1,DMADTXMQLFQQII,M1406,False
+"2,2,2-trichloroethyl alpha-fluoroacrylate",C=C(F)C(=O)OCC(Cl)(Cl)Cl,C=C(F)C(=O)OCC(Cl)(Cl)Cl,RLBUOZNCCZTWOK,M1407,False
+1-dodecene oxide,CCCCCCCCCCC1CO1,CCCCCCCCCCC1CO1,MPGABYXKKCLIRW,M1408,False
+methyl 10-undecenoate,C=CCCCCCCCCC(=O)OC,C=CCCCCCCCCC(=O)OC,KISVAASFGZJBCY,M1409,False
+vinyltrimethoxysilane,C=C[Si](OC)(OC)OC,C=C[Si](OC)(OC)OC,NKSJNEHGWDZZQF,M1410,False
+ethylene carbonate,O=C1OCCO1,O=C1OCCO1,KMTRUDSVKNLOMY,M1411,False
+alpha-terpineol,CC1=CCC(C(C)(C)O)CC1,CC1=CCC(C(C)(C)O)CC1,WUOACPNHFRMFPN,M1412,False
+12-dodecanelactam,O=C1CCCCCCCCCCCN1,O=C1CCCCCCCCCCCN1,JHWNWJKBPDFINM,M1413,False
+vinyl isobutyrate,C=COC(=O)C(C)C,C=COC(=O)C(C)C,WNMORWGTPVWAIB,M1414,False
+vinyl pivalate,C=COC(=O)C(C)(C)C,C=COC(=O)C(C)(C)C,YCUBDDIKWLELPD,M1415,False
+"5-(2-trifluoromethyl-1,1,1-trifluoro-2-hydroxypropyl)-2-norbornene",OC(CC1CC2C=CC1C2)(C(F)(F)F)C(F)(F)F,OC(CC1CC2C=CC1C2)(C(F)(F)F)C(F)(F)F,NIQLOLNJWXWZHX,M1416,False
+"2,5-dihydrofuran",C1=CCOC1,C1=CCOC1,ARGCQEVBJHPOGB,M1417,False
+Butyl-2-cyanoacrylate,C=C(C#N)C(=O)OCCCC,C=C(C#N)C(=O)OCCCC,JJJFUHOGVZWXNQ,M1418,False
+4-vinylcyclohexene oxide,C=CC1CCC2OC2C1,C=CC1CCC2OC2C1,SLJFKNONPLNAPF,M1419,False
+"N,N'-Diethyl-1,3-bis(acrylamido)propane",C=CC(=O)N(CC)CCCN(CC)C(=O)C=C,C=CC(=O)N(CC)CCCN(CC)C(=O)C=C,NCOOVOHQKQGDSY,M1420,False
+N-isopropenylglycidylurethan,C=C(C)N(CC1CO1)C(=O)OCC,C=C(C)N(CC1CO1)C(=O)OCC,NQWGCDYUFHTAMR,M1421,False
+L-Phenylalanine N-Carboxyanhydride,O=C1NC(Cc2ccccc2)C(=O)O1,O=C1NC(Cc2ccccc2)C(=O)O1,GQBIVYSGPXCELZ,M1422,False
+2-phenyl-2-oxazoline,c1ccc(C2=NCCO2)cc1,c1ccc(C2=NCCO2)cc1,ZXTHWIZHGLNEPG,M1423,False
+4-(4-hydroxyphenyl)-1(2H)-phthalazinone,O=c1[nH]nc(-c2ccc(O)cc2)c2ccccc12,O=c1[nH]nc(-c2ccc(O)cc2)c2ccccc12,LYLHOKOTRWUGIF,M1424,False
+"4,4'-dihydroxybenzophenone",O=C(c1ccc(O)cc1)c1ccc(O)cc1,O=C(c1ccc(O)cc1)c1ccc(O)cc1,RXNYJUSEXLAVNQ,M1425,False
+2-hydroxymethylnorbornene,OCC1=CC2CCC1C2,OCC1=CC2CCC1C2,ISSULDNLSBNADJ,M1426,False
+allyl ether,C=CCOCC=C,C=CCOCC=C,ATVJXMYDOSMEPO,M1427,False
+5-methylenenonadecane,C=C(CCCC)CCCCCCCCCCCCCC,C=C(CCCC)CCCCCCCCCCCCCC,WPBGHRPXRMVIII,M1428,False
+"1,4-Diphenyl-1,3-Butadiene",C(C=Cc1ccccc1)=Cc1ccccc1,C(C=Cc1ccccc1)=Cc1ccccc1,JFLKFZNIIQFQBS,M1429,False
+Vinylacetylene,C#CC=C,C#CC=C,WFYPICNXBKQZGB,M1430,False
+2-Ethyl-1-vinylacetylene,C=CC#CCC,C=CC#CCC,BYSRUWKGUGERFI,M1431,False
+Isopropenylacetylene,C#CC(=C)C,C#CC(=C)C,BOFLDKIFLIFLJA,M1432,False
+"Methyl penta-2,4-dienoate",C=CC=CC(=O)OC,C=CC=CC(=O)OC,LJDLNNZTQJVBNJ,M1433,False
+Monoethyl fumarate,CCOC(=O)C=CC(=O)O,CCOC(=O)C=CC(=O)O,XLYMOEINVGRTEX,M1434,False
+allylamine,C=CCN,C=CCN,VVJKKWFAADXIJK,M1435,False
+5-methylhex-1-ene,C=CCCC(C)C,C=CCCC(C)C,JIUFYGIESXPUPL,M1436,False
+N-tosyl-2-methyl aziridine,Cc1ccc(S(=O)(=O)N2CC2C)cc1,Cc1ccc(S(=O)(=O)N2CC2C)cc1,DRZLZRGBQZRSJI,M1437,False
+o-chloro benzoic acid,O=C(O)c1ccccc1Cl,O=C(O)c1ccccc1Cl,IKCLCGXPQILATA,M1438,False
+m-chloro benzoic acid,O=C(O)c1cccc(Cl)c1,O=C(O)c1cccc(Cl)c1,LULAYUGMBFYYEX,M1439,False
+p-chloro benzoic acid,O=C(O)c1ccc(Cl)cc1,O=C(O)c1ccc(Cl)cc1,XRHGYUZYPHTUJZ,M1440,False
+N-acryloyl morpholine,C=CC(=O)N1CCOCC1,C=CC(=O)N1CCOCC1,XLPJNCYCZORXHG,M1441,False
+2-ethoxyethyl acrylate,C=CC(=O)OCCOCC,C=CC(=O)OCCOCC,FWWXYLGCHHIKNY,M1442,False
+vinyltriethoxysilane,C=C[Si](OCC)(OCC)OCC,C=C[Si](OCC)(OCC)OCC,FWDBOZPQNFPOLF,M1443,False
+vinyltriacetoxysilane,C=C[Si](OC(C)=O)(OC(C)=O)OC(C)=O,C=C[Si](OC(C)=O)(OC(C)=O)OC(C)=O,NOZAQBYNLKNDRT,M1444,False
+p-tolyl vinyl ether,C=COc1ccc(C)cc1,C=COc1ccc(C)cc1,YXHRYLHTQVXZIK,M1445,False
+"2,3-dihydropyran",C1=COCCC1,C1=COCCC1,BUDQDWGNQVEFAC,M1446,False
+p-methoxyphenylacetylene,C#Cc1ccc(OC)cc1,C#Cc1ccc(OC)cc1,KBIAVTUACPKPFJ,M1447,False
+5-norbornene-2-carboxylic acid methyl ester,COC(=O)C1CC2C=CC1C2,COC(=O)C1CC2C=CC1C2,RMAZRAQKPTXZNL,M1448,False
+phenyl isocyanate,O=C=Nc1ccccc1,O=C=Nc1ccccc1,DGTNSSLYPYDJGL,M1449,False
+alpha-ethylacrylonitrile,C=C(C#N)CC,C=C(C#N)CC,TVONJMOVBKMLOM,M1450,False
+alpha-n-propylacrylonitrile,C=C(C#N)CCC,C=C(C#N)CCC,YSGPDJCRZNUFBU,M1451,False
+"1,5-bis(1-naphthoxy)pentane",c1ccc2c(OCCCCCOc3cccc4ccccc34)cccc2c1,c1ccc2c(OCCCCCOc3cccc4ccccc34)cccc2c1,NDDPNGDIWQWSMK,M1452,False
+Phthaloylchitosan,NC1C(O)OC(CO)C(OC2OC(CO)C(OC3OC(CO)(C(=O)c4ccccc4C(=O)C4(CO)OC(OC5C(CO)OC(OC6C(CO)OC(O)C(N)C6O)C(N)C5O)C(N)C(O)C4O)C(O)C(O)C3N)C(O)C2N)C1O,NC1C(O)OC(CO)C(OC2OC(CO)C(OC3OC(CO)(C(=O)c4ccccc4C(=O)C4(CO)OC(OC5C(CO)OC(OC6C(CO)OC(O)C(N)C6O)C(N)C5O)C(N)C(O)C4O)C(O)C(O)C3N)C(O)C2N)C1O,MRJWWXUYNGERBY,M1453,False
+2-vinyloxyethyl phenylcarbamate,C=COCCOC(=O)Nc1ccccc1,C=COCCOC(=O)Nc1ccccc1,SPLIEOXAFBKCHQ,M1454,False
+2-(2-vinyloxyethoxy)ethyl acrylate,C=COCCOCCOC(=O)C=C,C=COCCOCCOC(=O)C=C,URQQDYIVGXOEDA,M1455,False
+2-(2-vinyloxyethoxy)ethyl methacrylate,C=COCCOCCOC(=O)C(=C)C,C=COCCOCCOC(=O)C(=C)C,MGMSZKIPUNOMCS,M1456,False
+sodium allyl sulfonate,C=CCS(=O)(=O)[O-].[Na+],C=CCS(=O)(=O)[O-].[Na+],DIKJULDDNQFCJG,M1457,False
+citronellol,CC(C)=CCCC(C)CCO,CC(C)=CCCC(C)CCO,QMVPMAAFGQKVCJ,M1458,False
+"cis,trans-muconic acid",O=C(O)C=CC=CC(=O)O,O=C(O)C=CC=CC(=O)O,TXXHDPDFNKHHGW,M1459,False
+"N,N'-diallylurea",C=CCNC(=O)NCC=C,C=CCNC(=O)NCC=C,QRWVOJLTHSRPOA,M1460,False
+beta-propiolactone,O=C1CCO1,O=C1CCO1,VEZXCJBBBCKRPI,M1461,False
+Methyl ethylene phosphate,COP1(=O)OCCO1,COP1(=O)OCCO1,LDMIKSKELVYBIZ,M1462,False
+octadecyl diphenylacetylene,CCCCCCCCCCCCCCCCCCc1ccccc1C#Cc1ccccc1,CCCCCCCCCCCCCCCCCCc1ccccc1C#Cc1ccccc1,QHJNJADKEJKQAZ,M1463,False
+"2,3,3-trifluoroprop-2-en-1-ol",OCC(F)=C(F)F,OCC(F)=C(F)F,PRBCSYHVGZDFRJ,M1464,False
+1-octadecene,C=CCCCCCCCCCCCCCCCC,C=CCCCCCCCCCCCCCCCC,CCCMONHAUSKTEQ,M1465,False
+"4-bromo-3,3,4,4-tetrafluorobut-1-ene",C=CC(F)(F)C(F)(F)Br,C=CC(F)(F)C(F)(F)Br,GVCWGFZDSIWLMO,M1466,False
+"3-[5-(dichloroacetylamino)-4-(4-nitrophenyl)-1,3-dioxan-2-yl]phenyl methacrylate",C=C(C)C(=O)Oc1cccc(C2OCC(NC(=O)C(Cl)Cl)C(c3ccc([N+](=O)[O-])cc3)O2)c1,C=C(C)C(=O)Oc1cccc(C2OCC(NC(=O)C(Cl)Cl)C(c3ccc([N+](=O)[O-])cc3)O2)c1,XRKDXXDIUXXGAQ,M1467,False
+2-dichloroacetylamino-3-hydroxy-3-(4-nitrophenyl)propyl methacrylate,C=C(C)C(=O)OCC(NC(=O)C(Cl)Cl)C(O)c1ccc([N+](=O)[O-])cc1,C=C(C)C(=O)OCC(NC(=O)C(Cl)Cl)C(O)c1ccc([N+](=O)[O-])cc1,KZPPCBFWYBHKGB,M1468,False
+polyethylene glycol,OCCO,OCCO,LYCAIKOWRPUZTN,M1469,False
+beta-bromostyrene,BrC=Cc1ccccc1,BrC=Cc1ccccc1,YMOONIIMQBGTDU,M1470,False
+ammonium acrylate,C=CC(=O)[O-].[NH4+],C=CC(=O)[O-].[NH4+],WPKYZIPODULRBM,M1471,False
+sodium methallylsulfonate,C=C(C)CS(=O)(=O)[O-].[Na+],C=C(C)CS(=O)(=O)[O-].[Na+],SZHIIIPPJJXYRY,M1472,False
+3-Ethyl-3-(hydroxymethyl)oxetane,CCC1(CO)COC1,CCC1(CO)COC1,UNMJLQGKEDTEKJ,M1473,False
+"4-Vinylbenzyl N,N-diethyldithiocarbamate",C=Cc1ccc(CSC(=S)N(CC)CC)cc1,C=Cc1ccc(CSC(=S)N(CC)CC)cc1,YMQKPVAQCHGDGY,M1474,False
+allylcyclopentane,C=CCC1CCCC1,C=CCC1CCCC1,NHIDGVQVYHCGEK,M1475,False
+octamethylcyclotetrasiloxane,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,HMMGMWAXVFQUOA,M1476,False
+diallylphenylphosphine oxide,C=CCP(=O)(CC=C)c1ccccc1,C=CCP(=O)(CC=C)c1ccccc1,WMQMSLPSTVVZIE,M1477,False
+"1-bromo-2,2-difluoroethylene",FC(F)=CBr,FC(F)=CBr,QZGNGBWAMYFUST,M1478,False
+4-methyl-epsilon-Caprolactone,CC1CCOC(=O)CC1,CC1CCOC(=O)CC1,VNXMFQWTDCWMDQ,M1479,False
+"3-isopropenyl-alpha,alpha-dimethylbenzylamine",C=C(C)c1cccc(C(C)(C)N)c1,C=C(C)c1cccc(C(C)(C)N)c1,DWDJGSQWSMJSGV,M1480,False
+potassium p-vinylbenzenesulfonate,C=Cc1ccc(S(=O)(=O)[O-])cc1.[K+],C=Cc1ccc(S(=O)(=O)[O-])cc1.[K+],HWDDJFFLFNQAFQ,M1481,False
+7-oxabicyclo[2.2.1]heptane,C1CC2CCC1O2,C1CC2CCC1O2,YPWFNLSXQIGJCK,M1482,False
+Diphenyl-p-styrylphosphine sulfide,C=Cc1ccc(P(=S)(c2ccccc2)c2ccccc2)cc1,C=Cc1ccc(P(=S)(c2ccccc2)c2ccccc2)cc1,LRBKEECEOQQFQB,M1483,False
+Diphenyl-p-styrylphosphine oxide,C=Cc1ccc(P(=O)(c2ccccc2)c2ccccc2)cc1,C=Cc1ccc(P(=O)(c2ccccc2)c2ccccc2)cc1,SJWKDSPENQGMEB,M1484,False
+ BN 2-vinylnaphthalene,C=CB1C=CC2=CC=CC=C2N1,C=CB1C=Cc2ccccc2N1,MPQWXIDXOPIZRR,M1485,False
+ ethyl-𝛼-hydroxy methacrylate,C=C(C)C(OCCO)=O,C=C(C)C(=O)OCCO,WOBHKFSMXKNTIM,M1486,False
+(2-{[2-(Ethoxycarbonyl)prop-2-en-1-yl]oxy}ethyl) phosphonic acid ,C=C(C(OCC)=O)COCCP(O)(O)=O,C=C(COCCP(=O)(O)O)C(=O)OCC,XNRWLWYNGROTLU,M1487,False
+1-benzyl-4-vinyl-triazole,C=CC1=CN(CC2=CC=CC=C2)N=N1,C=Cc1cn(Cc2ccccc2)nn1,ZDJLVYZGEJHMJD,M1488,False
+1-benzyl-5-vinyl-tri-azole,C=CC1=CN=NN1CC2=CC=CC=C2,C=Cc1cnnn1Cc1ccccc1,IKUCPGRRTAVPDN,M1489,False
+1-methyl-4-vinyl-triazole,C=CC1=CN(C)N=N1,C=Cc1cn(C)nn1,IBQZWWOXGSTKGP,M1490,False
+1-octyl-4-vinyl-tri-azole,C=CC1=CN(CCCCCCCC)N=N1,C=Cc1cn(CCCCCCCC)nn1,WEWDYRRRYMTVJC,M1491,False
+1-octyl-5-vinyl-triazole,C=CC1=CN=NN1CCCCCCCC,C=Cc1cnnn1CCCCCCCC,NTSLQTDNDDSHTO,M1492,False
+2-ethoxyethyl methacrylate,CC(C(OCCOCC)=O)=C,C=C(C)C(=O)OCCOCC,SFPNZPQIIAJXGL,M1493,False
+2-ethylhexyl acrylate,C=CC(OCC(CC)CCCC)=O,C=CC(=O)OCC(CC)CCCC,GOXQRTZXKQZDDN,M1494,False
+2-vinyl pyridine,C=CC1=NC=CC=C1,C=Cc1ccccn1,KGIGUEBEKRSTEW,M1495,False
+"2-Vinyl-4,4’-dimethylazlactone",C=CC1=NC(C)(C)C(O1)=O,C=CC1=NC(C)(C)C(=O)O1,QKPKBBFSFQAMIY,M1496,False
+3-trifluoromethyl styrene,C=CC1=CC=CC(C(F)(F)F)=C1,C=Cc1cccc(C(F)(F)F)c1,ARHOUOIHKWELMD,M1497,False
+acetoacetoxyethyl methacrylate,CC(C(OCCOC(CC(C)=O)=O)=O)=C,C=C(C)C(=O)OCCOC(=O)CC(C)=O,IBDVWXAVKPRHCU,M1498,False
+acrylic acid,C=CC(O)=O,C=CC(=O)O,NIXOWILDQLNWCW,M1499,False
+behenyl acrylate,C=CC(OCCCCCCCCCCCCCCCCCCCCCC)=O,C=CC(=O)OCCCCCCCCCCCCCCCCCCCCCC,KHAYCTOSKLIHEP,M1500,False
+benzyl acrylate,C=CC(OCC1=CC=CC=C1)=O,C=CC(=O)OCc1ccccc1,GCTPMLUUWLLESL,M1501,False
+benzyl methacrylate,CC(C(OCC1=CC=CC=C1)=O)=C,C=C(C)C(=O)OCc1ccccc1,AOJOEFVRHOZDFN,M1502,False
+bis (trimethylsiloxy)  vinylmethyl-silane,C[Si](O[Si](C)(C)C)(O[Si](C)(C)C)C=C,C=C[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C,MTNTUAHMWISEEF,M1503,False
+chlorotrifluoroethylene,F/C(F)=C(Cl)\F,FC(F)=C(F)Cl,UUAGAQFQZIEFAH,M1504,False
+decyl acrylate,C=CC(OCCCCCCCCCC)=O,C=CC(=O)OCCCCCCCCCC,FWLDHHJLVGRRHD,M1505,False
+dibutyl fumarate,O=C(OCCCC)/C=C/C(OCCCC)=O,CCCCOC(=O)/C=C/C(=O)OCCCC,JBSLOWBPDRZSMB,M1506,False
+dibutyl maleate,O=C(OCCCC)/C=C\C(OCCCC)=O,CCCCOC(=O)/C=C\C(=O)OCCCC,JBSLOWBPDRZSMB,M1507,False
+dimethylaminoethylmethacrylate (DMAEMA),CC(C(OCCN(C)C)=O)=C,C=C(C)C(=O)OCCN(C)C,JKNCOURZONDCGV,M1508,False
+dodecyl acrylate,nan,,,M1509,True
+dodecyl methacrylate,CC(C(OCCCCCCCCCCCC)=O)=C,C=C(C)C(=O)OCCCCCCCCCCCC,GMSCBRSQMRDRCD,M1510,False
+ethoxyethyl acrylate,C=CC(OCCOCC)=O,C=CC(=O)OCCOCC,FWWXYLGCHHIKNY,M1511,False
+ethyl acrylate,C=CC(OCC)=O,C=CC(=O)OCC,JIGUQPWFLRLWPJ,M1512,False
+ethyl methacrylate,CC(C(OCC)=O)=C,C=C(C)C(=O)OCC,SUPCQIBBMFXVTL,M1513,False
+Ethyl-2-[[2-(dimethoxyphosphoryl)ethoxy] methyl]prop-2-en-ethyl methacrylate,CCOC(C(COCCP(OC)(OC)=O)=C)=O,C=C(COCCP(=O)(OC)OC)C(=O)OCC,NPBDGZFUCODIQR,M1514,False
+glycidyl methacrylate,CC(C(OCC1CO1)=O)=C,C=C(C)C(=O)OCC1CO1,VOZRXNHHFUQHIL,M1515,False
+Hexafluoropropylene,F/C(F)=C(F)\C(F)(F)F,FC(F)=C(F)C(F)(F)F,HCDGVLDPFQMKDK,M1516,False
+hydroxyethyl acrylate,C=CC(OCCO)=O,C=CC(=O)OCCO,OMIGHNLMNHATMP,M1517,False
+hydroxyethyl allyl ether,C=CCOCCO,C=CCOCCO,GCYHRYNSUGLLMA,M1518,False
+hydroxyethyl methacrylate,CC(C(OCCO)=O)=C,C=C(C)C(=O)OCCO,WOBHKFSMXKNTIM,M1519,False
+iso-butyl methacrylate,CC(C(OCC(C)C)=O)=C,C=C(C)C(=O)OCC(C)C,RUMACXVDVNRZJZ,M1520,False
+Isopropenyl boronic acid pinacol ester,C=C(B(O1)OC(C)(C)C1(C)C)C,C=C(C)B1OC(C)(C)C(C)(C)O1,SVSUYEJKNSMKKW,M1521,False
+m-chlorostyrene,C=CC1=CC=CC(Cl)=C1,C=Cc1cccc(Cl)c1,BOVQCIDBZXNFEJ,M1522,False
+m-methyl styrene,C=CC1=CC=CC(C)=C1,C=Cc1cccc(C)c1,JZHGRUMIRATHIU,M1523,False
+maleic anhydride,O=C(O1)C=CC1=O,O=C1C=CC(=O)O1,FPYJFEHAWHCUMM,M1524,False
+methyl acrylate,C=CC(OC)=O,C=CC(=O)OC,BAPJBEWLBFYGME,M1525,False
+methyl methacrylate,CC(C(OC)=O)=C,C=C(C)C(=O)OC,VVQNEPGJFQJSBK,M1526,False
+methyl vinyl ketone,O=C(C)C=C,C=CC(C)=O,FUSUHKVFWTUUBE,M1527,False
+N-butyl acrylate,C=CC(OCCCC)=O,C=CC(=O)OCCCC,CQEYYJKEWSMYFG,M1528,False
+N-butyl methacrylate,CC(C(OCCCC)=O)=C,C=C(C)C(=O)OCCCC,SOGAXMICEFXMKE,M1529,False
+N-vinyl acetamide,CC(NC=C)=O,C=CNC(C)=O,RQAKESSLMFZVMC,M1530,False
+N-vinyl caprolactam,O=C1CCCCCN1C=C,C=CN1CCCCCC1=O,JWYVGKFDLWWQJX,M1531,False
+N-vinyl carbazole,C=CN1C2=C(C3=C1C=CC=C3)C=CC=C2,C=Cn1c2ccccc2c2ccccc21,KKFHAJHLJHVUDM,M1532,False
+N-vinyl formamide,O=CNC=C,C=CNC=O,ZQXSMRAEXCEDJD,M1533,False
+N-vinyl imidazole,C=CN1C=NC=C1,C=Cn1ccnc1,OSSNTDFYBPYIEC,M1534,False
+N-Vinyl oxazolidone,O=C1OCCN1C=C,C=CN1CCOC1=O,VUEZBQJWLDBIDE,M1535,False
+N-vinyl phthalimide,O=C(N1C=C)C2=CC=CC=C2C1=O,C=CN1C(=O)c2ccccc2C1=O,IGDLZDCWMRPMGL,M1536,False
+N-vinyl pyrrolidone,C=CN1C(CCC1)=O,C=CN1CCCC1=O,WHNWPMSKXPGLAX,M1537,False
+"N,N-dimethylacrylamide",C=CC(N(C)C)=O,C=CC(=O)N(C)C,YLGYACDQVQQZSW,M1538,False
+norbornene,C12C=CC(C2)CC1,C1=CC2CCC1C2,JFNLZVQOOSMTJK,M1539,False
+octadecyl acrylate,C=CC(OCCCCCCCCCCCCCCCCCC)=O,C=CC(=O)OCCCCCCCCCCCCCCCCCC,FSAJWMJJORKPKS,M1540,False
+octadecyl methacrylate,CC(C(OCCCCCCCCCCCCCCCCCC)=O)=C,C=C(C)C(=O)OCCCCCCCCCCCCCCCCCC,HMZGPNHSPWNGEP,M1541,False
+octyl acrylate,C=CC(OCCCCCCCC)=O,C=CC(=O)OCCCCCCCC,ANISOHQJBAQUQP,M1542,False
+p-chloro styrene,C=CC1=CC=C(Cl)C=C1,C=Cc1ccc(Cl)cc1,KTZVZZJJVJQZHV,M1543,False
+p-CN styrene,C=CC1=CC=C(C#N)C=C1,C=Cc1ccc(C#N)cc1,SNTUCKQYWGHZPK,M1544,False
+p-methoxy styrene,C=CC1=CC=C(OC)C=C1,C=Cc1ccc(OC)cc1,UAJRSHJHFRVGMG,M1545,False
+p-methyl styrene,C=CC1=CC=C(C)C=C1,C=Cc1ccc(C)cc1,JLBJTVDPSNHSKJ,M1546,False
+p-N(CH3)2 styrene,C=CC1=CC=C(N(C)C)C=C1,C=Cc1ccc(N(C)C)cc1,GQWAOUOHRMHSHL,M1547,False
+p-nitro styrene,C=CC1=CC=C([N+]([O-])=O)C=C1,C=Cc1ccc([N+](=O)[O-])cc1,YFZHODLXYNDBSM,M1548,False
+propyl acrylate,C=CC(OCCC)=O,C=CC(=O)OCCC,PNXMTCDJUBJHQJ,M1549,False
+tert-butyl acrylate,C=CC(OC(C)(C)C)=O,C=CC(=O)OC(C)(C)C,ISXSCDLOGDJUNJ,M1550,False
+trimethylsiloxyvinyldimethylsilane,C[Si](C=C)(O[Si](C)(C)C)C,C=C[Si](C)(C)O[Si](C)(C)C,MRRXLWNSVYPSRB,M1551,False
+tris (trimethylsiloxy) vinylsilane,C=C[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C,C=C[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C,CHEFFAKKAFRMHG,M1552,False
+vinyl acetate,CC(OC=C)=O,C=COC(C)=O,XTXRWKRVRITETP,M1553,False
+vinyl benzoate,O=C(OC=C)C1=CC=CC=C1,C=COC(=O)c1ccccc1,KOZCZZVUFDCZGG,M1554,False
+vinyl butyrate,CCCC(OC=C)=O,C=COC(=O)CCC,MEGHWIAOTJPCHQ,M1555,False
+vinyl formate,O=COC=C,C=COC=O,GFJVXXWOPWLRNU,M1556,False
+vinyl phenylacetate,O=C(OC=C)CC1=CC=CC=C1,C=COC(=O)Cc1ccccc1,IDZLRASFVAGODW,M1557,False
+vinyl propionate,CCC(OC=C)=O,C=COC(=O)CC,UIWXSTHGICQLQT,M1558,False
+𝛼 methyl styrene,C=C(C)C1=CC=CC=C1,C=C(C)c1ccccc1,XYLMUPLGERFSHI,M1559,False
+"Carbazole, N-vinyl-",C=Cn1c2ccccc2c3ccccc13,C=Cn1c2ccccc2c2ccccc21,KKFHAJHLJHVUDM,M1560,False
+"Acrylic acid, cis-3-ethyl-",CC\C=C/C(O)=O,CC/C=C\C(=O)O,YIYBQIKDCADOSF,M1561,False
+"Dioxolane, 1,3,4-methylene-2-trichloro-",C=C1COC(O1)C(Cl)(Cl)Cl,C=C1COC(C(Cl)(Cl)Cl)O1,DNYTXTXOQMZXOZ,M1562,False
+"Methacrylate, 3-methoxy-",COC=C(C)C([O-])=O,COC=C(C)C(=O)[O-],JQEBZBUGQPSANC,M1563,False
+"Methacrylate, N-(2-hydroxyethyl)-carbazolyl",CC(=C)C(=O)Oc1cccc2c3ccccc3n(CCO)c12,C=C(C)C(=O)Oc1cccc2c3ccccc3n(CCO)c12,FNCGKFBSIPQSJX,M1564,False
+Methacrylate methyl,CC(=C)C(=O)OC,C=C(C)C(=O)OC,VVQNEPGJFQJSBK,M1565,False
+"Acrylate, α-methoxy-, methyl",COC(=C)C(=O)OC,C=C(OC)C(=O)OC,BTTXESIFAHCXMK,M1566,False
+"Acrylonitrile, α-methoxy-",COC(=C)C#N,C=C(C#N)OC,PEIBTJDECFEPAF,M1567,False
+Norbornadiene,C1CC2=CC=C1C2,C1=C2CCC(=C1)C2,UFLCUWLPQBPVQL,M1568,False
+Ethylene tetrachloro-,C(=C(Cl)Cl)(Cl)Cl,ClC(Cl)=C(Cl)Cl,CYTYCFOTNPOANT,M1569,False
+"Styrene, α-methoxy-",COC(=C)c1ccccc1,C=C(OC)c1ccccc1,SIZDIMDMQQFWLM,M1570,False
+"Vinyl, 2-bromo-, ethyl ether",CCOC=CBr,CCOC=CBr,BCFCTTHZFYZOHT,M1571,False
+"Methacrylate, isopropyl",CC(C)OC(=O)C(C)=C,C=C(C)C(=O)OC(C)C,BOQSSGDQNWEFSX,M1572,False
+"Phosphonic acid, a-phenylvinyl-",C=C(C1=CC=CC=C1)P(=O)(O)O,C=C(c1ccccc1)P(=O)(O)O,GSSDUXHQPXODCN,M1573,False
+"Acrylamide, N-tert-butyl-",CC(C)(C)NC(=O)C=C,C=CC(=O)NC(C)(C)C,XFHJDMUEHUHAJW,M1574,False
+"Acrylate, α-phenyl-, methyl",COC(=O)C(=C)c1ccccc1,C=C(C(=O)OC)c1ccccc1,GQTXKEVAUZYHGE,M1575,False
+"Butadiene, 1-(diethylamino)-",CCN(CC)C=CC=C,C=CC=CN(CC)CC,HUNXXGIRNGEBFU,M1576,False
+"Butene-1, 4-(p-chlorophenyl)-",C=CCCC1=CC=C(C=C1)Cl,C=CCCc1ccc(Cl)cc1,KUJQWMSGSABUFJ,M1577,False
+"Butene-1, 4-(p-methoxy-phenyl)-",CC(=O)C=CC1=CC=C(C=C1)OC,COc1ccc(C=CC(C)=O)cc1,WRRZKDVBPZBNJN,M1578,False
+"Cinnamonitrile, a-cyano-",C1=CC=C(C=C1)C=CC#N,N#CC=Cc1ccccc1,ZWKNLRXFUTWSOY,M1579,False
+"Pentadienoate, trans-4-ethoxy-2,4-, ethyl",CCOC(=C)\C=C\C(=O)OCC,C=C(/C=C/C(=O)OCC)OCC,YYEIGWAOKUFYDE,M1580,False
+"Pentene-1, 5-cyclohexyl-",C=CCCCC1CCCCC1,C=CCCCC1CCCCC1,CYCUXCSZQIHKAU,M1581,False
+"Phosphate, diethyl isopropenyl",CCO[P](=O)(OCC)OC(C)=C,C=C(C)OP(=O)(OCC)OCC,PSIRYXWQEOZQRA,M1582,False
+"Phosphine oxide, diphenylvinyl-",O=[PH2]C=C(c1ccccc1)c2ccccc2,O=[PH2]C=C(c1ccccc1)c1ccccc1,RSKAVJXBWILKMK,M1583,False
+"Phthalide, 3-(4-vinylphenoxy)-",C=Cc1ccc(OC2OC(=O)c3ccccc23)cc1,C=Cc1ccc(OC2OC(=O)c3ccccc32)cc1,QQZSWYVSDHHCEW,M1584,False
+"Styrene, p-N,N-dimethyl-aminomethyl-",CN(C)CC1=CC=C(C=C1)C=C,C=Cc1ccc(CN(C)C)cc1,XQBHAZDVLGNSOJ,M1585,False
+"Styrene, p-chloromethyl",C=CC1=CC=C(C=C1)CCl,C=Cc1ccc(CCl)cc1,ZRZHXNCATOYMJH,M1586,False
+"Styrene, /7-chloro-",C=CC1=CC=C(C=C1)Cl,C=Cc1ccc(Cl)cc1,KTZVZZJJVJQZHV,M1587,False
+"Maleimide, N-(4-methoxy-phenyl)-",COc1ccc(cc1)N2C(=O)C=CC2=O,COc1ccc(N2C(=O)C=CC2=O)cc1,XAHCEMQKWSQGLQ,M1588,False
+"Maleimide, N-chloromethyl-",ClCN1C(=O)C=CC1=O,O=C1C=CC(=O)N1CCl,SMQIAQVRHOQLKW,M1589,False
+"Phosphonate, vinyl-, diphenyl",C=C[P](=O)(Oc1ccccc1)Oc2ccccc2,C=CP(=O)(Oc1ccccc1)Oc1ccccc1,VLHORJVZAKSXHV,M1590,False
+"Phosphonate, vinyl-, bis(2-chloroethyl)",ClCCO[P](=O)(OCCCl)C=C,C=CP(=O)(OCCCl)OCCCl,LHHMNJZNWUJFOC,M1591,False
+Vinyl diphenylphosphinate,C=CO[P](=O)(c1ccccc1)c2ccccc2,C=COP(=O)(c1ccccc1)c1ccccc1,MAHKDSCJWSXJPF,M1592,False
+"Styrene, tert-butoxy",CC(=C)C1=CC=C(C=C1)OC(C)(C)C,C=C(C)c1ccc(OC(C)(C)C)cc1,LQDGDDQWVWZDCS,M1593,False
+"Styrene, p-trimethyoxysilyl-",CO[Si](C1=CC=C(C=C1)C=C)(OC)OC,C=Cc1ccc([Si](OC)(OC)OC)cc1,LTQBNYCMVZQRSD,M1594,False
+Vinyl 1-menthyl ether,CC(C)C1CCC(C)(CC1)OC=C,C=COC1(C)CCC(C(C)C)CC1,WRUMORYYDBPISA,M1595,False
+Vinyl 2-chlorocyclohexyl ketone,ClC1CCCCC1C(=O)C=C,C=CC(=O)C1CCCCC1Cl,PYMOQEYNJKYIRA,M1596,False
+Vinyl 4-chlorocyclohexyl ketone,ClC1CCC(CC1)C(=O)C=C,C=CC(=O)C1CCC(Cl)CC1,VQNBPHMZPMBSKV,M1597,False
+"Itaconate, bis(2-ethylhexyl)",CCCCC(CC)COC(=O)CC(=C)C(=O)OCC(CC)CCCC,C=C(CC(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC,CGNRQCGWXXLTIA,M1598,False
+"Acrylamido, 2-,2-methylpropanesulfonic",CC(C)(CS(=O)(=O)O)NC(=O)C=C,C=CC(=O)NC(C)(C)CS(=O)(=O)O,XHZPRMZZQOIPDS,M1599,False
+"Methacrylate, dodecyl",CCCCCCCCCCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCCCCCCCCCC,GMSCBRSQMRDRCD,M1600,False
+"Methacrylate, 2,4,6-trinitrophenyl",CC(=C)C(=O)Oc1c(cc(cc1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O,C=C(C)C(=O)Oc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],NTTDIPMCMLNIDH,M1601,False
+"Methacryloyl-p-hydroxyethyl-3,5-dinitrobenzoate",CC(=C)C(=O)OC(=O)c1cc(c(CCO)c(c1)[N+]([O-])=O)[N+]([O-])=O,C=C(C)C(=O)OC(=O)c1cc([N+](=O)[O-])c(CCO)c([N+](=O)[O-])c1,LRTUZRMBBAYQHJ,M1602,False
+Styrene chloromethyl-,C=CC1=CC=CC(=C1)CCl,C=Cc1cccc(CCl)c1,HMDQPBSDHHTRNI,M1603,False
+"3-Pyridazone, 2-vinyl",CC(C)C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)C=C)OC3=CC=C(C=C3)OC,C=Cc1cnn(-c2ccc(C(C)C)cc2)c(=O)c1Oc1ccc(OC)cc1,NIFLUUBQJCFNNC,M1604,False
+"Acrylamido, 1-deoxy-D-glucitol",OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNC(=O)C=C,C=CC(=O)NC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,VOXLHYBRLWBDHW,M1605,False
+"Acrylate, m-nitrophenyl",[O-][N+](=O)c1cccc(OC(=O)C=C)c1,C=CC(=O)Oc1cccc([N+](=O)[O-])c1,NQBVYAKGJFMFOL,M1606,False
+"Acrylate, methylphenyl",Cc1ccccc1OC(=O)C=C,C=CC(=O)Oc1ccccc1C,GCIHZDWTJCGMDK,M1607,False
+"Benzocyclobutene, 4-vinyl-",C=Cc1cccc2CCc12,C=Cc1cccc2c1CC2,ZETZHGKAZZCCRL,M1608,False
+"Carbamate, N-vinyl-t-butyl-",CC(C)(C)N(C=C)C([O-])=O,C=CN(C(=O)[O-])C(C)(C)C,ZRFQAEAQYZWGSN,M1609,False
+"Citraconimide, N-benzyl-",CC1=CC(=O)N(Cc2ccccc2)C1=O,CC1=CC(=O)N(Cc2ccccc2)C1=O,KOQFJKQRPZRORH,M1610,False
+"Citraconimide, N-butyl-",CCCCN1C(=O)C=C(C)C1=O,CCCCN1C(=O)C=C(C)C1=O,SBJYPVQJCWJSRK,M1611,False
+"Citraconimide, N-ethyl-",CCN1C(=O)C=C(C)C1=O,CCN1C(=O)C=C(C)C1=O,NKHIHGVHWGKXMQ,M1612,False
+"Citraconimide, N-hexyl-",CCCCCCN1C(=O)C=C(C)C1=O,CCCCCCN1C(=O)C=C(C)C1=O,BSWKCFGAEMACAN,M1613,False
+"Citraconimide, N-isobutyl-",CC(C)CN1C(=O)C=C(C)C1=O,CC1=CC(=O)N(CC(C)C)C1=O,JRZCAEFRXXFWLI,M1614,False
+"Citraconimide, N-isopropyl-",CC(C)N1C(=O)C=C(C)C1=O,CC1=CC(=O)N(C(C)C)C1=O,CFQLUSSNTFQXIU,M1615,False
+"Ditiane, 2-methylene-1,3-",C=C1SCCCS1,C=C1SCCCS1,KMGDTZJDQRIOMR,M1616,False
+"Maleimide, 2,3-dimethyl-N-(2-methacryloyloxyethyl)-",CC(=C)C(=O)OCCN1C(=O)C(=C(C)C1=O)C,C=C(C)C(=O)OCCN1C(=O)C(C)=C(C)C1=O,MTFZCGPANOZASK,M1617,False
+"Maleimide, N-(3-trifluoromethylphenyl)-",FC(F)(F)c1cccc(c1)N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1cccc(C(F)(F)F)c1,DQGGHYHHYCKIMR,M1618,False
+"Maleimide, N-benzyl",C1=CC=C(C=C1)CN2C(=O)C=CC2=O,O=C1C=CC(=O)N1Cc1ccccc1,MKRBAPNEJMFMHU,M1619,False
+"Maleimide, N-cyclohexyl",C1CCC(CC1)N2C(=O)C=CC2=O,O=C1C=CC(=O)N1C1CCCCC1,BQTPKSBXMONSJI,M1620,False
+"Methacrylate, α,α-dimethylbenzyl",CC(=C)C(=O)OC(C)(C)c1ccccc1,C=C(C)C(=O)OC(C)(C)c1ccccc1,PPXAHQRRLKQYTG,M1621,False
+"Methacrylate, 2-phenylethyl",CC(=C)C(=O)OCCc1ccccc1,C=C(C)C(=O)OCCc1ccccc1,ILZXXGLGJZQLTR,M1622,False
+"Methacrylate, benzylmethylaminoethyl",CC(=C)C(=O)OCCNCCc1ccccc1,C=C(C)C(=O)OCCNCCc1ccccc1,JHDMAMYNFUMNKB,M1623,False
+"Methacrylate, p-acetylphenyl",CC(=C)C(=O)Oc1ccc(cc1)C(C)=O,C=C(C)C(=O)Oc1ccc(C(C)=O)cc1,JXNVHEOTDUDTMM,M1624,False
+"Phosphonate, isopropenyl-, dimethyl",CO[P](=O)(OC)C(C)=C,C=C(C)P(=O)(OC)OC,IGUSXLGNCKJGFD,M1625,False
+"p-chloro- Methacrylate, methyl",COC(=O)C(=C)Cl,C=C(Cl)C(=O)OC,AWJZTPWDQYFQPQ,M1626,False
+"methyl Styrene, /7-chloro-",CC(=C)C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O,C=C(C)c1ccccc1CCC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,LLGQICNFACCGPR,M1627,False
+"/?-cyano- Methacrylate, methyl",CC(=C)C(=O)OCCC#N,C=C(C)C(=O)OCCC#N,VKNASXZDGZNEDA,M1628,False
+methyl Triallyl cyanurate,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,C=CCOC(=O)c1ccccc1C(=O)OCC=C,QUDWYFHPNIMBFC,M1629,False
+methyl 4-vinyl,CC1=CC(=NC=C1)C2=NC=CC(=C2)C=C,C=Cc1ccnc(-c2cc(C)ccn2)c1,IWZAEAAZXRSXPX,M1630,False
+"Vinylacetophenone, p-",CC(=O)c1ccc(C=C)cc1,C=Cc1ccc(C(C)=O)cc1,HDXVSRDSYNPSAE,M1631,False
+"Phosphonate, vinyl-, diethyl",CCO[P](=O)(OCC)C=C,C=CP(=O)(OCC)OCC,DREPONDJUKIQLX,M1632,False
+"""Styrene, o-chloro-""",C=CC1=CC=CC=C1Cl,C=Cc1ccccc1Cl,ISRGONDNXBCDBM,M1633,False
+"Acrylic acid, α-bromo-",OC(=O)C(Br)=C,C=C(Br)C(=O)O,HMENQNSSJFLQOP,M1634,False
+"Cinnamate, α-cyano-, methyl",COC(=O)C(=Cc1ccccc1)C#N,COC(=O)C(C#N)=Cc1ccccc1,XLNFLJOWTRDNCX,M1635,False
+Vinyl ethylene glycol glycidyl ether,OCC(OCC1CO1)C=C,C=CC(CO)OCC1CO1,AHXZDKFSYLCESU,M1636,False
+"Acrylate, 2,3-dibromopropyl",BrCC(Br)COC(=O)C=C,C=CC(=O)OCC(Br)CBr,MUKJDVAYJDKPAG,M1637,False
+"Acrylate, 2,4,6-tribromophenyl",Brc1cc(Br)c(OC(=O)C=C)c(Br)c1,C=CC(=O)Oc1c(Br)cc(Br)cc1Br,CNLVUQQHXLTOTC,M1638,False
+"Acrylate, α-hexafluoropropyloxymethyl-, methyl",COC(=O)C(=C)COC(F)(F)C(F)C(F)(F)F,C=C(COC(F)(F)C(F)C(F)(F)F)C(=O)OC,AGEZNNRGICGSPO,M1639,False
+"Acrylate, α-hydroxymethyl-, ethyl",CCOC(=O)C(=C)CO,C=C(CO)C(=O)OCC,SYGAXBISYRORDR,M1640,False
+"Acrylate, α-isobutyl-, methyl",COC(=O)C(=C)CC(C)C,C=C(CC(C)C)C(=O)OC,FVAWMVZVWUHHOB,M1641,False
+"Acrylate, α-isopropyl-, methyl",COC(=O)C(=C)C(C)C,C=C(C(=O)OC)C(C)C,IJMWNARRWGXIEF,M1642,False
+"Acrylate, α-isopropyloxymethyl-, methyl",COC(=O)C(=C)COC(C)C,C=C(COC(C)C)C(=O)OC,AUSGESVXHJQSRC,M1643,False
+"Acrylate, α-phenoxymethyl-, methyl",COC(=O)C(=C)COc1ccccc1,C=C(COc1ccccc1)C(=O)OC,SGYBJYIMQDLPTD,M1644,False
+"Acrylate, α-phenyl-, chloroethyl",ClCCOC(=O)C(=C)c1ccccc1,C=C(C(=O)OCCCl)c1ccccc1,XGWXNANDRFPEFL,M1645,False
+"Acrylate, α-phenyl-, propyl",CCCOC(=O)C(=C)c1ccccc1,C=C(C(=O)OCCC)c1ccccc1,CYYVWDXBOPIUEG,M1646,False
+"Acrylate, α-phenyl-, butyl",CCCCOC(=O)C(=C)c1ccccc1,C=C(C(=O)OCCCC)c1ccccc1,NAASWVKVOODJJB,M1647,False
+"Acrylate, α-propyl-, methyl",CCCC(=C)C(=O)OC,C=C(CCC)C(=O)OC,QLXPVMDADJJSOC,M1648,False
+"Acrylate, α-propyloxymethyl-, methyl",CCCOCC(=C)C(=O)OC,C=C(COCCC)C(=O)OC,OVZWLGCWEYISAY,M1649,False
+"Acrylate, α-sec-butyl-, methyl",CCC(C)C(=C)C(=O)OC,C=C(C(=O)OC)C(C)CC,KUZGPOJHTGUYAO,M1650,False
+"Acrylate, α-tetrafluoropropyloxymethyl-, methyl",COC(=O)C(=C)COC(F)CC(F)(F)F,C=C(COC(F)CC(F)(F)F)C(=O)OC,KKPDHLNEXNPHMM,M1651,False
+"Acrylate, α-trifluoroethyloxymethyl-, methyl",COC(=O)C(=C)COCC(F)(F)F,C=C(COCC(F)(F)F)C(=O)OC,WLHDKRSDTOXSKV,M1652,False
+"Acrylate, α-trimethylsiloxy-, methyl",COC(=O)C(=C)O[Si](C)(C)C,C=C(O[Si](C)(C)C)C(=O)OC,UOYRPHSNHSFLHV,M1653,False
+"Acrylate, cis-β-cyano-, methyl",COC(=O)\C=C/C#N,COC(=O)/C=C\C#N,AJXIQWIGXITQSV,M1654,False
+"Acrylate, isopropyl",CC(C)OC(=O)C=C,C=CC(=O)OC(C)C,LYBIZMNPXTXVMV,M1655,False
+"Carbazole, N-methyl-3-vinyl-",Cn1c2ccccc2c3cc(C=C)ccc13,C=Cc1ccc2c(c1)c1ccccc1n2C,YNTFCIUHPYUCDD,M1656,False
+"Cinnamate, 2-chloroethyl",ClCCOC(=O)C=Cc1ccccc1,O=C(C=Cc1ccccc1)OCCCl,GHJSRAZVKRJERL,M1657,False
+"Cinnamate, α-cyano-, 2-ethylhexyl",CCCCC(CC)COC(=O)C(=Cc1ccccc1)C#N,CCCCC(CC)COC(=O)C(C#N)=Cc1ccccc1,USERUWOLIUCHJH,M1658,False
+"Cinnamate, α-cyano-, benzyl",O=C(OCc1ccccc1)C(=Cc2ccccc2)C#N,N#CC(=Cc1ccccc1)C(=O)OCc1ccccc1,OUSQHUXIGMSJNV,M1659,False
+"Cinnamate, α-cyano-, butyl",CCCCOC(=O)C(=Cc1ccccc1)C#N,CCCCOC(=O)C(C#N)=Cc1ccccc1,VOZAWLCINYWPAI,M1660,False
+"Cinnamate, α-cyano-, cyclohexyl",O=C(OC1CCCCC1)C(=Cc2ccccc2)C#N,N#CC(=Cc1ccccc1)C(=O)OC1CCCCC1,TWQLJXGSUOWDKJ,M1661,False
+"Cinnamate, α-cyano-, hexyl",CCCCCCOC(=O)C(=Cc1ccccc1)C#N,CCCCCCOC(=O)C(C#N)=Cc1ccccc1,ZEFYSDVBUAAATG,M1662,False
+"Cinnamate, benzyl",O=C(OCc1ccccc1)C=Cc2ccccc2,O=C(C=Cc1ccccc1)OCc1ccccc1,NGHOLYJTSCBCGC,M1663,False
+"Crotonate, α-acetyl-, methyl",COC(=O)C(=C/C)/C(C)=O,C/C=C(\C(C)=O)C(=O)OC,APFYEWRWAZDBLH,M1664,False
+"Crotonate, α-bromo-, ethyl",CCOC(=O)C(/Br)=C/C,C/C=C(\Br)C(=O)OCC,YHGVZVYRHWZVKI,M1665,False
+"Ethylene, 1-diphenyl-",C=C(C1=CC=CC=C1)C2=CC=CC=C2,C=C(c1ccccc1)c1ccccc1,ZMYIIHDQURVDRB,M1666,False
+"Fumarate, di-(2-methoxyethyl)",COCCOC(=O)/C=C/C(=O)OCCOC,COCCOC(=O)/C=C/C(=O)OCCOC,INJVHPRSHKTTBD,M1667,False
+"Fumarate, isopropyl ethyl",CCOC(=O)/C=C/C(=O)OC(C)C,CCOC(=O)/C=C/C(=O)OC(C)C,ROFBPKZKLDNKGW,M1668,False
+"Hexene-1,5-dicarboxylate, dimethyl",COC(=O)C=CCCC(C)C(=O)OC,COC(=O)C=CCCC(C)C(=O)OC,VRILCXOEGOFAQL,M1669,False
+"Itaconimide, N-tolyl-",Cc1ccccc1N2C(=O)CC(=C)C2=O,C=C1CC(=O)N(c2ccccc2C)C1=O,HBDFAHAXECNTLI,M1670,False
+"Maleamic acid,",C(=CC(=O)O)C(=O)N,NC(=O)C=CC(=O)O,FSQQTNAZHBEJLS,M1671,False
+"Maleic anhydride, α-chloro-",ClC1=CC(=O)OC1=O,O=C1C=C(Cl)C(=O)O1,CXJAFLQWMOMYOW,M1672,False
+"Maleimide, N-(4-carboxyethylphenyl)- α-chloro-",OC(=O)CCc1ccc(cc1)N2C(=O)C=C(Cl)C2=O,O=C(O)CCc1ccc(N2C(=O)C=C(Cl)C2=O)cc1,FNKNBSYRFRQOOJ,M1673,False
+"Maleimide, N-(4-chlorophenyl)- α-chloro-",Clc1ccc(cc1)N2C(=O)C=C(Cl)C2=O,O=C1C=C(Cl)C(=O)N1c1ccc(Cl)cc1,ZSWBDUWBJKHWAO,M1674,False
+"Maleimide, N-(4-methoxyphenyl)- α-chloro-",COc1ccc(cc1)N2C(=O)C=C(Cl)C2=O,COc1ccc(N2C(=O)C=C(Cl)C2=O)cc1,YRFMWFLNFRIJGP,M1675,False
+"Maleimide, N-(β-chloroethyl)-α-chloro-",ClCCN1C(=O)C=C(Cl)C1=O,O=C1C=C(Cl)C(=O)N1CCCl,OPTJWZHOXJHKRJ,M1676,False
+"Maleimide, N-[N'-(α-methylbenzyl)-aminocarbonylpentyl]-",CC(NC(=O)CCCCCN1C(=O)C=CC1=O)c2ccccc2,CC(NC(=O)CCCCCN1C(=O)C=CC1=O)c1ccccc1,KRMWSTUFODLBAG,M1677,False
+"Maleimide, N-allyl",C=CCN1C(=O)C=CC1=O,C=CCN1C(=O)C=CC1=O,PSFDAYXWBWRTSM,M1678,False
+"Methacrylate, 2-methoxyethyl",COCCOC(=O)C(C)=C,C=C(C)C(=O)OCCOC,YXYJVFYWCLAXHO,M1679,False
+"Methacrylate, 2-phenethyl",CCc1ccccc1OC(=O)C(C)=C,C=C(C)C(=O)Oc1ccccc1CC,SSGLEMWHDJHHNH,M1680,False
+"Methacrylate, bornyl",CC(=C)C(=O)OC1CC2CCC1(C)C2(C)C,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,IAXXETNIOYFMLW,M1681,False
+"Methacrylate, p-nitrophenyl",CC(=C)C(=O)Oc1ccc(cc1)[N+]([O-])=O,C=C(C)C(=O)Oc1ccc([N+](=O)[O-])cc1,NACSMDAZDYUKMU,M1682,False
+"Naphthalene, 1-vinyl-4-chloro-",Clc1ccc(C=C)c2ccccc12,C=Cc1ccc(Cl)c2ccccc12,NYUXIFDLNGQOLF,M1683,False
+"Naphthalene, 2-vinyl-6-chloro-",Clc1ccc2cc(C=C)ccc2c1,C=Cc1ccc2cc(Cl)ccc2c1,QAJSYNIVOSRFAQ,M1684,False
+"Oct-1-ene, 4,8-dioxaspiro(2,5)-",C1COC2(OC1)C=C2,C1=CC12OCCCO2,HIQNFQSASCLYLW,M1685,False
+"Pentadienonitrile, trans-4-ethoxy-2,4-",CCOC(=C)\C=C\C#N,C=C(/C=C/C#N)OCC,WAMTWPDHQIIEDU,M1686,False
+"Phosphate, vinyl bis(chloroethyl)",ClCCO[P](=O)(OCCCl)OC=C,C=COP(=O)(OCCCl)OCCCl,DDBUOIVTEXFTRT,M1687,False
+"Phosphonate, vinyl-, dibutyl",CCCCO[P](=O)(OCCCC)C=C,C=CP(=O)(OCCCC)OCCCC,WAHXDGYCAZAQPZ,M1688,False
+"Phosphonate, vinyl-, diisobutyl",CC(C)CO[P](=O)(OCC(C)C)C=C,C=CP(=O)(OCC(C)C)OCC(C)C,XUXXZCFRZHFEEN,M1689,False
+"Phosphonate, vinyl-, diisopropyl",CC(C)O[P](=O)(OC(C)C)C=C,C=CP(=O)(OC(C)C)OC(C)C,SIXWLMJAXPTYJY,M1690,False
+"Phosphonate, vinyl-, dimethyl",CO[P](=O)(OC)C=C,C=CP(=O)(OC)OC,CQCXMYUCNSJSKG,M1691,False
+"Phosphonate, vinyl-, dipropyl",CCCO[P](=O)(OCCC)C=C,C=CP(=O)(OCCC)OCCC,YFEWYGFTFNHSQF,M1692,False
+"Silane, y-methacryloxypropyl-",CC(=C)C(=O)OCCC[Si](OC)(OC)OC,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,XDLMVUHYZWKMMD,M1693,False
+"Styrene, 4-(1-butyldimethylsilyloxy)-",CC(C)(C)[Si](C)(C)OC1=CC=C(C=C1)C=C,C=Cc1ccc(O[Si](C)(C)C(C)(C)C)cc1,QVPBMCKCBQURHP,M1694,False
+"Styrene, p-bormo-",CC(=C)C1=CC=C(C=C1)Br,C=C(C)c1ccc(Br)cc1,OGVFUFNUTOTCIA,M1695,False
+"Styrene, p-ethoxy",CCOC1=CC=C(C=C1)C=C,C=Cc1ccc(OCC)cc1,OBRYRJYZWVLVLF,M1696,False
+"Styrene, p-formyl-",C=Cc1ccc(C=O)cc1,C=Cc1ccc(C=O)cc1,QBFNGLBSVFKILI,M1697,False
+"Styrene, p-trimethoxysilyl-",CO[Si](OC)(OC)c1ccc(C=C)cc1,C=Cc1ccc([Si](OC)(OC)OC)cc1,LTQBNYCMVZQRSD,M1698,False
+"Terpyridinyl, 4'-vinyl-2,2':6',2''-",C=Cc1cc(nc(c1)c2ccccn2)c3ccccn3,C=Cc1cc(-c2ccccn2)nc(-c2ccccn2)c1,YHHZTNLQLLFUQG,M1699,False
+"Urea, N-acryloyl-N'-benzoyl-",C=CC(=O)NC(=O)NC(=O)c1ccccc1,C=CC(=O)NC(=O)NC(=O)c1ccccc1,HXQZJPDUZXJWFP,M1700,False
+Vinyl dodecyl ether,CCCCCCCCCCCCOC=C,C=COCCCCCCCCCCCC,LAYAKLSFVAPMEL,M1701,False
+"Carbamate, N-vinyl-, tert-butyl",CC(C)(C)OC(=O)NC=C,C=CNC(=O)OC(C)(C)C,SJDWKAHMQWSMPV,M1702,False
+"Maleimide, N-(2-hydroxyphenyl)-",Oc1ccccc1N2C(=O)C=CC2=O,O=C1C=CC(=O)N1c1ccccc1O,CNDOSNMFHUSKGN,M1703,False
+Methacrylate acid,CC(=C)C(=O)O,C=C(C)C(=O)O,CERQOIWHTDAKMF,M1704,False
+Butene-2,C\C=C\C,C/C=C/C,IAQRGUVFOMOMEM,M1705,False
+"Methacrylate, β-(2-benzothiazolylthio)-ethyl",CC(=C)C(=O)OCCSc1sc2ccccc2n1,C=C(C)C(=O)OCCSc1nc2ccccc2s1,KMBDLKRNKWBVAK,M1706,False
+Octene-1,CCCCCCC=C,C=CCCCCCC,KWKAKUADMBZCLK,M1707,False
+"Pentene-1, 2-methyl-",CCCC(=C)C,C=C(C)CCC,WWUVJRULCWHUSA,M1708,False
+"Phosphate, vinyl diethyl",CCO[P](=O)(OCC)OC=C,C=COP(=O)(OCC)OCC,ULUJSLFWDQSXRS,M1709,False
+"Phosphate, vinyl diphenyl",C=CO[P](=O)(Oc1ccccc1)Oc2ccccc2,C=COP(=O)(Oc1ccccc1)Oc1ccccc1,RJYNTEFVOZNXEM,M1710,False
+Ethylene chlorotrifluoro-,C(=C(F)Cl)(F)F,FC(F)=C(F)Cl,UUAGAQFQZIEFAH,M1711,False
+Vinyl p-tert-butyl phenyl ether,CC(C)(C)C1=CC(=CC=C1)OC=C,C=COc1cccc(C(C)(C)C)c1,WLWMKTMCFOLDBY,M1712,False
+NEtMI,O=C(C=C1)N(CC)C1=O,CCN1C(=O)C=CC1=O,HDFGOPSGAURCEO,M1713,False
+GMA,C=C(C)C(OCC1OC1)=O,C=C(C)C(=O)OCC1CO1,VOZRXNHHFUQHIL,M1714,False
+HEMA-TMS,C=C(C)C(OCCO[Si](C)(C)C)=O,C=C(C)C(=O)OCCO[Si](C)(C)C,WUGOQZFPNUYUOO,M1715,False
+cis-Stilbene,c1ccc(cc1)\C=C/c2ccccc2,C(=C/c1ccccc1)/c1ccccc1,PJANXHGTPQOBST,M1716,False
+trans-Stilbene,c1ccc(cc1)\C=C\c2ccccc2,C(=C\c1ccccc1)/c1ccccc1,PJANXHGTPQOBST,M1717,False

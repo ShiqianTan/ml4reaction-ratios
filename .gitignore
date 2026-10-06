@@ -1,0 +1,15 @@
+# Third-party / fetched source data (large; re-acquire per README "Data sources")
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS
+.DS_Store

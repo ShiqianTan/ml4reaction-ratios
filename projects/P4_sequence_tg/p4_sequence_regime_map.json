@@ -1,0 +1,86 @@
+{
+  "analysis": "fixed-composition sequence leverage under Barton dyad additivity",
+  "n_samples": 31,
+  "n_systems": 5,
+  "equation": "(H_sequence - 2*xA*(1-xA)) * (Tg_AB - (Tg_AA+Tg_BB)/2)",
+  "composition_note": "reported incorporated polymer composition; RR feed inverted to match it for this diagnostic",
+  "limitations": [
+    "Tg_AB is system-level and not held out from the samples being summarized",
+    "RR values are system-level values aligned to the existing validation script, not uncertainty distributions",
+    "BMA-VCl has no RR input and therefore uses a Bernoulli fallback; its zero sequence shift is not evidence of no sequence effect",
+    "Fox residual includes composition-rule and chemistry effects, so it is not a pure sequence residual",
+    "computed shifts are sensitivities under Barton additivity, not independent predictions or causal estimates"
+  ],
+  "systems": [
+    {
+      "system": "AN-MMA",
+      "n_samples": 5,
+      "n_rows_with_nontrivial_sequence_basis": 5,
+      "Tg_AB_minus_homo_mean_K": -26.0,
+      "median_abs_heterodyad_shift": 0.14823801861549846,
+      "median_abs_Barton_sequence_shift_K": 3.85418848400296,
+      "range_Barton_sequence_shift_K": [
+        -5.114523278595498,
+        -0.9934276295281838
+      ],
+      "Fox_MAE_K": 13.600000000000023,
+      "interpretation": "diagnostic only; Tg_AB is not held out and RR are source-level estimates"
+    },
+    {
+      "system": "BMA-VCl",
+      "n_samples": 6,
+      "n_rows_with_nontrivial_sequence_basis": 0,
+      "Tg_AB_minus_homo_mean_K": -35.9,
+      "median_abs_heterodyad_shift": 0.0,
+      "median_abs_Barton_sequence_shift_K": 0.0,
+      "range_Barton_sequence_shift_K": [
+        -0.0,
+        -0.0
+      ],
+      "Fox_MAE_K": 11.13050774755059,
+      "interpretation": "diagnostic only; Tg_AB is not held out and RR are source-level estimates"
+    },
+    {
+      "system": "MMA-VCl",
+      "n_samples": 7,
+      "n_rows_with_nontrivial_sequence_basis": 7,
+      "Tg_AB_minus_homo_mean_K": -41.4,
+      "median_abs_heterodyad_shift": 0.05843633966520856,
+      "median_abs_Barton_sequence_shift_K": 2.419264462139634,
+      "range_Barton_sequence_shift_K": [
+        -3.5228960691073374,
+        -0.13283244557963825
+      ],
+      "Fox_MAE_K": 20.352665666819057,
+      "interpretation": "diagnostic only; Tg_AB is not held out and RR are source-level estimates"
+    },
+    {
+      "system": "S-AN",
+      "n_samples": 7,
+      "n_rows_with_nontrivial_sequence_basis": 7,
+      "Tg_AB_minus_homo_mean_K": 9.0,
+      "median_abs_heterodyad_shift": 0.26180408802986876,
+      "median_abs_Barton_sequence_shift_K": 2.356236792268819,
+      "range_Barton_sequence_shift_K": [
+        0.564276412376927,
+        4.5
+      ],
+      "Fox_MAE_K": 6.639695112465432,
+      "interpretation": "diagnostic only; Tg_AB is not held out and RR are source-level estimates"
+    },
+    {
+      "system": "aMS-AN",
+      "n_samples": 6,
+      "n_rows_with_nontrivial_sequence_basis": 6,
+      "Tg_AB_minus_homo_mean_K": -19.0,
+      "median_abs_heterodyad_shift": 0.3147401766698166,
+      "median_abs_Barton_sequence_shift_K": 5.980063356726515,
+      "range_Barton_sequence_shift_K": [
+        -9.501862,
+        -4.725777273087628
+      ],
+      "Fox_MAE_K": 24.996402299035395,
+      "interpretation": "diagnostic only; Tg_AB is not held out and RR are source-level estimates"
+    }
+  ]
+}

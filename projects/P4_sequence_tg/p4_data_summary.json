@@ -1,0 +1,18 @@
+{
+  "n_homopolymer": 11380,
+  "n_alt_copolymer_total": 6687,
+  "n_alt_matched_components": 34,
+  "unique_component_pairs": 34,
+  "unique_components": 43,
+  "Tg_range_homo_C": [
+    -123.0,
+    471.0
+  ],
+  "Tg_range_copol_C": [
+    -44.7,
+    274.0
+  ],
+  "fox_MAE_C_vs_experiment": 70.88,
+  "fox_RMSE_C": 87.78,
+  "residual_std_C": 66.79
+}

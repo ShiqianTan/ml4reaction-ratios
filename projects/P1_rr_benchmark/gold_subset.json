@@ -1,0 +1,56 @@
+{
+  "pairlevel_all_ln_r1": {
+    "n_pairs": 2632,
+    "R2": 0.367,
+    "MAE": 0.962
+  },
+  "pairlevel_all_ln_r2": {
+    "n_pairs": 2632,
+    "R2": 0.384,
+    "MAE": 0.999
+  },
+  "gold_nmin2": {
+    "n_pairs": 991,
+    "n_meas_median": 2,
+    "total_var": 2.275,
+    "within_var_per_pair": 1.36,
+    "R2_ceiling": 0.763,
+    "ln_r1_R2": 0.322,
+    "ln_r1_MAE": 0.905,
+    "ln_r2_R2": 0.326,
+    "ln_r2_MAE": 0.95
+  },
+  "gold_nmin3": {
+    "n_pairs": 470,
+    "n_meas_median": 4,
+    "total_var": 2.077,
+    "within_var_per_pair": 1.128,
+    "R2_ceiling": 0.871,
+    "ln_r1_R2": 0.28,
+    "ln_r1_MAE": 0.896,
+    "ln_r2_R2": 0.286,
+    "ln_r2_MAE": 0.918
+  },
+  "gold_nmin4": {
+    "n_pairs": 276,
+    "n_meas_median": 6,
+    "total_var": 1.979,
+    "within_var_per_pair": 1.079,
+    "R2_ceiling": 0.91,
+    "ln_r1_R2": 0.272,
+    "ln_r1_MAE": 0.85,
+    "ln_r2_R2": 0.267,
+    "ln_r2_MAE": 0.943
+  },
+  "gold_nmin5": {
+    "n_pairs": 193,
+    "n_meas_median": 7,
+    "total_var": 1.966,
+    "within_var_per_pair": 1.114,
+    "R2_ceiling": 0.925,
+    "ln_r1_R2": 0.329,
+    "ln_r1_MAE": 0.836,
+    "ln_r2_R2": 0.383,
+    "ln_r2_MAE": 0.847
+  }
+}

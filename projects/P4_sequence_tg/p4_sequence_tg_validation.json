@@ -1,0 +1,18 @@
+{
+  "partA": {
+    "n_systems": 6,
+    "dyad_MAE": 0.055,
+    "hetero_dyad_MAE": 0.043
+  },
+  "partB": {
+    "n_samples": 31,
+    "fox_MAE_K": 15.3,
+    "dyad_MAE_K": 7.8,
+    "fox_R2": 0.754,
+    "dyad_R2": 0.881
+  },
+  "partC": {
+    "alternating_lowers_Tg": 4,
+    "alternating_raises_Tg": 1
+  }
+}

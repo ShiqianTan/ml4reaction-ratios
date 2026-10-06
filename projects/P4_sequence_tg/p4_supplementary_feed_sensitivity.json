@@ -1,0 +1,163 @@
+{
+  "n_rows": 210,
+  "n_pairs": 40,
+  "cv": "leave-one-canonical-monomer-pair-out",
+  "bootstrap": "5000 paired cluster resamples of monomer-pair groups",
+  "composition_note": "observed incorporated composition remains a composition feature; inferred feed is used only for sequence descriptors",
+  "inferred_feed_summary": {
+    "min": 0.0,
+    "median": 0.4680108870539056,
+    "max": 1.0,
+    "median_abs_shift_from_polymer_mole_fraction": 0.08882402357300123
+  },
+  "metrics": [
+    {
+      "model": "Fox_weight",
+      "MAE_K": 9.277255354000081,
+      "RMSE_K": 12.369789715438468,
+      "R2": 0.9196665858577481
+    },
+    {
+      "model": "Ridge_comp",
+      "MAE_K": 9.58216138572661,
+      "RMSE_K": 13.383998694562258,
+      "R2": 0.9059533430521629
+    },
+    {
+      "model": "Ridge_comp_rr",
+      "MAE_K": 10.092967190839028,
+      "RMSE_K": 13.463244014119956,
+      "R2": 0.9048363643270728
+    },
+    {
+      "model": "Ridge_comp_seq_polymer_composition",
+      "MAE_K": 10.334105164106958,
+      "RMSE_K": 13.658467393660912,
+      "R2": 0.9020565197920251
+    },
+    {
+      "model": "Ridge_comp_seq_inferred_feed",
+      "MAE_K": 10.084859122146245,
+      "RMSE_K": 13.584749380104356,
+      "R2": 0.903110915431705
+    },
+    {
+      "model": "RF_comp",
+      "MAE_K": 9.9985383438792,
+      "RMSE_K": 13.628723021129481,
+      "R2": 0.9024826430359146
+    },
+    {
+      "model": "RF_comp_rr",
+      "MAE_K": 9.903272769978704,
+      "RMSE_K": 14.06764081417784,
+      "R2": 0.8961003383419603
+    },
+    {
+      "model": "RF_comp_seq_polymer_composition",
+      "MAE_K": 10.361904659078746,
+      "RMSE_K": 13.801918189100727,
+      "R2": 0.8999883738459435
+    },
+    {
+      "model": "RF_comp_seq_inferred_feed",
+      "MAE_K": 10.171811896763652,
+      "RMSE_K": 13.494793797442105,
+      "R2": 0.9043898285609214
+    }
+  ],
+  "pair_cluster_bootstrap": {
+    "Fox_weight": {
+      "MAE_K_CI95": [
+        7.06063149631079,
+        11.7814801207143
+      ]
+    },
+    "Ridge_comp": {
+      "MAE_K_CI95": [
+        6.955667431877954,
+        12.776535036414439
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -1.0787568426552396,
+        1.7587890035667924
+      ]
+    },
+    "Ridge_comp_rr": {
+      "MAE_K_CI95": [
+        7.648021796553903,
+        12.993698378568563
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -0.8497522303575735,
+        2.5158700213535483
+      ]
+    },
+    "Ridge_comp_seq_polymer_composition": {
+      "MAE_K_CI95": [
+        7.833997323588302,
+        13.329517073332116
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -0.24166853472249167,
+        2.383240935147893
+      ]
+    },
+    "Ridge_comp_seq_inferred_feed": {
+      "MAE_K_CI95": [
+        7.573789549524672,
+        13.223542875609311
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -0.50990149149783,
+        2.152970864034877
+      ]
+    },
+    "RF_comp": {
+      "MAE_K_CI95": [
+        7.559784582678897,
+        12.81177400424817
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -0.9687134506917134,
+        2.843625630384314
+      ]
+    },
+    "RF_comp_rr": {
+      "MAE_K_CI95": [
+        6.8613444912878965,
+        13.267050933886154
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -2.0523735679313626,
+        4.047507011910594
+      ]
+    },
+    "RF_comp_seq_polymer_composition": {
+      "MAE_K_CI95": [
+        7.827226845459365,
+        13.084402497285367
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -1.123011098975057,
+        3.813366646003769
+      ]
+    },
+    "RF_comp_seq_inferred_feed": {
+      "MAE_K_CI95": [
+        7.7905931005229,
+        12.764839297826343
+      ],
+      "MAE_minus_Fox_K_CI95": [
+        -0.9515775166925642,
+        3.065545426249443
+      ]
+    }
+  },
+  "limitations": [
+    "single inferred feed is an approximation for samples that may have composition drift",
+    "leave-one-pair-out can still share monomers between train and test pairs",
+    "the 40-pair dataset is dominated by near-random systems and has limited power for strongly nonrandom pairs",
+    "fixed model settings are inherited from the existing analysis rather than nested-hyperparameter tuned"
+  ]
+}

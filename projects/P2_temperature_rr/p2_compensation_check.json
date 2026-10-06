@@ -1,0 +1,21 @@
+{
+  "n_series": 178,
+  "observed": {
+    "slope_K": 325.6,
+    "r2": 0.986,
+    "pearson": 0.993
+  },
+  "centered_fit": {
+    "slope_K": -562.9,
+    "r2": 0.033,
+    "pearson": -0.18
+  },
+  "mean_1_over_T_K": 319.8,
+  "null_bootstrap": {
+    "n": 400,
+    "slope_K_median": 32.2,
+    "r2_median": 0.009,
+    "r2_p95": 0.06
+  },
+  "verdict": "ARTEFACT: uncentered r2=0.99 collapses to 0.03 after centering, and the compensation temperature (326 K) tracks the mean temperature (320 K)"
+}

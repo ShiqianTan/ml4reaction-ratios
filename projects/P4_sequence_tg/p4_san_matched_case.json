@@ -1,0 +1,36 @@
+{
+  "n_rows_transcribed": 6,
+  "n_rows_with_experimental_tg": 5,
+  "RR_predicted_heterodyad_MAE_all_rows": 0.08229494934089543,
+  "RR_predicted_heterodyad_MAE_experimental_Tg_rows": 0.07680888920152622,
+  "Tg_metrics": {
+    "Fox": {
+      "n": 5,
+      "MAE_C": 3.2217233693748026,
+      "RMSE_C": 3.766798764218867
+    },
+    "published_Barton_resubstitution": {
+      "n": 5,
+      "MAE_C": 0.34400000000000264,
+      "RMSE_C": 0.488753516611391
+    },
+    "measured_NMR_dyad_LOO": {
+      "n": 5,
+      "MAE_C": 0.7785480231504494,
+      "RMSE_C": 0.8984832043905812
+    },
+    "RR_derived_dyad_LOO": {
+      "n": 5,
+      "MAE_C": 1.0711280999563115,
+      "RMSE_C": 1.2639991477443233
+    }
+  },
+  "conditions": "Styrene/acrylonitrile in anionic oil-in-water microemulsion; 70 C; 5% SAN monomer, 14% SDS, 81% water; KPS 0.37 mM.",
+  "cautions": [
+    "only five rows have experimental Tg and all are from one monomer pair and one study",
+    "RR are source-reported system-level values; the held-out Tg is not held out from RR estimation",
+    "the locus-feed fraction is reconstructed from the reported M0S/M0A ratio",
+    "the heterodyad-based Tg interaction coefficient is refit within the five-row set; this is not cross-pair validation",
+    "published Barton values were calculated from measured NMR dyads and should not be treated as RR-only predictions"
+  ]
+}

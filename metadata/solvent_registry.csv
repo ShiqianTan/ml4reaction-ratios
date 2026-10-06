@@ -1,0 +1,262 @@
+solvent,solvent_smiles,solvent_id,family
+ethanol,CCO,S0000,alcohol
+"N,N-dimethylformamide",CN(C)C=O,S0001,amide
+benzene,c1ccccc1,S0002,aromatic
+toluene,Cc1ccccc1,S0003,aromatic
+na,[Na+],S0004,other
+chloroform,ClC(Cl)Cl,S0005,halogenated
+acetonitrile,CC#N,S0006,nitrile
+acetone,CC(C)=O,S0007,ketone
+"1,4-dioxane",C1COCCO1,S0008,ether
+Dioxane,C1COCCO1,S0009,ether
+Methanol,CO,S0010,alcohol
+heptane,CCCCCCC,S0011,other
+carbon tetrachloride,ClC(Cl)(Cl)Cl,S0012,other
+bulk,,S0013,bulk
+benzyl alcohol,OCc1ccccc1,S0014,other
+phenol,Oc1ccccc1,S0015,other
+water,O,S0016,water
+dimethylformamide,CN(C)C=O,S0017,amide
+dimethyl sulfoxide,CS(C)=O,S0018,sulfoxide
+anisole,COc1ccccc1,S0019,other
+isopropyl alcohol,CC(C)O,S0020,other
+Acetonitrile,CC#N,S0021,nitrile
+Acetonitrile-Ethanol,CC#N.CCO,S0022,alcohol
+Ethanol,CCO,S0023,alcohol
+tetrahydrofuran,C1CCOC1,S0024,ether
+cyclohexanone,O=C1CCCCC1,S0025,bulk
+2-butanone,CCC(C)=O,S0026,bulk
+methyl ethyl ketone,CCC(C)=O,S0027,other
+dioxane,C1COCCO1,S0028,ether
+hexane,CCCCCC,S0029,alkane
+ammonia,N,S0030,other
+dimethyl formamide,CN(C)C=O,S0031,other
+"N,N-Dimethylformamide",CN(C)C=O,S0032,amide
+tert-butyl alcohol,CC(C)(C)O,S0033,other
+dioxan,C1COCCO1,S0034,other
+2-ethoxyethanol,CCOCCO,S0035,alcohol
+2-methoxyethanol,COCCO,S0036,alcohol
+acetronitrile,,S0037,other
+ethyl acetate,CCOC(C)=O,S0038,other
+R-113,FC(F)(Cl)C(F)(Cl)Cl,S0039,other
+none,,S0040,bulk
+"1,4-Dioxane",C1COCCO1,S0041,ether
+ethyl methyl ketone,CCC(C)=O,S0042,other
+Toluene,Cc1ccccc1,S0043,aromatic
+acetic acid,CC(=O)O,S0044,other
+tert-butanol,CC(C)(C)O,S0045,other
+methanol,CO,S0046,alcohol
+n-hexane,CCCCCC,S0047,alkane
+chlorobenzene,Clc1ccccc1,S0048,aromatic
+p-xylene,Cc1ccc(C)cc1,S0049,aromatic
+n-butyl alcohol,CCCCO,S0050,other
+butyl acetate,CCCCOC(C)=O,S0051,other
+1-butyl-3-methylimidazolium tetrafluoroborate,CCCCn1cc[n+](C)c1.F[B-](F)(F)F,S0052,other
+Dimethylformamide,CN(C)C=O,S0053,amide
+2-Butanone,CCC(C)=O,S0054,bulk
+benzonitrile,N#Cc1ccccc1,S0055,other
+nitrobenzene,O=[N+]([O-])c1ccccc1,S0056,aromatic
+Methyl ethyl ketone,CCC(C)=O,S0057,other
+carbon dioxide,O=C=O,S0058,other
+isopentyl acetate,CC(=O)OCCC(C)C,S0059,other
+methyl formate,COC=O,S0060,other
+acetone-water,CC(C)=O.O,S0061,water
+ethyl alcohol,CCO,S0062,other
+isopropanol,CC(C)O,S0063,other
+dimethyl sulfoxide and dimethylformamide,CN(C)C=O.CS(C)=O,S0064,amide
+Methyl Ethyl Ketone,CCC(C)=O,S0065,other
+dichloromethane,ClCCl,S0066,halogenated
+glacial acetic acid,CC(=O)O,S0067,other
+dimethylsulfoxide,CS(C)=O,S0068,other
+isooctane,CC(C)CC(C)(C)C,S0069,other
+Dimethylformamid,CN(C)C=O,S0070,other
+Dioxan,C1COCCO1,S0071,other
+ethylene chloride,ClCCCl,S0072,other
+Benzene,c1ccccc1,S0073,aromatic
+Anisole,COc1ccccc1,S0074,other
+p-Dioxane,C1COCCO1,S0075,ether
+Ethyl acetate,CCOC(C)=O,S0076,other
+Acetone,CC(C)=O,S0077,ketone
+Tetrahydrofuran,C1CCOC1,S0078,ether
+Dimethyl sulfoxide,CS(C)=O,S0079,sulfoxide
+ethylene glycol carbonate,O=C1OCCO1,S0080,other
+benzol,c1ccccc1,S0081,other
+dodecane,CCCCCCCCCCCC,S0082,other
+n-butanol,CCCCO,S0083,other
+xylene,Cc1ccccc1C,S0084,aromatic
+benzoyl peroxide,O=C(OOC(=O)c1ccccc1)c1ccccc1,S0085,other
+Methyl Isobutyrate,COC(=O)C(C)C,S0086,other
+N-Methylpyrrolidone,CN1CCCC1=O,S0087,other
+Cyclohexane,C1CCCCC1,S0088,alkane
+n-butyl cellosolve,CCCCOCCO,S0089,other
+Methylene chloride,ClCCl,S0090,other
+tert-Butanol,CC(C)(C)O,S0091,other
+tert-Butyl alcohol,CC(C)(C)O,S0092,other
+acetone-dimethylformamide,CC(C)=O.CN(C)C=O,S0093,amide
+zinc chloride aqueous solution,,S0094,other
+dioxane/ethanol,,S0095,alcohol
+acetone-methanol,CC(C)=O.CO,S0096,alcohol
+butanone,CCC(C)=O,S0097,bulk
+"N,N-dimethyl formamide",CN(C)C=O,S0098,other
+tetrachloroethane,ClCC(Cl)(Cl)Cl,S0099,other
+n-heptane,CCCCCCC,S0100,other
+water-acetone,CC(C)=O.O,S0101,water
+N-Methyl-2-pyrrolidone,CN1CCCC1=O,S0102,other
+benzointrile,,S0103,other
+2-Methoxyethanol,COCCO,S0104,alcohol
+Tetrachloroethane,ClC(Cl)C(Cl)Cl,S0105,other
+Thionyl chloride,O=S(Cl)Cl,S0106,other
+"mixture of ethyl acetate and 1,4-dioxane",,S0107,ether
+deuterated dioxane,,S0108,ether
+N-methylformamide,CNC=O,S0109,other
+decalin,C1CCC2CCCCC2C1,S0110,other
+"1,3-dimethoxybenzene",COc1cccc(OC)c1,S0111,aromatic
+ethanol-water,CCO.O,S0112,water
+p-dioxane,C1COCCO1,S0113,ether
+1-butyl-3-methylimidazolium hexafluorophosphate,CCCC[n+]1ccn(C)c1.F[P-](F)(F)(F)(F)F,S0114,other
+hexafluorobenzene,Fc1c(F)c(F)c(F)c(F)c1F,S0115,aromatic
+dioxane and dichloromethane,C1COCCO1.ClCCl,S0116,halogenated
+"1,4-dioxan",C1COCCO1,S0117,other
+methylene chloride,ClCCl,S0118,other
+nitroethane,CC[N+](=O)[O-],S0119,other
+sodium chloride solution,[Cl-].[Na+],S0120,other
+"3,7-dimethyl-1-octene",C=CC(C)CCCC(C)C,S0121,other
+methyl chloride,CCl,S0122,other
+methanol and water,CO.O,S0123,water
+ethanol and water,CCO.O,S0124,water
+isopropanol and water,CC(C)O.O,S0125,water
+t-butanol and water,CC(C)(C)O.O,S0126,water
+"1,2-dichloroethane",ClCCCl,S0127,other
+octane,CCCCCCCC,S0128,other
+dichloromethane/carbon tetrachloride,,S0129,halogenated
+dichloromethane/toluene,,S0130,aromatic
+benzene/methylene chloride,,S0131,aromatic
+methyl chloride-methylcyclohexane,CC1CCCCC1.CCl,S0132,alkane
+cyclohexane,C1CCCCC1,S0133,alkane
+dichloroethane,CC(Cl)Cl,S0134,other
+"N,N-dimethylformamide/water",,S0135,water
+zinc chloride,[Cl-].[Cl-].[Zn+2],S0136,other
+tetrahydrofuran-dioxane,,S0137,ether
+n-heptane-cyclohexane,,S0138,alkane
+dimethylacetamide,CC(=O)N(C)C,S0139,other
+o-dichlorobenzene,Clc1ccccc1Cl,S0140,aromatic
+propylene glycol methyl ether acetate,COCC(C)OC(C)=O,S0141,other
+methylcyclohexane and methyl chloride,,S0142,alkane
+no solvent,,S0143,other
+styrene,C=Cc1ccccc1,S0144,other
+monomer,,S0145,other
+chlorinated hydrocarbons,,S0146,other
+N-methylpyrrolidone,CN1CCCC1=O,S0147,other
+"1,2-dimethoxyethane",COCCOC,S0148,other
+"2,2,2-trifluoroethanol",OCC(F)(F)F,S0149,alcohol
+perfluoro-tert-butanol,OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,S0150,other
+diglyme,COCCOCCOC,S0151,other
+tetralin,c1ccc2c(c1)CCCC2,S0152,other
+liquid sulfur dioxide,,S0153,other
+chloroform-d,[2H]C(Cl)(Cl)Cl,S0154,halogenated
+ethyl chloride,CCCl,S0155,other
+dry chlorobenzene,,S0156,aromatic
+ethylene dichloride,ClCCCl,S0157,other
+"1,2,4-trichlorobenzene",Clc1ccc(Cl)c(Cl)c1,S0158,aromatic
+N-methyl-2-pyrrolidone,CN1CCCC1=O,S0159,other
+"1,1,2,2-tetrachloroethane",ClC(Cl)C(Cl)Cl,S0160,other
+n-hexane/dichloromethane,,S0161,halogenated
+toluene and methanol,CO.Cc1ccccc1,S0162,alcohol
+isobutane,CC(C)C,S0163,other
+1-propanol,CCCO,S0164,other
+ethyl vinyl ether,C=COCC,S0165,other
+formaldehyde,C=O,S0166,other
+2-methyl-2-butanol,CCC(C)(C)O,S0167,other
+methanol-water,CO.O,S0168,water
+iso-octane,CC(C)CC(C)(C)C,S0169,other
+isopar-E,,S0170,other
+hexamethyldisiloxane,C[Si](C)(C)O[Si](C)(C)C,S0171,other
+tert butyl alcohol,CC(C)(C)O,S0172,other
+hydrogenated gasoline,,S0173,other
+methylcyclohexane,CC1CCCCC1,S0174,alkane
+sulfur dioxide,O=S=O,S0175,other
+dimethylformamide/xylene,,S0176,aromatic
+hexane/methyl chloride,,S0177,alkane
+"1,1,1,3,3-pentafluorobutane",CC(F)(F)CC(F)(F)F,S0178,other
+methyl isobutyl ketone,CC(=O)CC(C)C,S0179,other
+"1,1,2-trichlorotrifluoroethane",FC(F)(Cl)C(F)(Cl)Cl,S0180,other
+"70C, toluene",,S0181,aromatic
+"RT, photo, bulk?",,S0182,bulk
+"65C, ethanol/water",,S0183,water
+"65C, 1,4-dioxane",,S0184,ether
+"60C, toluene",,S0185,aromatic
+can't find source,,S0186,other
+"RT, DMF",,S0187,other
+"70C, Methyl ethyl ketone",,S0188,other
+"60C, bulk",,S0189,bulk
+"75C, ethyl 3-ethoxypropionate",,S0190,other
+"80C, toluene",,S0191,aromatic
+"70C, 70/30 dioxane ethanol",,S0192,alcohol
+"60C, ethanol",,S0193,alcohol
+"50C, water",,S0194,water
+"60C, water",,S0195,water
+benzene?,,S0196,aromatic
+"water??, pH 4",,S0197,water
+water??,,S0198,water
+"45C, DMF",,S0199,other
+"60C, DMF",,S0200,other
+"70C, benzene",,S0201,aromatic
+"60C, p-dioxane",,S0202,ether
+"50C, p-dioxane",,S0203,ether
+"50C, acetone",,S0204,ketone
+"80C, bulk?",,S0205,bulk
+"50C, chloroform, high pressure",,S0206,halogenated
+"62C, DMF",,S0207,other
+"60C, benzene?",,S0208,aromatic
+"30C, THF",,S0209,ether
+"30C, ethyl acetate",,S0210,other
+"20C, bulk",,S0211,bulk
+"60C, benzene",,S0212,aromatic
+50C,,S0213,other
+"80C, emulsion in water",,S0214,water
+"20C, unknown",,S0215,other
+"60C, methyl ethyl ketone",,S0216,other
+60C,,S0217,other
+"60C, dioxane",,S0218,ether
+THF,,S0219,ether
+m-xylene,,S0220,aromatic
+bulk/unrecorded,,S0221,bulk
+"393K, acetonitrile",,S0222,nitrile
+"65C, ethanol?",,S0223,alcohol
+DMSO,,S0224,sulfoxide
+"60C, benzene/bulk?",,S0225,bulk
+"75C, benzene",,S0226,aromatic
+"70C, DMF",,S0227,other
+"100C, toluene",,S0228,aromatic
+"323K, THF",,S0229,ether
+"40C, bulk",,S0230,bulk
+"50C, bulk",,S0231,bulk
+"50C, benzene",,S0232,aromatic
+"RT, photo, bulk",,S0233,bulk
+"70C, p-dioxane",,S0234,ether
+"40C, toluence",,S0235,other
+"68C, methyl ethyl ketone",,S0236,other
+emulsion?,,S0237,other
+"70C, acetone/bulk?",,S0238,bulk
+70C,,S0239,other
+"65C, water",,S0240,water
+"70C, cyclohexanone?",,S0241,bulk
+bulk?,,S0242,bulk
+"60C, methanol",,S0243,alcohol
+65C,,S0244,other
+"65C, ethanol",,S0245,alcohol
+"70C, cyclohexanone",,S0246,bulk
+50?,,S0247,other
+"70C, ethanol",,S0248,alcohol
+"74C, bulk",,S0249,bulk
+"50C, acetone, high pressure",,S0250,ketone
+"60C, bulk/unknown?",,S0251,bulk
+"60C, toluene?",,S0252,aromatic
+"75C, benzene/bulk?",,S0253,bulk
+"RT, light, bulk",,S0254,bulk
+benzene/bulk?,,S0255,bulk
+"60C, toluene/bulk?",,S0256,bulk
+DMF,,S0257,other
+bulk/benzene,,S0258,bulk
+ethanol?,,S0259,alcohol
+suspension poly.,,S0260,other

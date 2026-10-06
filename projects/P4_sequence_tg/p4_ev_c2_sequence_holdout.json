@@ -1,0 +1,42 @@
+{
+  "test": "conditional terminal-model prediction of Sample 3 sequence from Sample 2 C2 RR",
+  "training_sample": 2,
+  "target_sample": 3,
+  "input_rr": {
+    "rE": 14.0,
+    "rV": 0.14
+  },
+  "target_polymer_v_mol_pct_reported": 18.1,
+  "effective_feed_v_inverted_from_target_composition_not_measured_feed": 72.8297767861393,
+  "predicted_dyads_pct": {
+    "EE": 68.73894766597408,
+    "EV": 26.322104668051804,
+    "VV": 4.938947665974101
+  },
+  "observed_dyads_sample3_pct": {
+    "EE": 68.5,
+    "EV": 26.5,
+    "VV": 5.0
+  },
+  "dyad_mae_percentage_points": 0.15929844398272405,
+  "dyad_rmse_percentage_points": 0.1755658695888126,
+  "predicted_triads_pct": {
+    "EEE": 57.69283182204548,
+    "EEV": 22.092231687857215,
+    "VEV": 2.1149364900972976,
+    "EVE": 9.569795499390535,
+    "EVV": 7.182513669270742,
+    "VVV": 1.3476908313387306
+  },
+  "observed_triads_sample3_pct": {
+    "EEE": 58.099999999999994,
+    "EEV": 21.0,
+    "VEV": 2.9000000000000004,
+    "EVE": 10.299999999999999,
+    "EVV": 6.1,
+    "VVV": 1.6
+  },
+  "triad_mae_percentage_points": 0.7249151190426523,
+  "triad_rmse_percentage_points": 0.7899129776055333,
+  "scope_note": "Sequence-only holdout conditional on reported target polymer composition; not a fully blind feed-to-polymer prediction. RR are rounded table values and are themselves estimated from Sample 2 NMR sequence data."
+}

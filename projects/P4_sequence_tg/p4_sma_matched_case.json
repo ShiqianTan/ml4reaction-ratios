@@ -1,0 +1,44 @@
+{
+  "source": "Brar & Sunita, Indian Journal of Chemistry 31A (1992), 903-908",
+  "n_transcribed": 6,
+  "n_with_experimental_Tg": 3,
+  "RR": {
+    "r_styrene": 1.2,
+    "r_methyl_acrylate": 0.18,
+    "method": "Kelen-Tudos",
+    "product": 0.216
+  },
+  "conditions": "bulk polymerization at 70 C, BPO 0.5 wt%, 5-10% conversion",
+  "RR_heterodyad_MAE_vs_NMR_at_reported_feed": 0.26621842546131197,
+  "RR_heterodyad_MAE_vs_NMR_composition_constrained": 0.23292925366708217,
+  "measured_Tg_LOO_metrics": {
+    "Fox_from_NMR_dyad_composition": {
+      "n": 3,
+      "MAE_K": 2.775372717482734,
+      "RMSE_K": 2.854372596147506
+    },
+    "measured_NMR_dyad_interaction": {
+      "n": 3,
+      "MAE_K": 1.365171588993159,
+      "RMSE_K": 1.4686375805528482
+    },
+    "RR_dyad_at_reported_feed": {
+      "n": 3,
+      "MAE_K": 3.6971840040554675,
+      "RMSE_K": 3.9958623157852413
+    },
+    "RR_dyad_composition_constrained": {
+      "n": 3,
+      "MAE_K": 1.3649536843076742,
+      "RMSE_K": 1.4794271026579084
+    }
+  },
+  "cautions": [
+    "only three samples have measured DSC Tg, all from one paper and one monomer pair",
+    "RR are system-level estimates from the same low-conversion study, not refit within each Tg fold",
+    "measured NMR dyad and feed compositions are used as reported; NMR-derived composition follows xS=FSS+FSA/2",
+    "composition-constrained RR dyads invert Mayo-Lewis F1 to match NMR-derived polymer composition; this is a sensitivity analysis, not independent feed measurement",
+    "one heterodyad Tg interaction parameter is fit on two Tg observations per fold; all LOO errors are highly unstable at n=3",
+    "Table 4 Barton values are included for audit but are not independent predictions because they use measured sequence data"
+  ]
+}

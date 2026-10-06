@@ -1,0 +1,60 @@
+{
+  "n_init": 120,
+  "batch": 30,
+  "n_rounds": 12,
+  "n_seeds": 3,
+  "n_test_rows": 831,
+  "random": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.241,
+    "MAE_final_std": 0.047,
+    "improvement": 0.014,
+    "NLL_final": 1.949,
+    "coverage95_final": 0.94,
+    "normalised_improvement": 0.175
+  },
+  "uncertainty": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.211,
+    "MAE_final_std": 0.051,
+    "improvement": 0.045,
+    "NLL_final": 1.926,
+    "coverage95_final": 0.934,
+    "normalised_improvement": 0.564
+  },
+  "diversity": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.215,
+    "MAE_final_std": 0.043,
+    "improvement": 0.04,
+    "NLL_final": 1.925,
+    "coverage95_final": 0.934,
+    "normalised_improvement": 0.509
+  },
+  "unc+div": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.185,
+    "MAE_final_std": 0.04,
+    "improvement": 0.071,
+    "NLL_final": 1.901,
+    "coverage95_final": 0.933,
+    "normalised_improvement": 0.89
+  },
+  "physics-prior": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.254,
+    "MAE_final_std": 0.017,
+    "improvement": 0.001,
+    "NLL_final": 1.952,
+    "coverage95_final": 0.932,
+    "normalised_improvement": 0.015
+  },
+  "greedy-oracle": {
+    "MAE_init_mean": 1.255,
+    "MAE_final_mean": 1.176,
+    "MAE_final_std": 0.038,
+    "improvement": 0.079,
+    "NLL_final": 1.879,
+    "coverage95_final": 0.942
+  }
+}

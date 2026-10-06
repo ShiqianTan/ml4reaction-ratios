@@ -1,0 +1,26 @@
+{
+  "n_pairs": 254,
+  "n_rows": 1270,
+  "gamma_sim": 0.15,
+  "sigma_sim": 3.0,
+  "baseline_Fox_MAE_C": 4.194,
+  "baseline_Fox_RMSE_C": 5.934,
+  "delta_ridge": {
+    "MAE_C": 3.24,
+    "RMSE_C": 4.218,
+    "R2_residual": 0.431
+  },
+  "delta_rf": {
+    "MAE_C": 3.017,
+    "RMSE_C": 3.904,
+    "R2_residual": 0.513
+  },
+  "top_features_ridge": {
+    "alternation": 5.2866,
+    "blockiness": 5.2866,
+    "P21": 3.4617,
+    "P22": 3.4617,
+    "dyad_22": 3.3878,
+    "dyad_21": 2.3966
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "source": "Patil & Won, Macromolecules 2024, DOI 10.1021/acs.macromol.4c00106",
+  "n_samples": 12,
+  "n_composition_groups": 4,
+  "analysis": "exact within-composition permutation; exploratory, one chemistry pair",
+  "tests": [
+    {
+      "feature": "blockiness",
+      "within_composition_pearson_r": 0.6396152159343829,
+      "within_composition_slope_C_per_feature_unit": 1.630104344932496,
+      "exact_two_sided_p": 0.022376543209876542,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.08950617283950617
+    },
+    {
+      "feature": "alternation",
+      "within_composition_pearson_r": -0.8287248288876072,
+      "within_composition_slope_C_per_feature_unit": -52.78598470789102,
+      "exact_two_sided_p": 0.006944444444444444,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.041666666666666664
+    },
+    {
+      "feature": "LL",
+      "within_composition_pearson_r": 0.8239291693828232,
+      "within_composition_slope_C_per_feature_unit": 1.554543441304249,
+      "exact_two_sided_p": 0.006944444444444444,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.041666666666666664
+    },
+    {
+      "feature": "LG",
+      "within_composition_pearson_r": 0.6411988367583846,
+      "within_composition_slope_C_per_feature_unit": 0.8156500833459163,
+      "exact_two_sided_p": 0.022376543209876542,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.08950617283950617
+    },
+    {
+      "feature": "feed_rate",
+      "within_composition_pearson_r": 0.7552318744967581,
+      "within_composition_slope_C_per_feature_unit": 44.70192307692306,
+      "exact_two_sided_p": 0.02854938271604938,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.08950617283950617
+    },
+    {
+      "feature": "dispersity",
+      "within_composition_pearson_r": -0.0348077900309435,
+      "within_composition_slope_C_per_feature_unit": -0.9596662030597946,
+      "exact_two_sided_p": 0.9259259259259259,
+      "permutations": 1296,
+      "holm_adjusted_p": 0.9259259259259259
+    }
+  ],
+  "matched_extreme_feed_contrasts": [
+    {
+      "wL": 0.4,
+      "high_feed_rate": 0.1,
+      "low_feed_rate": 0.03,
+      "delta_Tg_low_minus_high_C": -3.75,
+      "delta_blockiness_low_minus_high": -2.6000000000000005,
+      "delta_alternation_low_minus_high": 0.07500000000000001,
+      "delta_dispersity_low_minus_high": -0.020000000000000018
+    },
+    {
+      "wL": 0.5,
+      "high_feed_rate": 0.1,
+      "low_feed_rate": 0.03,
+      "delta_Tg_low_minus_high_C": -1.8399999999999963,
+      "delta_blockiness_low_minus_high": -1.7499999999999998,
+      "delta_alternation_low_minus_high": 0.08000000000000002,
+      "delta_dispersity_low_minus_high": 0.22999999999999998
+    },
+    {
+      "wL": 0.6,
+      "high_feed_rate": 0.1,
+      "low_feed_rate": 0.03,
+      "delta_Tg_low_minus_high_C": -4.18,
+      "delta_blockiness_low_minus_high": -0.47,
+      "delta_alternation_low_minus_high": 0.04200000000000001,
+      "delta_dispersity_low_minus_high": 0.08999999999999986
+    },
+    {
+      "wL": 0.7,
+      "high_feed_rate": 0.1,
+      "low_feed_rate": 0.03,
+      "delta_Tg_low_minus_high_C": -4.359999999999999,
+      "delta_blockiness_low_minus_high": -0.6100000000000001,
+      "delta_alternation_low_minus_high": 0.04899999999999999,
+      "delta_dispersity_low_minus_high": -0.08999999999999986
+    }
+  ],
+  "limitations": [
+    "one monomer pair and four composition groups only",
+    "feed rate changes sequence and may change other polymerization outcomes",
+    "molecular-weight dispersity is available, but absolute molecular weights are not in this extracted table",
+    "sequence/Tg observations are from one published study, not a prospective validation"
+  ]
+}

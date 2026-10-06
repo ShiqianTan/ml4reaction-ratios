@@ -1,0 +1,4 @@
+sample,catalyst,nmol_Hf,VCH_mL,polymerization_time_s,yield_mg,temperature_C,ethylene_pressure_psi,cocatalyst_MAO_to_BHT
+1,C1,6,1.00,520,149,80,80,1:0.4
+2,C2,6,2.00,1800,100,80,80,1:0.4
+3,C2,1,0.75,2300,82,80,80,1:0.4

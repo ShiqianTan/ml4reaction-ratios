@@ -1,0 +1,18 @@
+{
+  "n_loose_series": 178,
+  "n_loose_pairs": 67,
+  "n_strict_series": 172,
+  "n_strict_pairs": 66,
+  "n_significant_p05": 92,
+  "pct_significant_p05": 51.7,
+  "median_r2": 0.401,
+  "median_span_K": 50.0,
+  "median_dH_kJ_mol": 0.0,
+  "IQR_dH_kJ_mol": [
+    -7.42,
+    8.5
+  ],
+  "median_dS_J_molK": -2.39,
+  "compensation_slope_K": 325.6,
+  "compensation_r2": 0.986
+}

@@ -1,0 +1,18 @@
+{
+  "N_raw_measurements": 12992,
+  "N_unique_measurements_dedup": 5742,
+  "N_unique_pairs": 2633,
+  "N_unique_monomers": 1218,
+  "N_condition_complete": 3225,
+  "N_quality_A_B": 3326,
+  "N_quality_A": 211,
+  "N_quality_B": 3115,
+  "N_quality_C": 164,
+  "N_quality_D": 2252,
+  "N_dup_groups_multi_source": 302,
+  "pct_condition_complete": 56.2,
+  "P2_groups_ge3_temperatures": 101,
+  "P2_groups_ge4_temperatures": 41,
+  "P2_median_temperature_span_K": 45.0,
+  "P2_groups_ge3_with_span_ge30K": 76
+}

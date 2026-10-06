@@ -1,0 +1,37 @@
+{
+  "dH_ridge": {
+    "n": 172,
+    "MAE": 21.325,
+    "R2": -0.132,
+    "MAE_vs_mean": 18.433
+  },
+  "dH_rf": {
+    "n": 172,
+    "MAE": 19.325,
+    "R2": -0.027,
+    "MAE_vs_mean": 18.433
+  },
+  "dS_ridge": {
+    "n": 172,
+    "MAE": 63.766,
+    "R2": -0.108,
+    "MAE_vs_mean": 56.094
+  },
+  "dS_rf": {
+    "n": 172,
+    "MAE": 59.085,
+    "R2": -0.034,
+    "MAE_vs_mean": 56.094
+  },
+  "dH_ridge_significant_only": {
+    "n": 89,
+    "R2": -0.486,
+    "MAE_vs_mean": 25.616
+  },
+  "dS_ridge_significant_only": {
+    "n": 89,
+    "R2": -0.427,
+    "MAE_vs_mean": 76.277
+  },
+  "dH_sign_accuracy_ridge": 0.5
+}

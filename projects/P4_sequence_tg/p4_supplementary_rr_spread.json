@@ -1,0 +1,11 @@
+{
+  "n_pairs": 40,
+  "pairs_with_multiple_cited_sources": 24,
+  "citation_RR_width90_at_f05_median": 0.15532817856663325,
+  "citation_RR_width90_at_f05_q75": 0.2624645346366806,
+  "composition_only_width90_median": 0.2779180448273011,
+  "composition_only_width90_q75": 0.3654146432483711,
+  "legacy_mixed_width90_median": 0.3198952942603245,
+  "legacy_mixed_width90_q75": 0.4429223571312556,
+  "caution": "The legacy mixed width combines RR/source and sample composition variation. The two separated widths are not additive, and citation-source spread is not a confidence interval."
+}

@@ -1,0 +1,268 @@
+{
+  "rr_condition_audit": {
+    "n_rr_rows": 495,
+    "n_tg_pairs_with_rr": 40,
+    "n_rr_rows_with_bibliographic_source": 378,
+    "n_distinct_bibliographic_sources": 185,
+    "n_source_pair_medians": 251,
+    "n_pairs_with_multiple_sources": 24,
+    "cross_citation_dyad_width90_at_f05_median": 0.1554047281732757,
+    "cross_citation_dyad_width90_at_f05_q75": 0.2628014553197654,
+    "composition_only_dyad_width90_median": 0.2779180448273011,
+    "composition_only_dyad_width90_q75": 0.3654146432483711,
+    "legacy_mixed_width90_median": 0.3198952942603245,
+    "legacy_mixed_width90_q75": 0.4429223571312556,
+    "legacy_width_note": "reproduced prior calculation pools source medians and each Tg sample composition in one distribution; it is not a source-only RR spread",
+    "metadata_coverage": {
+      "nominal_temperature_K": {
+        "known_rows": 353,
+        "rows": 495,
+        "known_fraction": 0.7131313131313132,
+        "levels_including_unknown": 5,
+        "top_levels": {
+          "324-348K": 165,
+          "unknown": 142,
+          "299-323K": 85,
+          "<=298K": 55,
+          ">=349K": 48
+        }
+      },
+      "solvent_family": {
+        "known_rows": 371,
+        "rows": 495,
+        "known_fraction": 0.7494949494949495,
+        "levels_including_unknown": 13,
+        "top_levels": {
+          "other": 158,
+          "unknown": 124,
+          "aromatic": 75,
+          "water": 65,
+          "bulk": 17,
+          "ether": 15,
+          "amide": 11,
+          "alcohol": 10,
+          "halogenated": 7,
+          "sulfoxide": 7,
+          "ketone": 4,
+          "nitrile": 1
+        }
+      },
+      "fitting_method_grouped": {
+        "known_rows": 269,
+        "rows": 495,
+        "known_fraction": 0.5434343434343434,
+        "levels_including_unknown": 7,
+        "top_levels": {
+          "unknown": 226,
+          "Other": 127,
+          "Fineman-Ross": 43,
+          "Kelen-Tudos": 41,
+          "Errors-in-variables": 30,
+          "Nonlinear regression": 16,
+          "Mayo-Lewis": 12
+        }
+      },
+      "polymerization_method": {
+        "known_rows": 316,
+        "rows": 495,
+        "known_fraction": 0.6383838383838384,
+        "levels_including_unknown": 12,
+        "top_levels": {
+          "unknown": 179,
+          "solvent": 157,
+          "bulk": 96,
+          "emulsion": 32,
+          "suspension": 13,
+          "microemulsion": 6,
+          "solution": 3,
+          "pulsed laser polymerization": 3,
+          "surface-initiated": 2,
+          "sealed tube": 2,
+          "semicontinuous": 1,
+          "electroinitiation": 1
+        }
+      }
+    },
+    "within_pair_condition_decomposition": {
+      "nominal_temperature_K": {
+        "n_rows": 323,
+        "n_strata": 22,
+        "n_factor_levels": 4,
+        "within_pair_ss": 4.75711351206389,
+        "factor_explained_fraction": 0.07929914123329558,
+        "singleton_pair_factor_cells_excluded": 30,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "solvent_family": {
+        "n_rows": 326,
+        "n_strata": 23,
+        "n_factor_levels": 10,
+        "within_pair_ss": 5.052350928505466,
+        "factor_explained_fraction": 0.05106422124659293,
+        "singleton_pair_factor_cells_excluded": 45,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "fitting_method_grouped": {
+        "n_rows": 236,
+        "n_strata": 22,
+        "n_factor_levels": 6,
+        "within_pair_ss": 2.4545328138410047,
+        "factor_explained_fraction": 0.12603421234802767,
+        "singleton_pair_factor_cells_excluded": 33,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "polymerization_method": {
+        "n_rows": 281,
+        "n_strata": 22,
+        "n_factor_levels": 6,
+        "within_pair_ss": 4.6073264168054395,
+        "factor_explained_fraction": 0.06541633044020025,
+        "singleton_pair_factor_cells_excluded": 35,
+        "factor_explained_fraction_including_unknown": false
+      }
+    },
+    "within_pair_and_citation_condition_decomposition": {
+      "nominal_temperature_K": {
+        "n_rows": 170,
+        "n_strata": 63,
+        "n_factor_levels": 4,
+        "within_pair_ss": 1.0363676615747353,
+        "factor_explained_fraction": 0.0,
+        "singleton_pair_factor_cells_excluded": 177,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "solvent_family": {
+        "n_rows": 174,
+        "n_strata": 63,
+        "n_factor_levels": 8,
+        "within_pair_ss": 1.2580719414860593,
+        "factor_explained_fraction": 0.0015207646147473643,
+        "singleton_pair_factor_cells_excluded": 197,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "fitting_method_grouped": {
+        "n_rows": 128,
+        "n_strata": 47,
+        "n_factor_levels": 6,
+        "within_pair_ss": 0.8011960690328166,
+        "factor_explained_fraction": 0.0001040919820602963,
+        "singleton_pair_factor_cells_excluded": 141,
+        "factor_explained_fraction_including_unknown": false
+      },
+      "polymerization_method": {
+        "n_rows": 174,
+        "n_strata": 65,
+        "n_factor_levels": 6,
+        "within_pair_ss": 1.1019535927396225,
+        "factor_explained_fraction": 0.03900138614577471,
+        "singleton_pair_factor_cells_excluded": 142,
+        "factor_explained_fraction_including_unknown": false
+      }
+    },
+    "interpretation": "each one-factor fraction is the reduction in within-stratum sum of squares explained by condition-cell means, using only replicated stratum-condition cells; factors overlap and shares are not additive",
+    "limitations": [
+      "condition fields are incomplete and strongly confounded with source",
+      "source-controlled condition decomposition has low coverage because conditions rarely vary within a cited pair; inspect its row/group counts",
+      "source aggregation can combine multiple conditions and fitting choices",
+      "nominal temperature levels are rounded to 1 K; unreported conditions are an explicit category",
+      "the decomposition is descriptive, not causal, and is not a measurement-error model"
+    ]
+  },
+  "tg_source_holdout": {
+    "holdout_styrenic": {
+      "all_rows": {
+        "fox": {
+          "n": 48,
+          "MAE_K": 14.509567773416926,
+          "RMSE_K": 18.010281433354596
+        },
+        "rf_comp": {
+          "n": 48,
+          "MAE_K": 17.845359411599123,
+          "RMSE_K": 20.853090404991026,
+          "delta_MAE_vs_Fox_K": 3.3357916381821973
+        },
+        "rf_comp_seq": {
+          "n": 48,
+          "MAE_K": 17.635682016564534,
+          "RMSE_K": 20.73613219472375,
+          "delta_MAE_vs_Fox_K": 3.126114243147608
+        }
+      },
+      "strict_no_pair_overlap": {
+        "fox": {
+          "n": 18,
+          "MAE_K": 23.566045636303343,
+          "RMSE_K": 25.850487578216757
+        },
+        "rf_comp": {
+          "n": 18,
+          "MAE_K": 23.79302425055798,
+          "RMSE_K": 26.062934485652203,
+          "delta_MAE_vs_Fox_K": 0.22697861425463728
+        },
+        "rf_comp_seq": {
+          "n": 18,
+          "MAE_K": 23.526935951879043,
+          "RMSE_K": 25.902648811479924,
+          "delta_MAE_vs_Fox_K": -0.039109684424300184
+        }
+      },
+      "n_train_rows": 162,
+      "n_test_rows": 48,
+      "n_test_pairs": 7,
+      "overlapping_pairs_removed_in_strict": 5,
+      "strict_test_rows": 18,
+      "strict_test_pairs": 2
+    },
+    "holdout_tgvalue": {
+      "all_rows": {
+        "fox": {
+          "n": 162,
+          "MAE_K": 7.7269405630617545,
+          "RMSE_K": 10.111320237782556
+        },
+        "rf_comp": {
+          "n": 162,
+          "MAE_K": 12.44644845067196,
+          "RMSE_K": 15.625211899973248,
+          "delta_MAE_vs_Fox_K": 4.719507887610206
+        },
+        "rf_comp_seq": {
+          "n": 162,
+          "MAE_K": 12.97487836276229,
+          "RMSE_K": 15.872031553354386,
+          "delta_MAE_vs_Fox_K": 5.247937799700535
+        }
+      },
+      "strict_no_pair_overlap": {
+        "fox": {
+          "n": 137,
+          "MAE_K": 7.655957460713548,
+          "RMSE_K": 10.209568331217982
+        },
+        "rf_comp": {
+          "n": 137,
+          "MAE_K": 12.134147993419294,
+          "RMSE_K": 15.68346653611994,
+          "delta_MAE_vs_Fox_K": 4.478190532705746
+        },
+        "rf_comp_seq": {
+          "n": 137,
+          "MAE_K": 12.612998820276227,
+          "RMSE_K": 15.773689754304202,
+          "delta_MAE_vs_Fox_K": 4.9570413595626786
+        }
+      },
+      "n_train_rows": 48,
+      "n_test_rows": 162,
+      "n_test_pairs": 38,
+      "overlapping_pairs_removed_in_strict": 5,
+      "strict_test_rows": 137,
+      "strict_test_pairs": 33
+    },
+    "overlap_pair_count": 5,
+    "n_sources": 2,
+    "interpretation": "only two Tg data sources are present; strict holdout removes any test monomer pair seen in training, so it is an intentionally small and noisy source-transfer check"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "homopolymer": {
+    "random_ridge": {
+      "MAE_C": 31.9,
+      "RMSE_C": 43.28,
+      "R2": 0.801
+    },
+    "random_rf": {
+      "MAE_C": 21.17,
+      "RMSE_C": 32.58,
+      "R2": 0.887
+    },
+    "scaffold_ridge": {
+      "MAE_C": 42.15,
+      "RMSE_C": 55.38,
+      "R2": 0.675
+    },
+    "scaffold_rf": {
+      "MAE_C": 34.44,
+      "RMSE_C": 48.34,
+      "R2": 0.752
+    }
+  },
+  "alt_copolymer": {
+    "random_ridge": {
+      "MAE_C": 41.67,
+      "RMSE_C": 54.73,
+      "R2": 0.432
+    },
+    "random_rf": {
+      "MAE_C": 42.67,
+      "RMSE_C": 55.62,
+      "R2": 0.414
+    },
+    "scaffold_ridge": {
+      "MAE_C": 53.06,
+      "RMSE_C": 71.87,
+      "R2": 0.021
+    },
+    "scaffold_rf": {
+      "MAE_C": 52.6,
+      "RMSE_C": 69.55,
+      "R2": 0.083
+    }
+  }
+}
