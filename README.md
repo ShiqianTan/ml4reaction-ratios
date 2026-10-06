@@ -359,15 +359,50 @@ Components (all runnable):
    why item 4's near-random pairs showed no sequence signal (their dyads ≈
    ideal-random, so Fox ≈ Barton).
 
-   **Headline (P4, definitive):** the full RR → sequence → Tg chain is now
-   *validated end-to-end on real data* — RR predicts NMR dyads (5 % MAE), and
-   those dyads drive a Barton model that halves Fox error on alternating
-   systems. The sequence effect on Tg is **real but system-specific**, governed
-   by the sign of `Tg_AB − (Tg_AA+Tg_BB)/2`.
+   **Headline (mechanism-level):** the RR → sequence → Tg chain is
+   *mechanistically validated* — RR predicts NMR dyads (5 % MAE), and those
+   dyads drive a Barton model that halves Fox error on the Johnston systems.
+   This is a **within-system descriptive comparison** (the `Tg_AB` parameter is
+   reused from the same systems), *not* an independent cross-system prediction.
+
+6. **Supplementary matched-case validation + novelty pressure test** — the
+   sharpened, defensible P4 mainline. Full record:
+   `projects/P4_sequence_tg/P4_supplementary_experiments.md` (S0–S12),
+   `sequence_tg_literature_case_audit.md`, `p4_two_stage_evidence_matrix.csv`.
+
+   * **Novelty boundary.** "Sequence affects Tg" and "RR-derived dyads correct
+     Tg" are **not new** (Barton 1970 — 11 systems; SAN 2000; S/EA 1993;
+     AN/EA 1992; MMA/EA 2001 report conversion-dependent NMR-vs-RR dyads).
+     The defensible claim is the **two-stage error-propagation + applicability
+     boundary**: (i) can RR + available feed/composition predict NMR dyads, and
+     (ii) do the resulting sequence errors × dyad-Tg leverage yield a
+     *transferable* Fox improvement under leave-source / leave-pair splits?
+   * **Matched cases (mixed, no blind cross-pair success yet):** SAN
+     microemulsion (5 Tg points) RR→heterodyad MAE 0.082, leave-one-out Fox
+     3.22 °C vs RR-dyad 1.07 °C (**positive**); S/MA bulk (3 Tg points)
+     RR-dyad Tg *worse* than Fox (3.70 vs 2.78 K, **negative boundary**); E/V
+     2026 cross-sample (Sample 2→3) dyad MAE 0.159 pp / triad 0.725 pp but fixes
+     the target final composition (**conditional**, not blind).
+   * **External consistency:** PLGA 2024 (12 samples, 4 fixed compositions)
+     shows within-composition alternation↔Tg association (Holm-corrected
+     p = 0.042) but is ring-opening, not radical.
+   * **Regime map** (`p4_sequence_regime_map.csv`): sequence leverage
+     `ΔTg_seq ≈ ΔH × ΔT_AB` (departure from Bernoulli × dyad-Tg interaction)
+     bounds the effect to −9.5…+4.5 K over the Johnston 5 systems — only systems
+     with both large `ΔH` *and* large `ΔT_AB` can expect a visible sequence
+     correction.
+   * **Positioning:** a bounded matched-case synthesis / method validation, not
+     a generalisation claim (no cross-pair, no-target-leakage end-to-end
+     success yet; minimum bar in S12).
 
 Scripts: `src/p4_sequence.py`, `src/p4_tg_data.py`, `src/p4_tg_model.py`,
 `src/p4_delta_learning.py`, `src/p4_real_sequence_tg.py`,
-`src/p4_sequence_tg_validation.py`; outputs under `projects/P4_sequence_tg/`.
+`src/p4_sequence_tg_validation.py`, `src/p4_supplementary_plga.py`,
+`src/p4_supplementary_feed_sensitivity.py`, `src/p4_supplementary_rr_spread.py`,
+`src/p4_condition_and_source_cv.py`, `src/p4_literature_SAN_case.py`,
+`src/p4_literature_SMA_case.py`, `src/p4_ev_c2_sequence_holdout.py`,
+`src/p4_sequence_regime_map.py`; outputs under `projects/P4_sequence_tg/`.
+Report: `projects/P4_sequence_tg/P4_report.md`.
 
 ---
 
@@ -383,6 +418,14 @@ Scripts: `src/p4_sequence.py`, `src/p4_tg_data.py`, `src/p4_tg_model.py`,
 
 ## Change log
 
+* **2026-10-06** — P4 supplementary matched-case validation + novelty pressure
+  test (S0–S12): literature audit shows "sequence affects Tg" and "RR-derived
+  dyads correct Tg" are **not new** (Barton 1970, SAN 2000, S/EA 1993, AN/EA
+  1992, MMA/EA 2001); reframed the P4 mainline to a **two-stage
+  error-propagation + applicability boundary** study. Added matched cases SAN
+  (positive), S/MA (negative), E/V 2026 (conditional cross-sample), PLGA 2024
+  (external), plus a sequence-leverage regime map (`ΔTg_seq ≈ ΔH × ΔT_AB`).
+  Updated `P4_report.md` and README P4 §6.
 * **2026-10-05** — scaffolded project; Stage A–G pipeline → RRMaster v1;
   Phase-2 feasibility (P1 GO, P2 conditional GO); P1 benchmark smoke run.
 * **2026-10-05** — completed P1 full benchmark (random/pair/one- & both-monomer
